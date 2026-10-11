@@ -1,0 +1,293 @@
+{
+  "checkedOn": "2026-10-09",
+  "purpose": "Phase 0 access/count audit; not a cleaned app data snapshot",
+  "referenceCommit": "cf17a481bea2cbbcb98142274bfa6fede9df6529",
+  "noaa2019": {
+    "station": "USW00013958",
+    "dailyRows": 365,
+    "temperatureMaxCount": 365,
+    "temperatureMinCount": 365,
+    "precipitationCount": 365
+  },
+  "power2019": {
+    "dailyRows": 365,
+    "parameters": [
+      "ALLSKY_SFC_SW_DWN",
+      "T2M",
+      "PRECTOTCORR"
+    ],
+    "timeStandard": "UTC"
+  },
+  "cyan2018List": {
+    "waterbodyRows": 2370,
+    "ladyBirdLakeFound": false,
+    "townLakeTexasFound": false,
+    "lakeAustinFound": true
+  },
+  "wqpBoundingBox": {
+    "bbox": [
+      -97.8,
+      30.23,
+      -97.7,
+      30.3
+    ],
+    "stations": 204,
+    "nameMatchesLadyBirdOrTownLake": 58
+  },
+  "wqpSiteAC": {
+    "site": "USGS-301500097424801",
+    "periodOfRecordRows": 2223,
+    "resultCount": 12729,
+    "years": [
+      1975,
+      2018
+    ]
+  },
+  "austinLakeHab": {
+    "measurementRows": 8212,
+    "siteIds": 23,
+    "siteCalendarDays": 481,
+    "siteTimestamps": 708
+  },
+  "usgs2019": [
+    {
+      "parameter": "00010",
+      "countsByLocationSeries": [
+        0
+      ]
+    },
+    {
+      "parameter": "00060",
+      "countsByLocationSeries": [
+        365
+      ]
+    },
+    {
+      "parameter": "00065",
+      "countsByLocationSeries": [
+        0,
+        365
+      ]
+    }
+  ],
+  "lcraLevelProbe": {
+    "siteId": 4543,
+    "siteName": "Lady Bird Lake near Longhorn Dam",
+    "isHourly": true,
+    "value1Type": "Stage",
+    "value2Type": "Tail",
+    "rows": 193,
+    "firstUTC": "2026-10-01T05:00:00Z",
+    "lastUTC": "2026-10-09T05:00:00Z",
+    "licence": "unverified"
+  },
+  "nhdLake": {
+    "OBJECTID": 1712904,
+    "PERMANENT_IDENTIFIER": "92669797",
+    "FDATE": 1363697048000,
+    "RESOLUTION": 2,
+    "GNIS_ID": "01376484",
+    "GNIS_NAME": "Lady Bird Lake",
+    "AREASQKM": 1.9620000000000002,
+    "ELEVATION": 130.5,
+    "REACHCODE": "12090205006698",
+    "FTYPE": 390,
+    "FCODE": 39009,
+    "VISIBILITYFILTER": 5000000,
+    "SHAPE_Length": 32935.93466804792,
+    "SHAPE_Area": 2638145.2140357774,
+    "GLOBALID": "{8ED28EA1-4CB6-11E1-BCF4-0021280458E6}"
+  },
+  "sentinel-stac": {
+    "features": 12,
+    "sceneDays": 12,
+    "items": [
+      {
+        "id": "S2B_MSIL2A_20190830T165849_N0500_R069_T14RPU_20230523T153309",
+        "datetime": "2019-08-30T16:58:49.024000Z",
+        "cloudCover": 59.41
+      },
+      {
+        "id": "S2A_MSIL2A_20190828T170851_N0500_R112_T14RPU_20230523T215618",
+        "datetime": "2019-08-28T17:08:51.024000Z",
+        "cloudCover": 63.06
+      },
+      {
+        "id": "S2A_MSIL2A_20190825T165851_N0500_R069_T14RPU_20230501T003353",
+        "datetime": "2019-08-25T16:58:51.024000Z",
+        "cloudCover": 25.7
+      },
+      {
+        "id": "S2B_MSIL2A_20190823T170859_N0500_R112_T14RPU_20230504T234547",
+        "datetime": "2019-08-23T17:08:59.024000Z",
+        "cloudCover": 51.95
+      },
+      {
+        "id": "S2B_MSIL2A_20190820T165849_N0500_R069_T14RPU_20230720T172353",
+        "datetime": "2019-08-20T16:58:49.024000Z",
+        "cloudCover": 28.16
+      },
+      {
+        "id": "S2A_MSIL2A_20190818T170851_N0500_R112_T14RPU_20230512T200801",
+        "datetime": "2019-08-18T17:08:51.024000Z",
+        "cloudCover": 5.24
+      },
+      {
+        "id": "S2A_MSIL2A_20190815T165901_N0500_R069_T14RPU_20230505T150539",
+        "datetime": "2019-08-15T16:59:01.024000Z",
+        "cloudCover": 13.6
+      },
+      {
+        "id": "S2B_MSIL2A_20190813T170859_N0500_R112_T14RPU_20230506T154401",
+        "datetime": "2019-08-13T17:08:59.024000Z",
+        "cloudCover": 8.06
+      },
+      {
+        "id": "S2B_MSIL2A_20190810T165849_N0500_R069_T14RPU_20230720T212853",
+        "datetime": "2019-08-10T16:58:49.024000Z",
+        "cloudCover": 20.71
+      },
+      {
+        "id": "S2A_MSIL2A_20190808T170901_N0500_R112_T14RPU_20230505T091431",
+        "datetime": "2019-08-08T17:09:01.024000Z",
+        "cloudCover": 71.01
+      },
+      {
+        "id": "S2A_MSIL2A_20190805T165901_N0500_R069_T14RPU_20230506T051405",
+        "datetime": "2019-08-05T16:59:01.024000Z",
+        "cloudCover": 34.14
+      },
+      {
+        "id": "S2B_MSIL2A_20190803T170859_N0500_R112_T14RPU_20230507T233135",
+        "datetime": "2019-08-03T17:08:59.024000Z",
+        "cloudCover": 67.91
+      }
+    ]
+  },
+  "earth-search": {
+    "features": 24,
+    "sceneDays": 12,
+    "items": [
+      {
+        "id": "S2B_14RPU_20190830_0_L2A",
+        "datetime": "2019-08-30T17:15:31.842000Z",
+        "cloudCover": 47.320259
+      },
+      {
+        "id": "S2B_14RPU_20190830_3_L2A",
+        "datetime": "2019-08-30T17:15:31.841000Z",
+        "cloudCover": 59.406179
+      },
+      {
+        "id": "S2A_14RPU_20190828_0_L2A",
+        "datetime": "2019-08-28T17:25:24.884000Z",
+        "cloudCover": 59.752589
+      },
+      {
+        "id": "S2A_14RPU_20190828_1_L2A",
+        "datetime": "2019-08-28T17:25:24.882000Z",
+        "cloudCover": 63.059062
+      },
+      {
+        "id": "S2A_14RPU_20190825_0_L2A",
+        "datetime": "2019-08-25T17:15:29.835000Z",
+        "cloudCover": 17.072908
+      },
+      {
+        "id": "S2A_14RPU_20190825_1_L2A",
+        "datetime": "2019-08-25T17:15:29.834000Z",
+        "cloudCover": 25.697535
+      },
+      {
+        "id": "S2B_14RPU_20190823_0_L2A",
+        "datetime": "2019-08-23T17:25:28.717000Z",
+        "cloudCover": 37.989666
+      },
+      {
+        "id": "S2B_14RPU_20190823_1_L2A",
+        "datetime": "2019-08-23T17:25:28.716000Z",
+        "cloudCover": 51.950639
+      },
+      {
+        "id": "S2B_14RPU_20190820_1_L2A",
+        "datetime": "2019-08-20T17:15:33.667000Z",
+        "cloudCover": 28.158054
+      },
+      {
+        "id": "S2B_14RPU_20190820_0_L2A",
+        "datetime": "2019-08-20T17:15:33.667000Z",
+        "cloudCover": 18.733717
+      },
+      {
+        "id": "S2A_14RPU_20190818_0_L2A",
+        "datetime": "2019-08-18T17:25:26.511000Z",
+        "cloudCover": 3.178641
+      },
+      {
+        "id": "S2A_14RPU_20190818_1_L2A",
+        "datetime": "2019-08-18T17:25:26.509000Z",
+        "cloudCover": 5.236248
+      },
+      {
+        "id": "S2A_14RPU_20190815_1_L2A",
+        "datetime": "2019-08-15T17:15:31.344000Z",
+        "cloudCover": 13.603854
+      },
+      {
+        "id": "S2A_14RPU_20190815_0_L2A",
+        "datetime": "2019-08-15T17:15:31.344000Z",
+        "cloudCover": 7.411456
+      },
+      {
+        "id": "S2B_14RPU_20190813_0_L2A",
+        "datetime": "2019-08-13T17:25:30.280000Z",
+        "cloudCover": 2.537677
+      },
+      {
+        "id": "S2B_14RPU_20190813_1_L2A",
+        "datetime": "2019-08-13T17:25:30.279000Z",
+        "cloudCover": 8.057401
+      },
+      {
+        "id": "S2B_14RPU_20190810_1_L2A",
+        "datetime": "2019-08-10T17:15:35.077000Z",
+        "cloudCover": 20.710772
+      },
+      {
+        "id": "S2B_14RPU_20190810_0_L2A",
+        "datetime": "2019-08-10T17:15:35.077000Z",
+        "cloudCover": 9.78015
+      },
+      {
+        "id": "S2A_14RPU_20190808_0_L2A",
+        "datetime": "2019-08-08T17:25:27.693000Z",
+        "cloudCover": 68.814296
+      },
+      {
+        "id": "S2A_14RPU_20190808_1_L2A",
+        "datetime": "2019-08-08T17:25:27.692000Z",
+        "cloudCover": 71.014482
+      },
+      {
+        "id": "S2A_14RPU_20190805_0_L2A",
+        "datetime": "2019-08-05T17:15:32.421000Z",
+        "cloudCover": 23.749914
+      },
+      {
+        "id": "S2A_14RPU_20190805_1_L2A",
+        "datetime": "2019-08-05T17:15:32.420000Z",
+        "cloudCover": 34.139949
+      },
+      {
+        "id": "S2B_14RPU_20190803_0_L2A",
+        "datetime": "2019-08-03T17:25:31.450000Z",
+        "cloudCover": 60.228072
+      },
+      {
+        "id": "S2B_14RPU_20190803_1_L2A",
+        "datetime": "2019-08-03T17:25:31.449000Z",
+        "cloudCover": 67.913669
+      }
+    ]
+  }
+}

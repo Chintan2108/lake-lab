@@ -1,0 +1,40 @@
+{
+  "id": "optical-reference",
+  "kind": "Simulated",
+  "author": "Chintan B. Maniyar / Lake Lab",
+  "license": "CC BY 4.0",
+  "created": "2026-10-09",
+  "retrieved": null,
+  "source": "Original analytic teaching formulas; see docs/optical-methods.md",
+  "rows": 81,
+  "wavelength_nm": [
+    400,
+    800
+  ],
+  "step_nm": 5,
+  "sha256": "b4e9e04ee70516cdfc3d1fd8085b86f9a1c6822762aea399fb86b3b7a61d563d",
+  "upstream_equations": "https://github.com/Chintan2108/Water_Optics_Rrs_Simulator/blob/cf17a481bea2cbbcb98142274bfa6fede9df6529/app.js",
+  "upstream_numerical_tables_copied": false,
+  "transform": "Evaluate documented analytic functions at 5 nm intervals; no measured data fitted or copied.",
+  "title": "Analytic teaching reference spectra",
+  "agency": "Lake Lab; upstream authors listed in dataset notes",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "sourceUrl": "docs/optical-methods.md",
+  "retrievedAt": "2026-10-10",
+  "period": "Teaching example; not an observed time period",
+  "recordCount": 81,
+  "countUnit": "rows",
+  "limitations": [
+    "The forward equations match Water Optics Lab; reference water and phytoplankton shapes are analytic replacements, not the original numerical tables."
+  ],
+  "cleaning": [
+    "Evaluate the documented analytic functions every 5 nm from 400 to 800 nm. No measurements fitted."
+  ],
+  "files": [
+    {
+      "path": "data/optical-reference/analytic-reference.csv",
+      "bytes": 3710,
+      "sha256": "b4e9e04ee70516cdfc3d1fd8085b86f9a1c6822762aea399fb86b3b7a61d563d"
+    }
+  ]
+}

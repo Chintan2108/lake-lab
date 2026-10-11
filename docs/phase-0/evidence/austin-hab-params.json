@@ -1,0 +1,89 @@
+[{"parameter":"ALKALINITY (AS CACO3)","unit":"MG/L","medium":"Surface Water","n":"28","first":"2021-06-14T13:34:00.000","last":"2024-11-26T13:05:00.000"}
+,{"parameter":"AMMONIA AS N","unit":"MG/L","medium":"Surface Water","n":"464","first":"2019-09-09T12:40:00.000","last":"2026-09-11T12:05:00.000"}
+,{"parameter":"AMMONIA AS N","unit":"UG/L","medium":"Surface Water","n":"4","first":"2024-11-26T10:35:00.000","last":"2024-11-26T13:05:00.000"}
+,{"parameter":"APATITE AND RESIDUAL PHOSPHORUS","unit":"MG/KG","medium":"Sediment","n":"168","first":"2021-06-14T13:10:00.000","last":"2026-05-29T14:25:00.000"}
+,{"parameter":"BORON","unit":"MG/KG","medium":"Periphyton Mat","n":"169","first":"2023-05-25T11:40:00.000","last":"2026-09-11T12:10:00.000"}
+,{"parameter":"BORON","unit":"MG/KG","medium":"Sediment","n":"18","first":"2023-05-25T11:30:00.000","last":"2024-06-03T13:25:00.000"}
+,{"parameter":"CALCIUM","unit":"MG/KG","medium":"Periphyton Mat","n":"169","first":"2023-05-25T11:40:00.000","last":"2026-09-11T12:10:00.000"}
+,{"parameter":"CALCIUM","unit":"MG/KG","medium":"Sediment","n":"18","first":"2023-05-25T11:30:00.000","last":"2024-06-03T13:25:00.000"}
+,{"parameter":"CALCIUM","unit":"MG/L","medium":"Surface Water","n":"36","first":"2026-05-29T10:30:00.000","last":"2026-09-11T12:05:00.000"}
+,{"parameter":"CHLOROPHYLL-A","unit":"UG/L","medium":"Surface Water","n":"100","first":"2020-06-17T10:45:00.000","last":"2022-10-05T13:10:00.000"}
+,{"parameter":"CHROMIUM","unit":"MG/L","medium":"Surface Water","n":"36","first":"2026-05-29T10:30:00.000","last":"2026-09-11T12:05:00.000"}
+,{"parameter":"CODE FOR SAMPLE COLLECTION APP","unit":"1=OATRTA;2=OTHER;3=JPSOCC;4=GIRDL;5=GAP;6=RFA;7=CO;8=SSAF;9=EIIBIO","medium":"Periphyton Mat","n":"213","first":"2023-05-25T11:35:00.000","last":"2026-10-02T12:30:00.000"}
+,{"parameter":"CODE FOR SAMPLE COLLECTION APP","unit":"1=OATRTA;2=OTHER;3=JPSOCC;4=GIRDL;5=GAP;6=RFA;7=CO;8=SSAF;9=EIIBIO","medium":"Sediment","n":"1","first":"2024-03-04T13:25:00.000","last":"2024-03-04T13:25:00.000"}
+,{"parameter":"CODE FOR SAMPLE COLLECTION APP","unit":"1=OATRTA;2=OTHER;3=JPSOCC;4=GIRDL;5=GAP;6=RFA;7=CO;8=SSAF;9=EIIBIO","medium":"Surface Water","n":"510","first":"2020-06-17T10:45:00.000","last":"2026-10-02T12:20:00.000"}
+,{"parameter":"CONDUCTIVITY","unit":"uS/cm","medium":"Sediment","n":"19","first":"2023-05-25T11:30:00.000","last":"2026-05-29T10:45:00.000"}
+,{"parameter":"CONDUCTIVITY","unit":"uS/cm","medium":"Surface Water","n":"504","first":"2020-06-17T10:45:00.000","last":"2026-10-02T12:20:00.000"}
+,{"parameter":"COPPER","unit":"MG/KG","medium":"Periphyton Mat","n":"169","first":"2023-05-25T11:40:00.000","last":"2026-09-11T12:10:00.000"}
+,{"parameter":"COPPER","unit":"MG/KG","medium":"Sediment","n":"18","first":"2023-05-25T11:30:00.000","last":"2024-06-03T13:25:00.000"}
+,{"parameter":"COPPER","unit":"MG/L","medium":"Surface Water","n":"36","first":"2026-05-29T10:30:00.000","last":"2026-09-11T12:05:00.000"}
+,{"parameter":"DAYS AFTER STORM","unit":"Days","medium":"Sediment","n":"1","first":"2026-05-29T10:45:00.000","last":"2026-05-29T10:45:00.000"}
+,{"parameter":"DAYS AFTER STORM","unit":"Days","medium":"Surface Water","n":"457","first":"2020-06-17T10:45:00.000","last":"2026-10-02T12:20:00.000"}
+,{"parameter":"DIHYDROANATOXIN-A","unit":"ng/g","medium":"Periphyton Mat","n":"60","first":"2019-08-05T00:00:00.000","last":"2019-11-21T12:30:00.000"}
+,{"parameter":"DIHYDROANATOXIN-A","unit":"UG/L","medium":"Surface Water","n":"61","first":"2019-08-05T00:00:00.000","last":"2019-11-21T12:30:00.000"}
+,{"parameter":"DISSOLVED OXYGEN","unit":"MG/L","medium":"Sediment","n":"1","first":"2026-05-29T10:45:00.000","last":"2026-05-29T10:45:00.000"}
+,{"parameter":"DISSOLVED OXYGEN","unit":"MG/L","medium":"Surface Water","n":"496","first":"2020-06-17T10:45:00.000","last":"2026-10-02T12:20:00.000"}
+,{"parameter":"FIELD INSTRUMENT WRM ID","unit":"None","medium":"Sediment","n":"1","first":"2026-05-29T10:45:00.000","last":"2026-05-29T10:45:00.000"}
+,{"parameter":"FIELD INSTRUMENT WRM ID","unit":"None","medium":"Surface Water","n":"476","first":"2020-06-17T10:45:00.000","last":"2026-10-02T12:20:00.000"}
+,{"parameter":"FLOW","unit":"Cubic Feet Per Second","medium":"Surface Water","n":"2","first":"2021-08-20T13:15:00.000","last":"2022-06-27T11:50:00.000"}
+,{"parameter":"FLOW SEVERITY CODE (1=NONE;2=LOW;3=NORM;4=FLOOD;5=HIGH;6=DRY)","unit":"None","medium":"Sediment","n":"1","first":"2026-05-29T10:45:00.000","last":"2026-05-29T10:45:00.000"}
+,{"parameter":"FLOW SEVERITY CODE (1=NONE;2=LOW;3=NORM;4=FLOOD;5=HIGH;6=DRY)","unit":"None","medium":"Surface Water","n":"369","first":"2020-06-17T10:45:00.000","last":"2026-10-02T12:20:00.000"}
+,{"parameter":"FREE REACTIVE PHOSPHORUS","unit":"UG/L","medium":"Surface Water","n":"28","first":"2021-06-14T13:34:00.000","last":"2024-11-26T13:05:00.000"}
+,{"parameter":"HARDNESS (AS CACO3)","unit":"MG/L","medium":"Surface Water","n":"28","first":"2021-06-14T13:34:00.000","last":"2024-11-26T13:05:00.000"}
+,{"parameter":"IRON","unit":"MG/KG","medium":"Periphyton Mat","n":"169","first":"2023-05-25T11:40:00.000","last":"2026-09-11T12:10:00.000"}
+,{"parameter":"IRON","unit":"MG/KG","medium":"Sediment","n":"18","first":"2023-05-25T11:30:00.000","last":"2024-06-03T13:25:00.000"}
+,{"parameter":"IRON","unit":"MG/L","medium":"Surface Water","n":"36","first":"2026-05-29T10:30:00.000","last":"2026-09-11T12:05:00.000"}
+,{"parameter":"LABILE PHOSPHORUS","unit":"MG/KG","medium":"Sediment","n":"168","first":"2021-06-14T13:10:00.000","last":"2026-05-29T14:25:00.000"}
+,{"parameter":"MAGNESIUM","unit":"MG/KG","medium":"Periphyton Mat","n":"169","first":"2023-05-25T11:40:00.000","last":"2026-09-11T12:10:00.000"}
+,{"parameter":"MAGNESIUM","unit":"MG/KG","medium":"Sediment","n":"18","first":"2023-05-25T11:30:00.000","last":"2024-06-03T13:25:00.000"}
+,{"parameter":"MAGNESIUM","unit":"MG/L","medium":"Surface Water","n":"36","first":"2026-05-29T10:30:00.000","last":"2026-09-11T12:05:00.000"}
+,{"parameter":"MANGANESE","unit":"MG/KG","medium":"Periphyton Mat","n":"169","first":"2023-05-25T11:40:00.000","last":"2026-09-11T12:10:00.000"}
+,{"parameter":"MANGANESE","unit":"MG/KG","medium":"Sediment","n":"18","first":"2023-05-25T11:30:00.000","last":"2024-06-03T13:25:00.000"}
+,{"parameter":"METAL-OXIDE ADSORBED PHOSPHORUS","unit":"MG/KG","medium":"Sediment","n":"168","first":"2021-06-14T13:10:00.000","last":"2026-05-29T14:25:00.000"}
+,{"parameter":"MICROCYSTIN VARIANT MC-LR","unit":"ng/g","medium":"Periphyton Mat","n":"60","first":"2019-08-05T00:00:00.000","last":"2019-11-21T12:30:00.000"}
+,{"parameter":"MICROCYSTIN VARIANT MC-LR","unit":"UG/L","medium":"Surface Water","n":"61","first":"2019-08-05T00:00:00.000","last":"2019-11-21T12:30:00.000"}
+,{"parameter":"MICROCYSTIN VARIANT MC-LW","unit":"ng/g","medium":"Periphyton Mat","n":"60","first":"2019-08-05T00:00:00.000","last":"2019-11-21T12:30:00.000"}
+,{"parameter":"MICROCYSTIN VARIANT MC-LW","unit":"UG/L","medium":"Surface Water","n":"61","first":"2019-08-05T00:00:00.000","last":"2019-11-21T12:30:00.000"}
+,{"parameter":"MICROCYSTIN VARIANT MC-RR","unit":"ng/g","medium":"Periphyton Mat","n":"60","first":"2019-08-05T00:00:00.000","last":"2019-11-21T12:30:00.000"}
+,{"parameter":"MICROCYSTIN VARIANT MC-RR","unit":"UG/L","medium":"Surface Water","n":"61","first":"2019-08-05T00:00:00.000","last":"2019-11-21T12:30:00.000"}
+,{"parameter":"MICROCYSTIN VARIANT MC-YR","unit":"ng/g","medium":"Periphyton Mat","n":"60","first":"2019-08-05T00:00:00.000","last":"2019-11-21T12:30:00.000"}
+,{"parameter":"MICROCYSTIN VARIANT MC-YR","unit":"UG/L","medium":"Surface Water","n":"61","first":"2019-08-05T00:00:00.000","last":"2019-11-21T12:30:00.000"}
+,{"parameter":"NITRATE AS N","unit":"MG/KG","medium":"Sediment","n":"18","first":"2023-05-25T11:30:00.000","last":"2024-06-03T13:25:00.000"}
+,{"parameter":"NITRATE AS N","unit":"MG/L","medium":"Surface Water","n":"31","first":"2021-06-14T13:34:00.000","last":"2024-11-26T13:05:00.000"}
+,{"parameter":"NITRATE/NITRITE AS N","unit":"MG/L","medium":"Surface Water","n":"489","first":"2019-09-09T12:40:00.000","last":"2026-09-11T12:05:00.000"}
+,{"parameter":"NITRITE AS N","unit":"MG/L","medium":"Surface Water","n":"31","first":"2021-06-14T13:34:00.000","last":"2024-11-26T13:05:00.000"}
+,{"parameter":"NITROGEN AS N","unit":"MG/KG","medium":"Periphyton Mat","n":"169","first":"2023-05-25T11:40:00.000","last":"2026-09-11T12:10:00.000"}
+,{"parameter":"NITROGEN AS N","unit":"MG/KG","medium":"Sediment","n":"18","first":"2023-05-25T11:30:00.000","last":"2024-06-03T13:25:00.000"}
+,{"parameter":"NITROGEN AS N","unit":"MG/L","medium":"Surface Water","n":"28","first":"2021-06-14T13:34:00.000","last":"2024-11-26T13:05:00.000"}
+,{"parameter":"ORGANIC CARBON","unit":"MG/KG","medium":"Periphyton Mat","n":"169","first":"2023-05-25T11:40:00.000","last":"2026-09-11T12:10:00.000"}
+,{"parameter":"ORGANIC CARBON","unit":"MG/KG","medium":"Sediment","n":"18","first":"2023-05-25T11:30:00.000","last":"2024-06-03T13:25:00.000"}
+,{"parameter":"ORGANIC MATERIAL","unit":"(%) Percent","medium":"Sediment","n":"18","first":"2023-05-25T11:30:00.000","last":"2024-06-03T13:25:00.000"}
+,{"parameter":"ORGANIC PHOSPHORUS","unit":"MG/KG","medium":"Sediment","n":"168","first":"2021-06-14T13:10:00.000","last":"2026-05-29T14:25:00.000"}
+,{"parameter":"ORTHOPHOSPHORUS AS P","unit":"MG/L","medium":"Surface Water","n":"463","first":"2019-09-09T12:40:00.000","last":"2026-09-11T12:05:00.000"}
+,{"parameter":"OXIDATION-REDUCTION_POTENTIAL","unit":"MV","medium":"Sediment","n":"1","first":"2026-05-29T10:45:00.000","last":"2026-05-29T10:45:00.000"}
+,{"parameter":"OXIDATION-REDUCTION_POTENTIAL","unit":"MV","medium":"Surface Water","n":"445","first":"2020-06-17T10:45:00.000","last":"2026-10-02T12:20:00.000"}
+,{"parameter":"PH","unit":"Standard units","medium":"Sediment","n":"19","first":"2023-05-25T11:30:00.000","last":"2026-05-29T10:45:00.000"}
+,{"parameter":"PH","unit":"Standard units","medium":"Surface Water","n":"503","first":"2020-06-17T10:45:00.000","last":"2026-10-02T12:20:00.000"}
+,{"parameter":"PHEOPHYTIN","unit":"UG/L","medium":"Surface Water","n":"84","first":"2020-06-17T10:45:00.000","last":"2020-11-03T14:00:00.000"}
+,{"parameter":"PHOSPHORUS AS P","unit":"MG/KG","medium":"Periphyton Mat","n":"169","first":"2023-05-25T11:40:00.000","last":"2026-09-11T12:10:00.000"}
+,{"parameter":"PHOSPHORUS AS P","unit":"MG/KG","medium":"Sediment","n":"18","first":"2023-05-25T11:30:00.000","last":"2024-06-03T13:25:00.000"}
+,{"parameter":"PHOSPHORUS AS P","unit":"MG/L","medium":"Surface Water","n":"464","first":"2019-09-09T12:40:00.000","last":"2026-09-11T12:05:00.000"}
+,{"parameter":"PHOSPHORUS AS P","unit":"UG/L","medium":"Surface Water","n":"28","first":"2021-06-14T13:34:00.000","last":"2024-11-26T13:05:00.000"}
+,{"parameter":"POTASSIUM","unit":"MG/KG","medium":"Periphyton Mat","n":"169","first":"2023-05-25T11:40:00.000","last":"2026-09-11T12:10:00.000"}
+,{"parameter":"POTASSIUM","unit":"MG/KG","medium":"Sediment","n":"18","first":"2023-05-25T11:30:00.000","last":"2024-06-03T13:25:00.000"}
+,{"parameter":"REDUCTANT-SOLUBLE PHOSPHORUS","unit":"MG/KG","medium":"Sediment","n":"168","first":"2021-06-14T13:10:00.000","last":"2026-05-29T14:25:00.000"}
+,{"parameter":"SECCHI DISK DEPTH","unit":"Meters","medium":"Surface Water","n":"19","first":"2022-05-10T11:00:00.000","last":"2024-11-26T13:05:00.000"}
+,{"parameter":"SODIUM","unit":"MG/KG","medium":"Periphyton Mat","n":"169","first":"2023-05-25T11:40:00.000","last":"2026-09-11T12:10:00.000"}
+,{"parameter":"SODIUM","unit":"MG/KG","medium":"Sediment","n":"18","first":"2023-05-25T11:30:00.000","last":"2024-06-03T13:25:00.000"}
+,{"parameter":"SODIUM","unit":"MG/L","medium":"Surface Water","n":"36","first":"2026-05-29T10:30:00.000","last":"2026-09-11T12:05:00.000"}
+,{"parameter":"SULFATE","unit":"MG/L","medium":"Surface Water","n":"463","first":"2019-09-09T12:40:00.000","last":"2026-09-11T12:05:00.000"}
+,{"parameter":"SULFUR","unit":"MG/KG","medium":"Periphyton Mat","n":"169","first":"2023-05-25T11:40:00.000","last":"2026-09-11T12:10:00.000"}
+,{"parameter":"SULFUR","unit":"MG/KG","medium":"Sediment","n":"18","first":"2023-05-25T11:30:00.000","last":"2024-06-03T13:25:00.000"}
+,{"parameter":"TOTAL KJELDAHL NITROGEN AS N","unit":"MG/L","medium":"Surface Water","n":"492","first":"2019-09-09T12:40:00.000","last":"2026-09-11T12:05:00.000"}
+,{"parameter":"TOTAL SOLIDS","unit":"(%) Percent","medium":"Sediment","n":"168","first":"2021-06-14T13:10:00.000","last":"2026-05-29T14:25:00.000"}
+,{"parameter":"TURBIDITY","unit":"NTU","medium":"Surface Water","n":"27","first":"2021-06-14T13:34:00.000","last":"2024-11-26T13:05:00.000"}
+,{"parameter":"WATER TEMPERATURE","unit":"Deg. Celsius","medium":"Sediment","n":"1","first":"2026-05-29T10:45:00.000","last":"2026-05-29T10:45:00.000"}
+,{"parameter":"WATER TEMPERATURE","unit":"Deg. Celsius","medium":"Surface Water","n":"476","first":"2020-06-17T10:45:00.000","last":"2026-10-02T12:20:00.000"}
+,{"parameter":"ZINC","unit":"MG/KG","medium":"Periphyton Mat","n":"169","first":"2023-05-25T11:40:00.000","last":"2026-09-11T12:10:00.000"}
+,{"parameter":"ZINC","unit":"MG/KG","medium":"Sediment","n":"18","first":"2023-05-25T11:30:00.000","last":"2024-06-03T13:25:00.000"}
+,{"parameter":"ZINC","unit":"MG/L","medium":"Surface Water","n":"36","first":"2026-05-29T10:30:00.000","last":"2026-09-11T12:05:00.000"}]

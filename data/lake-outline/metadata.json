@@ -1,0 +1,37 @@
+{
+  "id": "lake-outline",
+  "title": "Lady Bird Lake shoreline",
+  "agency": "U.S. Geological Survey, National Hydrography Dataset",
+  "kind": "Derived from public data",
+  "license": "Public Domain",
+  "licenseUrl": "https://hydro.nationalmap.gov/arcgis/rest/services/nhd/MapServer",
+  "sourceUrl": "https://hydro.nationalmap.gov/arcgis/rest/services/nhd/MapServer/12",
+  "retrievedAt": "2026-10-09T22:29:47.669449+00:00",
+  "period": "Feature timestamp: 2013-03-19",
+  "recordCount": 1,
+  "countUnit": "records",
+  "files": [
+    {
+      "path": "data/lake-outline/lake.geojson",
+      "sha256": "21e413eec4b42afcd17d666226046ad8451f840fd614dc15230bcc05baff3ee0",
+      "bytes": 100348
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://hydro.nationalmap.gov/arcgis/rest/services/nhd/MapServer/12/query?where=gnis_id%3D%2701376484%27&outFields=%2A&returnGeometry=true&outSR=4326&f=geojson",
+      "retrievedAt": "2026-10-09T22:29:47.669449+00:00",
+      "sha256": "505cf7620f4fb6196da62ab8224fdf7fefb5f0c5a8cbac385fbaf1209a86f962"
+    }
+  ],
+  "cleaning": [
+    "Select GNIS 01376484 and verified Lady Bird Lake feature.",
+    "Preserve geometry, holes and attributes; WGS84 coordinates. No simplification."
+  ],
+  "limitations": [
+    "Historical mapped shoreline, not today’s measured water edge.",
+    "Display map is for learning, not navigation."
+  ],
+  "script": "scripts/freeze.py",
+  "scriptVersion": "1.0.0"
+}

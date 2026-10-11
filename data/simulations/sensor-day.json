@@ -1,0 +1,218 @@
+[
+  {
+    "hour": 0,
+    "temperature_c": 24,
+    "ph": 7.7,
+    "oxygen_mg_l": 6,
+    "turbidity_ntu": 5,
+    "phycocyanin_rfu": 10,
+    "kind": "Simulated"
+  },
+  {
+    "hour": 1,
+    "temperature_c": 24,
+    "ph": 7.7,
+    "oxygen_mg_l": 6,
+    "turbidity_ntu": 5,
+    "phycocyanin_rfu": 10,
+    "kind": "Simulated"
+  },
+  {
+    "hour": 2,
+    "temperature_c": 24,
+    "ph": 7.7,
+    "oxygen_mg_l": 6,
+    "turbidity_ntu": 5,
+    "phycocyanin_rfu": 10,
+    "kind": "Simulated"
+  },
+  {
+    "hour": 3,
+    "temperature_c": 24,
+    "ph": 7.7,
+    "oxygen_mg_l": 6,
+    "turbidity_ntu": 5,
+    "phycocyanin_rfu": 10,
+    "kind": "Simulated"
+  },
+  {
+    "hour": 4,
+    "temperature_c": 24,
+    "ph": 7.7,
+    "oxygen_mg_l": 6,
+    "turbidity_ntu": 5,
+    "phycocyanin_rfu": 10,
+    "kind": "Simulated"
+  },
+  {
+    "hour": 5,
+    "temperature_c": 24,
+    "ph": 7.7,
+    "oxygen_mg_l": 6,
+    "turbidity_ntu": 5,
+    "phycocyanin_rfu": 10,
+    "kind": "Simulated"
+  },
+  {
+    "hour": 6,
+    "temperature_c": 24,
+    "ph": 7.7,
+    "oxygen_mg_l": 6,
+    "turbidity_ntu": 5,
+    "phycocyanin_rfu": 10,
+    "kind": "Simulated"
+  },
+  {
+    "hour": 7,
+    "temperature_c": 24,
+    "ph": 7.88,
+    "oxygen_mg_l": 6.78,
+    "turbidity_ntu": 5,
+    "phycocyanin_rfu": 10,
+    "kind": "Simulated"
+  },
+  {
+    "hour": 8,
+    "temperature_c": 24,
+    "ph": 8.05,
+    "oxygen_mg_l": 7.5,
+    "turbidity_ntu": 5,
+    "phycocyanin_rfu": 10,
+    "kind": "Simulated"
+  },
+  {
+    "hour": 9,
+    "temperature_c": 24,
+    "ph": 8.19,
+    "oxygen_mg_l": 8.12,
+    "turbidity_ntu": 5,
+    "phycocyanin_rfu": 10,
+    "kind": "Simulated"
+  },
+  {
+    "hour": 10,
+    "temperature_c": 25.29,
+    "ph": 8.31,
+    "oxygen_mg_l": 8.6,
+    "turbidity_ntu": 5,
+    "phycocyanin_rfu": 10,
+    "kind": "Simulated"
+  },
+  {
+    "hour": 11,
+    "temperature_c": 26.5,
+    "ph": 8.38,
+    "oxygen_mg_l": 8.9,
+    "turbidity_ntu": 5.52,
+    "phycocyanin_rfu": 12.07,
+    "kind": "Simulated"
+  },
+  {
+    "hour": 12,
+    "temperature_c": 27.54,
+    "ph": 8.4,
+    "oxygen_mg_l": 9.0,
+    "turbidity_ntu": 6.0,
+    "phycocyanin_rfu": 14.0,
+    "kind": "Simulated"
+  },
+  {
+    "hour": 13,
+    "temperature_c": 28.33,
+    "ph": 8.38,
+    "oxygen_mg_l": 8.9,
+    "turbidity_ntu": 6.41,
+    "phycocyanin_rfu": 15.66,
+    "kind": "Simulated"
+  },
+  {
+    "hour": 14,
+    "temperature_c": 28.83,
+    "ph": 8.31,
+    "oxygen_mg_l": 8.6,
+    "turbidity_ntu": 6.73,
+    "phycocyanin_rfu": 16.93,
+    "kind": "Simulated"
+  },
+  {
+    "hour": 15,
+    "temperature_c": 29.0,
+    "ph": 8.19,
+    "oxygen_mg_l": 8.12,
+    "turbidity_ntu": 6.93,
+    "phycocyanin_rfu": 17.73,
+    "kind": "Simulated"
+  },
+  {
+    "hour": 16,
+    "temperature_c": 28.83,
+    "ph": 8.05,
+    "oxygen_mg_l": 7.5,
+    "turbidity_ntu": 7.0,
+    "phycocyanin_rfu": 18.0,
+    "kind": "Simulated"
+  },
+  {
+    "hour": 17,
+    "temperature_c": 28.33,
+    "ph": 7.88,
+    "oxygen_mg_l": 6.78,
+    "turbidity_ntu": 6.93,
+    "phycocyanin_rfu": 17.73,
+    "kind": "Simulated"
+  },
+  {
+    "hour": 18,
+    "temperature_c": 27.54,
+    "ph": 7.7,
+    "oxygen_mg_l": 6.0,
+    "turbidity_ntu": 6.73,
+    "phycocyanin_rfu": 16.93,
+    "kind": "Simulated"
+  },
+  {
+    "hour": 19,
+    "temperature_c": 26.5,
+    "ph": 7.7,
+    "oxygen_mg_l": 6,
+    "turbidity_ntu": 6.41,
+    "phycocyanin_rfu": 15.66,
+    "kind": "Simulated"
+  },
+  {
+    "hour": 20,
+    "temperature_c": 25.29,
+    "ph": 7.7,
+    "oxygen_mg_l": 6,
+    "turbidity_ntu": 6.0,
+    "phycocyanin_rfu": 14.0,
+    "kind": "Simulated"
+  },
+  {
+    "hour": 21,
+    "temperature_c": 24.0,
+    "ph": 7.7,
+    "oxygen_mg_l": 6,
+    "turbidity_ntu": 5.52,
+    "phycocyanin_rfu": 12.07,
+    "kind": "Simulated"
+  },
+  {
+    "hour": 22,
+    "temperature_c": 24,
+    "ph": 7.7,
+    "oxygen_mg_l": 6,
+    "turbidity_ntu": 5.0,
+    "phycocyanin_rfu": 10.0,
+    "kind": "Simulated"
+  },
+  {
+    "hour": 23,
+    "temperature_c": 24,
+    "ph": 7.7,
+    "oxygen_mg_l": 6,
+    "turbidity_ntu": 5,
+    "phycocyanin_rfu": 10,
+    "kind": "Simulated"
+  }
+]

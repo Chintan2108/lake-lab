@@ -1,0 +1,6298 @@
+[
+  {
+    "parameter": "WATER TEMPERATURE",
+    "unit": "Deg. Celsius",
+    "medium": "Surface Water",
+    "count": 1858,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2025-12-16T12:10:00.000"
+  },
+  {
+    "parameter": "PH",
+    "unit": "Standard units",
+    "medium": "Surface Water",
+    "count": 1885,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2025-12-16T12:10:00.000"
+  },
+  {
+    "parameter": "CONDUCTIVITY",
+    "unit": "uS/cm",
+    "medium": "Surface Water",
+    "count": 1886,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2025-12-16T12:10:00.000"
+  },
+  {
+    "parameter": "SECCHI DISK DEPTH",
+    "unit": "Meters",
+    "medium": "Surface Water",
+    "count": 248,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2025-12-16T12:10:00.000"
+  },
+  {
+    "parameter": "FIELD INSTRUMENT WRM ID",
+    "unit": "None",
+    "medium": "Surface Water",
+    "count": 1858,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2025-12-16T12:10:00.000"
+  },
+  {
+    "parameter": "DISSOLVED OXYGEN",
+    "unit": "MG/L",
+    "medium": "Surface Water",
+    "count": 1878,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2025-12-16T12:10:00.000"
+  },
+  {
+    "parameter": "FLOW SEVERITY CODE (1=NONE;2=LOW;3=NORM;4=FLOOD;5=HIGH;6=DRY)",
+    "unit": "None",
+    "medium": "Surface Water",
+    "count": 513,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2025-12-16T12:10:00.000"
+  },
+  {
+    "parameter": "ZINC",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 158,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2022-09-29T11:15:00.000"
+  },
+  {
+    "parameter": "COPPER",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 158,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2022-09-29T11:15:00.000"
+  },
+  {
+    "parameter": "CHROMIUM",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 158,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2022-09-29T11:15:00.000"
+  },
+  {
+    "parameter": "TOTAL SUSPENDED SOLIDS",
+    "unit": "MG/L",
+    "medium": "Surface Water",
+    "count": 295,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2025-12-16T12:15:00.000"
+  },
+  {
+    "parameter": "PHOSPHORUS AS P",
+    "unit": "MG/L",
+    "medium": "Surface Water",
+    "count": 796,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2025-12-16T12:20:00.000"
+  },
+  {
+    "parameter": "ORTHOPHOSPHORUS AS P",
+    "unit": "MG/L",
+    "medium": "Surface Water",
+    "count": 796,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2025-12-16T12:20:00.000"
+  },
+  {
+    "parameter": "TOTAL KJELDAHL NITROGEN AS N",
+    "unit": "MG/L",
+    "medium": "Surface Water",
+    "count": 824,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2025-12-16T12:20:00.000"
+  },
+  {
+    "parameter": "NITRATE/NITRITE AS N",
+    "unit": "MG/L",
+    "medium": "Surface Water",
+    "count": 824,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2025-12-16T12:20:00.000"
+  },
+  {
+    "parameter": "AMMONIA AS N",
+    "unit": "MG/L",
+    "medium": "Surface Water",
+    "count": 796,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2025-12-16T12:20:00.000"
+  },
+  {
+    "parameter": "CHLOROPHYLL-A",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 303,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2022-10-05T13:10:00.000"
+  },
+  {
+    "parameter": "E COLI BACTERIA",
+    "unit": "MPN/100ML",
+    "medium": "Surface Water",
+    "count": 302,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2025-12-16T12:15:00.000"
+  },
+  {
+    "parameter": "PHEOPHYTIN",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 287,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2022-09-29T11:15:00.000"
+  },
+  {
+    "parameter": "SULFATE",
+    "unit": "MG/L",
+    "medium": "Surface Water",
+    "count": 795,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2025-12-16T12:20:00.000"
+  },
+  {
+    "parameter": "CALCIUM",
+    "unit": "MG/L",
+    "medium": "Surface Water",
+    "count": 294,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2025-12-16T12:15:00.000"
+  },
+  {
+    "parameter": "MAGNESIUM",
+    "unit": "MG/L",
+    "medium": "Surface Water",
+    "count": 294,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2025-12-16T12:15:00.000"
+  },
+  {
+    "parameter": "SODIUM",
+    "unit": "MG/L",
+    "medium": "Surface Water",
+    "count": 294,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2025-12-16T12:15:00.000"
+  },
+  {
+    "parameter": "FIELD INSTRUMENT WRM ID",
+    "unit": "None",
+    "medium": "Ground Water",
+    "count": 55,
+    "first": "2016-03-31T10:50:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "DISSOLVED OXYGEN",
+    "unit": "MG/L",
+    "medium": "Ground Water",
+    "count": 57,
+    "first": "2016-03-31T10:50:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "WATER TEMPERATURE",
+    "unit": "Deg. Celsius",
+    "medium": "Ground Water",
+    "count": 57,
+    "first": "2016-03-31T10:50:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "PH",
+    "unit": "Standard units",
+    "medium": "Ground Water",
+    "count": 57,
+    "first": "2016-03-31T10:50:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "CONDUCTIVITY",
+    "unit": "uS/cm",
+    "medium": "Ground Water",
+    "count": 57,
+    "first": "2016-03-31T10:50:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "ALKALINITY (AS CACO3)",
+    "unit": "MG/L",
+    "medium": "Ground Water",
+    "count": 54,
+    "first": "2016-03-31T10:50:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "AMMONIA AS N",
+    "unit": "MG/L",
+    "medium": "Ground Water",
+    "count": 54,
+    "first": "2016-03-31T10:50:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "NITRATE/NITRITE AS N",
+    "unit": "MG/L",
+    "medium": "Ground Water",
+    "count": 54,
+    "first": "2016-03-31T10:50:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "ORGANIC CARBON",
+    "unit": "MG/L",
+    "medium": "Ground Water",
+    "count": 54,
+    "first": "2016-03-31T10:50:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "TOTAL SUSPENDED SOLIDS",
+    "unit": "MG/L",
+    "medium": "Ground Water",
+    "count": 45,
+    "first": "2016-03-31T10:50:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "E COLI BACTERIA",
+    "unit": "MPN/100ML",
+    "medium": "Ground Water",
+    "count": 71,
+    "first": "2016-03-31T10:50:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "ARSENIC",
+    "unit": "MG/L",
+    "medium": "Ground Water",
+    "count": 20,
+    "first": "2016-03-31T10:50:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "BORON",
+    "unit": "MG/L",
+    "medium": "Ground Water",
+    "count": 45,
+    "first": "2016-03-31T10:50:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "CALCIUM",
+    "unit": "MG/L",
+    "medium": "Ground Water",
+    "count": 54,
+    "first": "2016-03-31T10:50:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "CHLORIDE",
+    "unit": "MG/L",
+    "medium": "Ground Water",
+    "count": 53,
+    "first": "2016-03-31T10:50:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "CHROMIUM",
+    "unit": "MG/L",
+    "medium": "Ground Water",
+    "count": 20,
+    "first": "2016-03-31T10:50:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "COPPER",
+    "unit": "MG/L",
+    "medium": "Ground Water",
+    "count": 20,
+    "first": "2016-03-31T10:50:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "FLUORIDE",
+    "unit": "MG/L",
+    "medium": "Ground Water",
+    "count": 53,
+    "first": "2016-03-31T10:50:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "IRON",
+    "unit": "MG/L",
+    "medium": "Ground Water",
+    "count": 45,
+    "first": "2016-03-31T10:50:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "LEAD",
+    "unit": "MG/L",
+    "medium": "Ground Water",
+    "count": 20,
+    "first": "2016-03-31T10:50:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "MAGNESIUM",
+    "unit": "MG/L",
+    "medium": "Ground Water",
+    "count": 54,
+    "first": "2016-03-31T10:50:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "NICKEL",
+    "unit": "MG/L",
+    "medium": "Ground Water",
+    "count": 20,
+    "first": "2016-03-31T10:50:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "POTASSIUM",
+    "unit": "MG/L",
+    "medium": "Ground Water",
+    "count": 54,
+    "first": "2016-03-31T10:50:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "SODIUM",
+    "unit": "MG/L",
+    "medium": "Ground Water",
+    "count": 54,
+    "first": "2016-03-31T10:50:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "STRONTIUM",
+    "unit": "UG/L",
+    "medium": "Ground Water",
+    "count": 35,
+    "first": "2016-03-31T10:50:00.000",
+    "last": "2022-09-21T10:25:00.000"
+  },
+  {
+    "parameter": "SULFATE",
+    "unit": "MG/L",
+    "medium": "Ground Water",
+    "count": 53,
+    "first": "2016-03-31T10:50:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "ZINC",
+    "unit": "MG/L",
+    "medium": "Ground Water",
+    "count": 20,
+    "first": "2016-03-31T10:50:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "ORTHOPHOSPHORUS AS P",
+    "unit": "MG/L",
+    "medium": "Ground Water",
+    "count": 45,
+    "first": "2016-03-31T10:50:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "ZINC",
+    "unit": "MG/L",
+    "medium": "Surface Water",
+    "count": 136,
+    "first": "2016-06-21T11:00:00.000",
+    "last": "2025-12-16T12:15:00.000"
+  },
+  {
+    "parameter": "CHROMIUM",
+    "unit": "MG/L",
+    "medium": "Surface Water",
+    "count": 136,
+    "first": "2016-06-21T11:00:00.000",
+    "last": "2025-12-16T12:15:00.000"
+  },
+  {
+    "parameter": "COPPER",
+    "unit": "MG/L",
+    "medium": "Surface Water",
+    "count": 136,
+    "first": "2016-06-21T11:00:00.000",
+    "last": "2025-12-16T12:15:00.000"
+  },
+  {
+    "parameter": "BASEFLOW",
+    "unit": "1-2: (Yes; No)",
+    "medium": "Ground Water",
+    "count": 1,
+    "first": "2016-08-01T15:20:00.000",
+    "last": "2016-08-01T15:20:00.000"
+  },
+  {
+    "parameter": "NICKEL",
+    "unit": "UG/L",
+    "medium": "Ground Water",
+    "count": 25,
+    "first": "2016-08-01T15:20:00.000",
+    "last": "2022-09-21T10:25:00.000"
+  },
+  {
+    "parameter": "ARSENIC",
+    "unit": "UG/L",
+    "medium": "Ground Water",
+    "count": 25,
+    "first": "2016-08-01T15:20:00.000",
+    "last": "2022-09-21T10:25:00.000"
+  },
+  {
+    "parameter": "CHROMIUM",
+    "unit": "UG/L",
+    "medium": "Ground Water",
+    "count": 25,
+    "first": "2016-08-01T15:20:00.000",
+    "last": "2022-09-21T10:25:00.000"
+  },
+  {
+    "parameter": "COPPER",
+    "unit": "UG/L",
+    "medium": "Ground Water",
+    "count": 34,
+    "first": "2016-08-01T15:20:00.000",
+    "last": "2022-09-21T10:25:00.000"
+  },
+  {
+    "parameter": "LEAD",
+    "unit": "UG/L",
+    "medium": "Ground Water",
+    "count": 25,
+    "first": "2016-08-01T15:20:00.000",
+    "last": "2022-09-21T10:25:00.000"
+  },
+  {
+    "parameter": "ZINC",
+    "unit": "UG/L",
+    "medium": "Ground Water",
+    "count": 25,
+    "first": "2016-08-01T15:20:00.000",
+    "last": "2022-09-21T10:25:00.000"
+  },
+  {
+    "parameter": "INITIAL VOLUME",
+    "unit": "mL",
+    "medium": "Diatom",
+    "count": 180,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "FINAL VOLUME",
+    "unit": "mL",
+    "medium": "Diatom",
+    "count": 180,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "NUMBER OF FIELDS COUNTED",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 180,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "ANKISTRODESMUS FALCATUS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 31,
+    "first": "2016-02-17T12:30:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "CHROOCOCCUS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 180,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "PENNATE DIATOMS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 147,
+    "first": "2016-02-17T12:00:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "DINOBRYON BAVARICUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 32,
+    "first": "2016-02-17T12:30:00.000",
+    "last": "2022-08-16T11:50:00.000"
+  },
+  {
+    "parameter": "OPHIOCYTIUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 98,
+    "first": "2016-02-17T12:30:00.000",
+    "last": "2025-02-18T11:50:00.000"
+  },
+  {
+    "parameter": "OSCILLATORIA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 45,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2024-08-19T12:30:00.000"
+  },
+  {
+    "parameter": "SPHAEROCYSTIS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 87,
+    "first": "2016-02-17T12:30:00.000",
+    "last": "2024-12-19T11:30:00.000"
+  },
+  {
+    "parameter": "SYNECHOCOCCUS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 176,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "TOTAL COUNT",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 189,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "ANKISTRODESMUS FALCATUS",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 31,
+    "first": "2016-02-17T12:30:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "CHROOCOCCUS",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 180,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "PENNATE DIATOMS",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 146,
+    "first": "2016-02-17T12:00:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "DINOBRYON BAVARICUM",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 32,
+    "first": "2016-02-17T12:30:00.000",
+    "last": "2022-08-16T11:50:00.000"
+  },
+  {
+    "parameter": "OPHIOCYTIUM",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 98,
+    "first": "2016-02-17T12:30:00.000",
+    "last": "2025-02-18T11:50:00.000"
+  },
+  {
+    "parameter": "OSCILLATORIA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 45,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2024-08-19T12:30:00.000"
+  },
+  {
+    "parameter": "SPHAEROCYSTIS",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 87,
+    "first": "2016-02-17T12:30:00.000",
+    "last": "2024-12-19T11:30:00.000"
+  },
+  {
+    "parameter": "SYNECHOCOCCUS",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 176,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "MOUGEOTIA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 4,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2024-08-19T12:30:00.000"
+  },
+  {
+    "parameter": "PHACUS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 43,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2024-08-19T13:15:00.000"
+  },
+  {
+    "parameter": "MOUGEOTIA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 4,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2024-08-19T12:30:00.000"
+  },
+  {
+    "parameter": "PHACUS",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 43,
+    "first": "2016-02-17T11:00:00.000",
+    "last": "2024-08-19T13:15:00.000"
+  },
+  {
+    "parameter": "CENTRIC DIATOMS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 106,
+    "first": "2016-02-17T12:00:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "MERISMOPEDIA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 24,
+    "first": "2016-02-17T12:00:00.000",
+    "last": "2024-08-19T12:30:00.000"
+  },
+  {
+    "parameter": "CENTRIC DIATOMS",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 106,
+    "first": "2016-02-17T12:00:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "MERISMOPEDIA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 24,
+    "first": "2016-02-17T12:00:00.000",
+    "last": "2024-08-19T12:30:00.000"
+  },
+  {
+    "parameter": "SPIRULINA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 47,
+    "first": "2016-04-19T10:10:00.000",
+    "last": "2024-12-19T12:05:00.000"
+  },
+  {
+    "parameter": "SPIRULINA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 47,
+    "first": "2016-04-19T10:10:00.000",
+    "last": "2024-12-19T12:05:00.000"
+  },
+  {
+    "parameter": "LEMMERMANNIA TETRAPEDIA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 45,
+    "first": "2016-04-19T10:10:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "DINOBRYON",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 70,
+    "first": "2016-04-19T10:10:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "EUGLENA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 43,
+    "first": "2016-04-19T10:10:00.000",
+    "last": "2025-02-18T11:50:00.000"
+  },
+  {
+    "parameter": "SCENEDESMUS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 87,
+    "first": "2016-04-19T10:10:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "LEMMERMANNIA TETRAPEDIA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 45,
+    "first": "2016-04-19T10:10:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "DINOBRYON",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 70,
+    "first": "2016-04-19T10:10:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "EUGLENA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 43,
+    "first": "2016-04-19T10:10:00.000",
+    "last": "2025-02-18T11:50:00.000"
+  },
+  {
+    "parameter": "SCENEDESMUS",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 87,
+    "first": "2016-04-19T10:10:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "COSMARIUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 85,
+    "first": "2016-04-19T11:20:00.000",
+    "last": "2024-12-19T12:05:00.000"
+  },
+  {
+    "parameter": "COSMARIUM",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 85,
+    "first": "2016-04-19T11:20:00.000",
+    "last": "2024-12-19T12:05:00.000"
+  },
+  {
+    "parameter": "TETRADESMUS DIMORPHUS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 32,
+    "first": "2016-06-21T12:35:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "KIRCHNERIELLA OBESA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 14,
+    "first": "2016-06-21T12:35:00.000",
+    "last": "2019-06-18T12:25:00.000"
+  },
+  {
+    "parameter": "PANDORINA MORUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 30,
+    "first": "2016-06-21T11:00:00.000",
+    "last": "2024-08-19T12:30:00.000"
+  },
+  {
+    "parameter": "PHACOTUS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 18,
+    "first": "2016-06-21T12:35:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "PLANKTOLYNGBYA CONTORTA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2016-06-21T12:35:00.000",
+    "last": "2016-06-21T12:35:00.000"
+  },
+  {
+    "parameter": "SPHAEROCYSTIS SCHROETERI",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 3,
+    "first": "2016-06-21T12:00:00.000",
+    "last": "2017-02-21T12:15:00.000"
+  },
+  {
+    "parameter": "TETRADESMUS DIMORPHUS",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 32,
+    "first": "2016-06-21T12:35:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "KIRCHNERIELLA OBESA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 14,
+    "first": "2016-06-21T12:35:00.000",
+    "last": "2019-06-18T12:25:00.000"
+  },
+  {
+    "parameter": "PANDORINA MORUM",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 30,
+    "first": "2016-06-21T11:00:00.000",
+    "last": "2024-08-19T12:30:00.000"
+  },
+  {
+    "parameter": "PHACOTUS",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 18,
+    "first": "2016-06-21T12:35:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "PLANKTOLYNGBYA CONTORTA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2016-06-21T12:35:00.000",
+    "last": "2016-06-21T12:35:00.000"
+  },
+  {
+    "parameter": "SPHAEROCYSTIS SCHROETERI",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 3,
+    "first": "2016-06-21T12:00:00.000",
+    "last": "2017-02-21T12:15:00.000"
+  },
+  {
+    "parameter": "LACUNASTRUM GRACILLIMUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2016-06-21T11:00:00.000",
+    "last": "2016-06-21T11:00:00.000"
+  },
+  {
+    "parameter": "SCHROEDERIA SETIGERA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 25,
+    "first": "2016-06-21T11:00:00.000",
+    "last": "2025-02-18T10:55:00.000"
+  },
+  {
+    "parameter": "LACUNASTRUM GRACILLIMUM",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2016-06-21T11:00:00.000",
+    "last": "2016-06-21T11:00:00.000"
+  },
+  {
+    "parameter": "SCHROEDERIA SETIGERA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 25,
+    "first": "2016-06-21T11:00:00.000",
+    "last": "2025-02-18T10:55:00.000"
+  },
+  {
+    "parameter": "MERISMOPEDIA GLAUCA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 45,
+    "first": "2016-06-21T12:00:00.000",
+    "last": "2024-11-25T12:25:00.000"
+  },
+  {
+    "parameter": "PEDIASTRUM SIMPLEX",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 33,
+    "first": "2016-06-21T12:00:00.000",
+    "last": "2024-09-19T11:35:00.000"
+  },
+  {
+    "parameter": "STAURASTRUM LEPTOCLADUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2016-06-21T12:00:00.000",
+    "last": "2016-06-21T12:00:00.000"
+  },
+  {
+    "parameter": "MERISMOPEDIA GLAUCA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 45,
+    "first": "2016-06-21T12:00:00.000",
+    "last": "2024-11-25T12:25:00.000"
+  },
+  {
+    "parameter": "PEDIASTRUM SIMPLEX",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 33,
+    "first": "2016-06-21T12:00:00.000",
+    "last": "2024-09-19T11:35:00.000"
+  },
+  {
+    "parameter": "STAURASTRUM LEPTOCLADUM",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2016-06-21T12:00:00.000",
+    "last": "2016-06-21T12:00:00.000"
+  },
+  {
+    "parameter": "TOTAL TIME SPENT",
+    "unit": "Minutes",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 30,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "ARGIA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 14,
+    "first": "2016-08-30T13:50:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "CAENIS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 28,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "CAMBARIDAE",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 18,
+    "first": "2016-08-30T11:50:00.000",
+    "last": "2025-06-25T11:25:00.000"
+  },
+  {
+    "parameter": "CHIRONOMIDAE",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 30,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "CINCINNATIA INTEGRA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 20,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "CORBICULA FLUMINEA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 17,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2024-07-09T14:35:00.000"
+  },
+  {
+    "parameter": "ENALLAGMA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 22,
+    "first": "2016-08-30T13:50:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "GAMMARUS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 7,
+    "first": "2016-08-30T11:50:00.000",
+    "last": "2018-08-07T13:45:00.000"
+  },
+  {
+    "parameter": "HIRUDINIDA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 13,
+    "first": "2016-08-30T11:50:00.000",
+    "last": "2021-09-17T13:51:00.000"
+  },
+  {
+    "parameter": "HYALELLA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 30,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "ACARIFORMES (AQUATIC MITES)",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 29,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "ISCHNURA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 13,
+    "first": "2016-08-30T11:50:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "MELANOIDES TUBERCULATA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 15,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2024-07-09T14:35:00.000"
+  },
+  {
+    "parameter": "OECETIS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 18,
+    "first": "2016-08-30T13:50:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "OLIGOCHAETA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 24,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "PALAEMON",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 26,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "PERITHEMIS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 2,
+    "first": "2016-08-30T13:50:00.000",
+    "last": "2021-09-17T12:35:00.000"
+  },
+  {
+    "parameter": "PHYSELLA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 16,
+    "first": "2016-08-30T11:50:00.000",
+    "last": "2025-06-30T10:30:00.000"
+  },
+  {
+    "parameter": "SCIRTIDAE",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 9,
+    "first": "2016-08-30T13:50:00.000",
+    "last": "2025-06-30T10:30:00.000"
+  },
+  {
+    "parameter": "TANYPODINAE",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 25,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "TABANUS WHITNEYOMYIA ATYLOTUS COMPLEX",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 1,
+    "first": "2016-08-30T13:50:00.000",
+    "last": "2016-08-30T13:50:00.000"
+  },
+  {
+    "parameter": "MICROCYLLOEPUS PUSILLUS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 1,
+    "first": "2016-08-30T13:50:00.000",
+    "last": "2016-08-30T13:50:00.000"
+  },
+  {
+    "parameter": "PELOCORIS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 4,
+    "first": "2016-08-30T13:50:00.000",
+    "last": "2024-07-09T14:35:00.000"
+  },
+  {
+    "parameter": "LIODESSUS OBSCURELLUS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 2,
+    "first": "2016-08-30T11:50:00.000",
+    "last": "2016-08-30T13:50:00.000"
+  },
+  {
+    "parameter": "EPITHECA PRINCEPS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 12,
+    "first": "2016-08-30T13:50:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "BRACHYMESIA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 4,
+    "first": "2016-08-30T11:50:00.000",
+    "last": "2022-07-20T12:25:00.000"
+  },
+  {
+    "parameter": "ERYTHEMIS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 4,
+    "first": "2016-08-30T11:50:00.000",
+    "last": "2022-07-20T13:50:00.000"
+  },
+  {
+    "parameter": "PACHYDIPLAX LONGIPENNIS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 6,
+    "first": "2016-08-30T13:50:00.000",
+    "last": "2025-06-30T10:30:00.000"
+  },
+  {
+    "parameter": "LIBELLULA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 3,
+    "first": "2016-08-30T13:50:00.000",
+    "last": "2024-07-09T10:45:00.000"
+  },
+  {
+    "parameter": "BEZZIA / PALPOMYIA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 12,
+    "first": "2016-08-30T11:50:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "CALLIBAETIS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 21,
+    "first": "2016-08-30T11:50:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "DUBIRAPHIA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 6,
+    "first": "2016-08-30T11:50:00.000",
+    "last": "2023-07-25T12:00:00.000"
+  },
+  {
+    "parameter": "FERRISSIA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 9,
+    "first": "2016-08-30T11:50:00.000",
+    "last": "2020-09-30T13:00:00.000"
+  },
+  {
+    "parameter": "PROBEZZIA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 10,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2021-09-17T10:45:00.000"
+  },
+  {
+    "parameter": "COPEPODA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 13,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "APHYLLA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 3,
+    "first": "2016-08-30T11:50:00.000",
+    "last": "2021-09-17T10:45:00.000"
+  },
+  {
+    "parameter": "BEROSUS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 3,
+    "first": "2016-08-30T11:50:00.000",
+    "last": "2021-09-17T12:35:00.000"
+  },
+  {
+    "parameter": "OSTRACODA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 7,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T10:30:00.000"
+  },
+  {
+    "parameter": "TRICORYTHODES",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 8,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "CENTROPTILUM",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 1,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2016-08-30T09:35:00.000"
+  },
+  {
+    "parameter": "CERATOPOGON",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 3,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2020-10-07T10:30:00.000"
+  },
+  {
+    "parameter": "SOLUBLE AMMONIA AS N",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "PERCENT MOISTURE",
+    "unit": "(%) Percent",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "ARSENIC",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "CADMIUM",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "CHROMIUM",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "COPPER",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 17,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "IRON",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 17,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "LEAD",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "NICKEL",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "SILVER",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "PETROLEUM HYDROCARBONS >C28-C35",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "PETROLEUM HYDROCARBONS C6-C12",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "PETROLEUM HYDROCARBONS C6-C35",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "ZINC",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 17,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "MERCURY",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "AROCLOR 1016",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "AROCLOR 1221",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "AROCLOR 1232",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "AROCLOR 1242",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "AROCLOR 1248",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "AROCLOR 1254",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "AROCLOR 1260",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "4_4'-DDD",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "4_4'-DDE",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "4_4'-DDT",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "ALDRIN",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "ALPHA-BHC (BENZENE HEXACHLORIDE)",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "ALPHA-CHLORDANE",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "ATRAZINE (AATREX)",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "BETA-BHC (BENZENE HEXACHLORIDE)",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "CARBARYL (SEVIN)",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "TOTAL CHLORDANE",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "CHLORPYRIFOS METHYL",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "DELTA-BHC (BENZENE HEXACHLORIDE)",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "DEMETON",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "DIAZINON",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "DIELDRIN",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "CHLORPYRIFOS (DURSBAN)",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "ENDOSULFAN I",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "ENDOSULFAN II",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "ENDOSULFAN SULFATE",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "ENDRIN",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "ENDRIN ALDEHYDE",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "ENDRIN KETONE",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "PARATHION (PARATHION ETHYL)",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "GAMMA-BHC (LINDANE)",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "GAMMA-CHLORDANE",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "OXIDATION-REDUCTION_POTENTIAL",
+    "unit": "MV",
+    "medium": "Surface Water",
+    "count": 1600,
+    "first": "2016-10-19T10:55:00.000",
+    "last": "2025-12-16T12:10:00.000"
+  },
+  {
+    "parameter": "NITRATE AS N",
+    "unit": "MG/L",
+    "medium": "Surface Water",
+    "count": 137,
+    "first": "2016-10-19T10:55:00.000",
+    "last": "2024-11-26T13:05:00.000"
+  },
+  {
+    "parameter": "AMMONIUM AS NH4-N",
+    "unit": "MG/L",
+    "medium": "Surface Water",
+    "count": 89,
+    "first": "2016-10-19T10:55:00.000",
+    "last": "2017-06-21T13:10:00.000"
+  },
+  {
+    "parameter": "AZINPHOS METHYL (GUTHION)",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "HEPTACHLOR",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "HEPTACHLOR EPOXIDE",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "MALATHION",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "METHOXYCHLOR",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "METHYL PARATHION",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "ACENAPHTHENE",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "ACENAPHTHYLENE",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "ANTHRACENE",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "BENZO(A)ANTHRACENE",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "BENZO(A)PYRENE",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "BENZO(B)FLUORANTHENE",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "BENZO(E)PYRENE",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "BENZO(GHI)PERYLENE",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "BENZO(K)FLUORANTHENE",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "CHRYSENE",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "DIBENZ(AH)ANTHRACENE",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "FLUORANTHENE",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "FLUORENE (9H-FLUORENE)",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "INDENO(1_2_3-CD)PYRENE",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "NAPHTHALENE",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "PHENANTHRENE",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "PYRENE",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "TOXAPHENE",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "PETROLEUM HYDROCARBONS >C12-C28",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "GRAVEL AND COARSE SAND(>2.00MM/ >0.0787IN)",
+    "unit": "(%) Percent",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "BEDROCK",
+    "unit": "0-4: (Absent; Sparse; Moderate; Heavy; Very heavy)",
+    "medium": "Habitat",
+    "count": 200,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "BOULDER(>256MM)",
+    "unit": "0-4: (Absent; Sparse; Moderate; Heavy; Very heavy)",
+    "medium": "Habitat",
+    "count": 200,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "COBBLE(64-256)MM",
+    "unit": "0-4: (Absent; Sparse; Moderate; Heavy; Very heavy)",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "GRAVEL/PEBBLE(2-64 MM)",
+    "unit": "0-4: (Absent; Sparse; Moderate; Heavy; Very heavy)",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "SAND (1/16-2MM)",
+    "unit": "0-4: (Absent; Sparse; Moderate; Heavy; Very heavy)",
+    "medium": "Habitat",
+    "count": 200,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "SILT (<1/16MM)",
+    "unit": "0-4: (Absent; Sparse; Moderate; Heavy; Very heavy)",
+    "medium": "Habitat",
+    "count": 200,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "WOODY DEBRIS",
+    "unit": "0-4: (Absent; Sparse; Moderate; Heavy; Very heavy)",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "AQUATIC MACROPHYTE - SUBMERGENT",
+    "unit": "0-4: (Absent; Sparse; Moderate; Heavy; Very heavy)",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "AQUATIC MACROPHYTE - EMERGENT",
+    "unit": "0-4: (Absent; Sparse; Moderate; Heavy; Very heavy)",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "LARGE WOODY DEBRIS",
+    "unit": "0-4: (Absent; Sparse; Moderate; Heavy; Very heavy)",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "SMALL WOODY DEBRIS",
+    "unit": "0-4: (Absent; Sparse; Moderate; Heavy; Very heavy)",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "OVERHANGING VEGETATION < 1 M ABOVE SURFACE",
+    "unit": "0-4: (Absent; Sparse; Moderate; Heavy; Very heavy)",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "HUM INFL LAWN",
+    "unit": "1=Present; .5=Adjacent; 0=Absent",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "HUM INFL OUTFALL",
+    "unit": "1=Present; .5=Adjacent; 0=Absent",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "RIPARIAN VEGETATIVE ZONE WIDTH",
+    "unit": "1= <6M; 2= 6-12M; 3= 12-18M; 4= >18M",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "BEDROCK LEDGES",
+    "unit": "0-4: (Absent; Sparse; Moderate; Heavy; Very heavy)",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "BOULDER INSTREAM COVER",
+    "unit": "0-4: (Absent; Sparse; Moderate; Heavy; Very heavy)",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "GRAVEL AND COBBLE (2-250MM)",
+    "unit": "0-4: (Absent; Sparse; Moderate; Heavy; Very heavy)",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "TERRESTRIAL VEGETATION",
+    "unit": "0-4: (Absent; Sparse; Moderate; Heavy; Very heavy)",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "LAKESHORE BANK ANGLE",
+    "unit": "1=Vertical; 2=30-75 degrees; 3=<30",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "LAKESHORE VERTICAL DISTANCE",
+    "unit": "Meters",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "LAKESHORE HORIZONTAL DISTANCE",
+    "unit": "Meters",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "HUM INFL BUILDINGS",
+    "unit": "1=Present; .5=Adjacent; 0=Absent",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "HUM INFL COMMERCIAL",
+    "unit": "1=Present; .5=Adjacent; 0=Absent",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "HUM INFL DOCKS",
+    "unit": "1=Present; .5=Adjacent; 0=Absent",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "HUM INFL BULKHEADS",
+    "unit": "1=Present; .5=Adjacent; 0=Absent",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "ORGANIC CARBON",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 12,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2024-05-30T12:35:00.000"
+  },
+  {
+    "parameter": "DALAPON",
+    "unit": "UG/KG",
+    "medium": "Sediment",
+    "count": 2,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2017-09-11T09:45:00.000"
+  },
+  {
+    "parameter": "DICAMBA (BANVEL)",
+    "unit": "UG/KG",
+    "medium": "Sediment",
+    "count": 2,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2017-09-11T09:45:00.000"
+  },
+  {
+    "parameter": "2_4-DICHLOROPHENOXYACETIC ACID",
+    "unit": "UG/KG",
+    "medium": "Sediment",
+    "count": 2,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2017-09-11T09:45:00.000"
+  },
+  {
+    "parameter": "PENTACHLOROPHENOL",
+    "unit": "UG/KG",
+    "medium": "Sediment",
+    "count": 2,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2017-09-11T09:45:00.000"
+  },
+  {
+    "parameter": "2_4_5-TP (SILVEX)",
+    "unit": "UG/KG",
+    "medium": "Sediment",
+    "count": 2,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2017-09-11T09:45:00.000"
+  },
+  {
+    "parameter": "2_4_5-TRICHLOROPHENOXYACETIC ACID",
+    "unit": "UG/KG",
+    "medium": "Sediment",
+    "count": 2,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2017-09-11T09:45:00.000"
+  },
+  {
+    "parameter": "PICLORAM",
+    "unit": "UG/KG",
+    "medium": "Sediment",
+    "count": 2,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2017-09-11T09:45:00.000"
+  },
+  {
+    "parameter": "DINOSEB",
+    "unit": "UG/KG",
+    "medium": "Sediment",
+    "count": 2,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2017-09-11T09:45:00.000"
+  },
+  {
+    "parameter": "TEXTURE CLAY (<0.002MM)",
+    "unit": "(%) Percent",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "TEXTURE SAND (0.05-2.0MM)",
+    "unit": "(%) Percent",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "TEXTURE SILT (0.002-0.05MM)",
+    "unit": "(%) Percent",
+    "medium": "Sediment",
+    "count": 8,
+    "first": "2016-09-07T09:41:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "HUM INFL ROAD/RR",
+    "unit": "1=Present; .5=Adjacent; 0=Absent",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "CANOPY (>5M) LEFT BANK VEG TYPE",
+    "unit": "Veg Type (1-4: D; C; M; N)",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "UNDERSTORY LEFT BANK VEG TYPE (0.5-5M)",
+    "unit": "Veg Type (1-4: D; C; M; N)",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "CANOPY LEFT BANK BIG DIAM (>0.3M)",
+    "unit": "0-4: (Absent; Sparse; Moderate; Heavy; Very heavy)",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "CANOPY LEFT BANK SMALL DIAM (<0.3M)",
+    "unit": "0-4: (Absent; Sparse; Moderate; Heavy; Very heavy)",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "CANOPY (>5M) LEFT BANK INVASIVES",
+    "unit": "0-4: (Absent; Sparse; Moderate; Heavy; Very heavy)",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "UNDERSTORY LEFT BANK WOODY SHRUBS/SAPLINGS",
+    "unit": "0-4: (Absent; Sparse; Moderate; Heavy; Very heavy)",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "UNDERSTORY LEFT BANK NON-WOOD HERBS/GRASSES",
+    "unit": "0-4: (Absent; Sparse; Moderate; Heavy; Very heavy)",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "UNDERSTORY (<5M) LEFT BANK INVASIVES",
+    "unit": "0-4: (Absent; Sparse; Moderate; Heavy; Very heavy)",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "GROUND COVER LEFT BANK WOODY SHRUBS/SAPLINGS (<0.5M)",
+    "unit": "0-4: (Absent; Sparse; Moderate; Heavy; Very heavy)",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "GROUND COVER LEFT BANK NON-WOOD HERBS/GRASSES (<0.5M)",
+    "unit": "0-4: (Absent; Sparse; Moderate; Heavy; Very heavy)",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "GROUND COVER LEFT BANK BARREN/BLDG",
+    "unit": "0-4: (Absent; Sparse; Moderate; Heavy; Very heavy)",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "HUMAN STRUCTURE INSTREAM COVER",
+    "unit": "0-4: (Absent; Sparse; Moderate; Heavy; Very heavy)",
+    "medium": "Habitat",
+    "count": 100,
+    "first": "2016-08-30T09:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "COELOSPHAERIUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 16,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "DISPORA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 8,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2021-08-20T12:30:00.000"
+  },
+  {
+    "parameter": "PHACUS LONGICAUDA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2017-08-22T11:00:00.000"
+  },
+  {
+    "parameter": "TETRAEDRON MINIMUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 37,
+    "first": "2016-08-29T10:10:00.000",
+    "last": "2024-12-19T12:05:00.000"
+  },
+  {
+    "parameter": "TETRAEDRON TRIGONUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 9,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2024-12-19T10:40:00.000"
+  },
+  {
+    "parameter": "TRACHELOMONAS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 101,
+    "first": "2016-08-29T10:10:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "COELOSPHAERIUM",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 16,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "DISPORA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 8,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2021-08-20T12:30:00.000"
+  },
+  {
+    "parameter": "PHACUS LONGICAUDA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2017-08-22T11:00:00.000"
+  },
+  {
+    "parameter": "TETRAEDRON MINIMUM",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 37,
+    "first": "2016-08-29T10:10:00.000",
+    "last": "2024-12-19T12:05:00.000"
+  },
+  {
+    "parameter": "TETRAEDRON TRIGONUM",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 9,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2024-12-19T10:40:00.000"
+  },
+  {
+    "parameter": "TRACHELOMONAS",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 100,
+    "first": "2016-08-29T10:10:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "VOLUME REPRESENTED BY SAMPLE",
+    "unit": "mL",
+    "medium": "Ground Water",
+    "count": 2,
+    "first": "2016-06-17T10:30:00.000",
+    "last": "2016-10-17T10:15:00.000"
+  },
+  {
+    "parameter": "ANABAENA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 7,
+    "first": "2016-08-29T10:10:00.000",
+    "last": "2022-12-13T11:20:00.000"
+  },
+  {
+    "parameter": "FLOW SEVERITY CODE (1=NONE;2=LOW;3=NORM;4=FLOOD;5=HIGH;6=DRY)",
+    "unit": "None",
+    "medium": "Ground Water",
+    "count": 8,
+    "first": "2016-12-14T14:15:00.000",
+    "last": "2019-06-13T10:40:00.000"
+  },
+  {
+    "parameter": "COELASTRUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 30,
+    "first": "2016-08-29T10:10:00.000",
+    "last": "2024-12-19T12:05:00.000"
+  },
+  {
+    "parameter": "MICROCYSTIS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 36,
+    "first": "2016-08-29T10:10:00.000",
+    "last": "2024-12-19T12:05:00.000"
+  },
+  {
+    "parameter": "PERIDINIUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 23,
+    "first": "2016-08-29T10:10:00.000",
+    "last": "2020-12-21T11:40:00.000"
+  },
+  {
+    "parameter": "STAURASTRUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 11,
+    "first": "2016-08-29T10:10:00.000",
+    "last": "2024-08-19T11:00:00.000"
+  },
+  {
+    "parameter": "STICHOCOCCUS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2016-08-29T10:10:00.000",
+    "last": "2016-08-29T10:10:00.000"
+  },
+  {
+    "parameter": "TETRASTRUM STAUROGENIAEFORME",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 4,
+    "first": "2016-08-29T10:10:00.000",
+    "last": "2023-06-29T14:00:00.000"
+  },
+  {
+    "parameter": "ANABAENA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 7,
+    "first": "2016-08-29T10:10:00.000",
+    "last": "2022-12-13T11:20:00.000"
+  },
+  {
+    "parameter": "COELASTRUM",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 30,
+    "first": "2016-08-29T10:10:00.000",
+    "last": "2024-12-19T12:05:00.000"
+  },
+  {
+    "parameter": "MICROCYSTIS",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 36,
+    "first": "2016-08-29T10:10:00.000",
+    "last": "2024-12-19T12:05:00.000"
+  },
+  {
+    "parameter": "PERIDINIUM",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 23,
+    "first": "2016-08-29T10:10:00.000",
+    "last": "2020-12-21T11:40:00.000"
+  },
+  {
+    "parameter": "STAURASTRUM",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 11,
+    "first": "2016-08-29T10:10:00.000",
+    "last": "2024-08-19T11:00:00.000"
+  },
+  {
+    "parameter": "STICHOCOCCUS",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2016-08-29T10:10:00.000",
+    "last": "2016-08-29T10:10:00.000"
+  },
+  {
+    "parameter": "TETRASTRUM STAUROGENIAEFORME",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 4,
+    "first": "2016-08-29T10:10:00.000",
+    "last": "2023-06-29T14:00:00.000"
+  },
+  {
+    "parameter": "DICTYOSPHAERIUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 25,
+    "first": "2016-08-29T11:25:00.000",
+    "last": "2024-11-25T12:25:00.000"
+  },
+  {
+    "parameter": "LEPOCINCLIS ACUS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 13,
+    "first": "2016-08-29T11:25:00.000",
+    "last": "2024-08-19T13:15:00.000"
+  },
+  {
+    "parameter": "DICTYOSPHAERIUM",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 25,
+    "first": "2016-08-29T11:25:00.000",
+    "last": "2024-11-25T12:25:00.000"
+  },
+  {
+    "parameter": "LEPOCINCLIS ACUS",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 13,
+    "first": "2016-08-29T11:25:00.000",
+    "last": "2024-08-19T13:15:00.000"
+  },
+  {
+    "parameter": "ANKISTRODESMUS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 34,
+    "first": "2016-10-19T10:55:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "CHARACIUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 8,
+    "first": "2016-10-19T10:55:00.000",
+    "last": "2024-08-19T11:00:00.000"
+  },
+  {
+    "parameter": "CHLAMYDOMONAS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 6,
+    "first": "2016-10-19T10:55:00.000",
+    "last": "2024-09-19T10:45:00.000"
+  },
+  {
+    "parameter": "DESMODESMUS ABUNDANS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 4,
+    "first": "2016-10-19T10:55:00.000",
+    "last": "2017-08-22T10:05:00.000"
+  },
+  {
+    "parameter": "LEPOCINCLIS OVUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2016-10-19T10:55:00.000",
+    "last": "2016-10-19T10:55:00.000"
+  },
+  {
+    "parameter": "NEPHROCYTIUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2016-10-19T10:55:00.000",
+    "last": "2016-10-19T10:55:00.000"
+  },
+  {
+    "parameter": "SELENASTRUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 3,
+    "first": "2016-10-19T10:55:00.000",
+    "last": "2018-09-24T12:05:00.000"
+  },
+  {
+    "parameter": "ANKISTRODESMUS",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 33,
+    "first": "2016-10-19T10:55:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "CHARACIUM",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 8,
+    "first": "2016-10-19T10:55:00.000",
+    "last": "2024-08-19T11:00:00.000"
+  },
+  {
+    "parameter": "CHLAMYDOMONAS",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 6,
+    "first": "2016-10-19T10:55:00.000",
+    "last": "2024-09-19T10:45:00.000"
+  },
+  {
+    "parameter": "DESMODESMUS ABUNDANS",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 4,
+    "first": "2016-10-19T10:55:00.000",
+    "last": "2017-08-22T10:05:00.000"
+  },
+  {
+    "parameter": "LEPOCINCLIS OVUM",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2016-10-19T10:55:00.000",
+    "last": "2016-10-19T10:55:00.000"
+  },
+  {
+    "parameter": "NEPHROCYTIUM",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2016-10-19T10:55:00.000",
+    "last": "2016-10-19T10:55:00.000"
+  },
+  {
+    "parameter": "SELENASTRUM",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 3,
+    "first": "2016-10-19T10:55:00.000",
+    "last": "2018-09-24T12:05:00.000"
+  },
+  {
+    "parameter": "PSEUDOSTAURASTRUM LIMNETICUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2016-10-19T12:30:00.000",
+    "last": "2016-10-19T12:30:00.000"
+  },
+  {
+    "parameter": "PSEUDOSTAURASTRUM LIMNETICUM",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2016-10-19T12:30:00.000",
+    "last": "2016-10-19T12:30:00.000"
+  },
+  {
+    "parameter": "NUMBER OF TAXA",
+    "unit": "None",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 30,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "NUMBER OF DIPTERA TAXA",
+    "unit": "None",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 30,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "NUMBER OF EPHEMEROPTERA TAXA",
+    "unit": "None",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 30,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "NUMBER OF ORGANISMS",
+    "unit": "None",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 30,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "PERCENT OF TOTAL AS CHIRONOMIDAE",
+    "unit": "(%) Percent",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 30,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "PERCENT OF TOTAL AS ELMIDAE",
+    "unit": "(%) Percent",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 30,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "NUMBER OF NONINSECT TAXA",
+    "unit": "None",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 30,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "NUMBER OF EPT TAXA",
+    "unit": "None",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 30,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "PERCENT OF TOTAL AS EPT",
+    "unit": "(%) Percent",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 30,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "PERCENT OF TOTAL AS COLLECTOR/GATHERER",
+    "unit": "(%) Percent",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 30,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "PERCENT OF TOTAL AS PREDATOR",
+    "unit": "(%) Percent",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 30,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "PERCENT OF TOTAL AS FILTERERS",
+    "unit": "(%) Percent",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 30,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "PERCENT OF TOTAL AS GRAZERS (PI AND SC)",
+    "unit": "(%) Percent",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 30,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "PERCENT OF TRICHOPTERA AS HYDROPSYCHIDAE",
+    "unit": "(%) Percent",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 30,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "RATIO OF INTOLERANT TO TOLERANT ORGANISMS",
+    "unit": "(%) Percent",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 9,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2018-08-07T13:45:00.000"
+  },
+  {
+    "parameter": "NUMBER OF INTOLERANT TAXA",
+    "unit": "None",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 30,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "PERCENT OF TOTAL AS TOLERANT ORGANISMS",
+    "unit": "(%) Percent",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 30,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "HILSENHOFF BIOTIC INDEX",
+    "unit": "None",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 30,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "PERCENT DOMINANCE (TOP 1 TAXA)",
+    "unit": "(%) Percent",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 30,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "PERCENT DOMINANCE (TOP 3 TAXA)",
+    "unit": "(%) Percent",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 30,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "PERCENT OF TOTAL AS DOMINANT GUILD (FFG)",
+    "unit": "(%) Percent",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 30,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "EPT/EPT+CHIRONOMIDAE",
+    "unit": "Ratio",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 30,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "TCEQ QUANTITATIVE AQUATIC LIFE USE SCORE",
+    "unit": "None",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 30,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "TCEQ QUALITATIVE AQUATIC LIFE USE SCORE",
+    "unit": "None",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 30,
+    "first": "2016-08-30T09:35:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "CLOSTERIUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 14,
+    "first": "2017-02-21T10:45:00.000",
+    "last": "2022-09-29T11:10:00.000"
+  },
+  {
+    "parameter": "CLOSTERIUM",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 14,
+    "first": "2017-02-21T10:45:00.000",
+    "last": "2022-09-29T11:10:00.000"
+  },
+  {
+    "parameter": "CHLORELLA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 30,
+    "first": "2016-12-13T11:10:00.000",
+    "last": "2024-12-19T12:05:00.000"
+  },
+  {
+    "parameter": "CHLORELLA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 30,
+    "first": "2016-12-13T11:10:00.000",
+    "last": "2024-12-19T12:05:00.000"
+  },
+  {
+    "parameter": "PSEUDOPEDIASTRUM BORYANUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2016-12-13T09:50:00.000",
+    "last": "2022-08-16T11:50:00.000"
+  },
+  {
+    "parameter": "PSEUDOPEDIASTRUM BORYANUM",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2016-12-13T09:50:00.000",
+    "last": "2022-08-16T11:50:00.000"
+  },
+  {
+    "parameter": "OXIDATION-REDUCTION_POTENTIAL",
+    "unit": "MV",
+    "medium": "Ground Water",
+    "count": 1,
+    "first": "2017-06-15T09:10:00.000",
+    "last": "2017-06-15T09:10:00.000"
+  },
+  {
+    "parameter": "GLENODINIUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 5,
+    "first": "2017-04-20T10:30:00.000",
+    "last": "2017-08-22T11:00:00.000"
+  },
+  {
+    "parameter": "SCHIZOTHRIX",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 9,
+    "first": "2017-04-20T09:45:00.000",
+    "last": "2017-08-22T11:30:00.000"
+  },
+  {
+    "parameter": "GLENODINIUM",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 5,
+    "first": "2017-04-20T10:30:00.000",
+    "last": "2017-08-22T11:00:00.000"
+  },
+  {
+    "parameter": "SCHIZOTHRIX",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 9,
+    "first": "2017-04-20T09:45:00.000",
+    "last": "2017-08-22T11:30:00.000"
+  },
+  {
+    "parameter": "CRUCIGENIA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2017-08-22T11:00:00.000",
+    "last": "2017-08-22T11:00:00.000"
+  },
+  {
+    "parameter": "PEDIASTRUM DUPLEX",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 8,
+    "first": "2017-06-21T11:15:00.000",
+    "last": "2023-08-15T11:45:00.000"
+  },
+  {
+    "parameter": "PEDIASTRUM TETRAS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2017-08-22T11:00:00.000",
+    "last": "2017-08-22T11:00:00.000"
+  },
+  {
+    "parameter": "PEDIASTRUM DUPLEX",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 8,
+    "first": "2017-06-21T11:15:00.000",
+    "last": "2023-08-15T11:45:00.000"
+  },
+  {
+    "parameter": "PEDIASTRUM TETRAS",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2017-08-22T11:00:00.000",
+    "last": "2017-08-22T11:00:00.000"
+  },
+  {
+    "parameter": "DESMODESMUS ARMATUS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2017-06-21T11:15:00.000",
+    "last": "2017-06-21T11:15:00.000"
+  },
+  {
+    "parameter": "DESMODESMUS ARMATUS",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2017-06-21T11:15:00.000",
+    "last": "2017-06-21T11:15:00.000"
+  },
+  {
+    "parameter": "CLADOCERA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 6,
+    "first": "2017-08-11T10:11:00.000",
+    "last": "2021-09-17T12:35:00.000"
+  },
+  {
+    "parameter": "POLYCENTROPUS / CERNOTINA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 2,
+    "first": "2017-08-11T10:11:00.000",
+    "last": "2018-08-07T13:45:00.000"
+  },
+  {
+    "parameter": "STENACRON",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 12,
+    "first": "2017-08-11T10:11:00.000",
+    "last": "2023-07-25T12:00:00.000"
+  },
+  {
+    "parameter": "DASYHELEA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 2,
+    "first": "2017-08-11T13:20:00.000",
+    "last": "2025-06-25T11:25:00.000"
+  },
+  {
+    "parameter": "HELISOMA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 6,
+    "first": "2017-08-11T10:11:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "ARIGOMPHUS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 1,
+    "first": "2017-08-11T10:11:00.000",
+    "last": "2017-08-11T10:11:00.000"
+  },
+  {
+    "parameter": "# OF GRIDS SUBSAMPLED",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 26,
+    "first": "2017-08-11T10:11:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "DUGESIIDAE",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 4,
+    "first": "2017-08-11T10:11:00.000",
+    "last": "2025-06-30T10:30:00.000"
+  },
+  {
+    "parameter": "RHEUMATOBATES",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 9,
+    "first": "2017-08-11T10:11:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "NECTOPSYCHE",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 2,
+    "first": "2017-08-11T10:11:00.000",
+    "last": "2018-08-07T09:50:00.000"
+  },
+  {
+    "parameter": "METROBATES",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 1,
+    "first": "2017-08-11T12:05:00.000",
+    "last": "2017-08-11T12:05:00.000"
+  },
+  {
+    "parameter": "STENONEMA FEMORATUM",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 9,
+    "first": "2017-08-11T12:05:00.000",
+    "last": "2023-07-25T11:10:00.000"
+  },
+  {
+    "parameter": "CRUCIGENIA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2017-08-22T11:00:00.000",
+    "last": "2017-08-22T11:00:00.000"
+  },
+  {
+    "parameter": "CRYPTOMONAS",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 7,
+    "first": "2017-06-21T13:00:00.000",
+    "last": "2024-08-19T11:00:00.000"
+  },
+  {
+    "parameter": "CRYPTOMONAS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 7,
+    "first": "2017-06-21T13:00:00.000",
+    "last": "2024-08-19T11:00:00.000"
+  },
+  {
+    "parameter": "KIRCHNERIELLA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 19,
+    "first": "2017-04-20T09:45:00.000",
+    "last": "2024-12-19T10:40:00.000"
+  },
+  {
+    "parameter": "KIRCHNERIELLA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 19,
+    "first": "2017-04-20T09:45:00.000",
+    "last": "2024-12-19T10:40:00.000"
+  },
+  {
+    "parameter": "OOCYSTIS",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 10,
+    "first": "2017-06-21T11:15:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "OOCYSTIS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 10,
+    "first": "2017-06-21T11:15:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "GONIOCHLORIS FALLAX",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2017-08-22T10:05:00.000",
+    "last": "2017-08-22T10:05:00.000"
+  },
+  {
+    "parameter": "GONIOCHLORIS FALLAX",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2017-08-22T10:05:00.000",
+    "last": "2017-08-22T10:05:00.000"
+  },
+  {
+    "parameter": "TETRAEDRON CAUDATUM",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 25,
+    "first": "2017-08-22T10:05:00.000",
+    "last": "2024-12-19T12:05:00.000"
+  },
+  {
+    "parameter": "TETRAEDRON CAUDATUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 25,
+    "first": "2017-08-22T10:05:00.000",
+    "last": "2024-12-19T12:05:00.000"
+  },
+  {
+    "parameter": "GOLENKINIA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 15,
+    "first": "2017-08-22T10:05:00.000",
+    "last": "2024-07-16T11:25:00.000"
+  },
+  {
+    "parameter": "GOLENKINIA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 15,
+    "first": "2017-08-22T10:05:00.000",
+    "last": "2024-07-16T11:25:00.000"
+  },
+  {
+    "parameter": "TOTAL COLIFORM BACTERIA",
+    "unit": "MPN/100ML",
+    "medium": "Ground Water",
+    "count": 3,
+    "first": "2017-10-16T11:15:00.000",
+    "last": "2017-10-16T11:15:00.000"
+  },
+  {
+    "parameter": "CODE FOR SAMPLE COLLECTION APP",
+    "unit": "1=OATRTA;2=OTHER;3=JPSOCC;4=GIRDL;5=GAP;6=RFA;7=CO;8=SSAF;9=EIIBIO",
+    "medium": "Surface Water",
+    "count": 616,
+    "first": "2018-04-25T14:05:00.000",
+    "last": "2025-12-16T12:20:00.000"
+  },
+  {
+    "parameter": "PLANKTOLYNGBYA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 128,
+    "first": "2017-10-17T10:10:00.000",
+    "last": "2025-02-18T11:50:00.000"
+  },
+  {
+    "parameter": "PLANKTOLYNGBYA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 125,
+    "first": "2017-10-17T10:10:00.000",
+    "last": "2025-02-18T11:50:00.000"
+  },
+  {
+    "parameter": "RHODAMINE WT DYE",
+    "unit": "Parts Per Billion (PPB)",
+    "medium": "Ground Water",
+    "count": 135,
+    "first": "2016-03-31T11:10:00.000",
+    "last": "2022-04-27T13:51:00.000"
+  },
+  {
+    "parameter": "SULFORHODAMINE B",
+    "unit": "Parts Per Billion (PPB)",
+    "medium": "Ground Water",
+    "count": 135,
+    "first": "2016-03-31T11:10:00.000",
+    "last": "2022-04-27T13:51:00.000"
+  },
+  {
+    "parameter": "FLUORESCEIN DYE",
+    "unit": "Parts Per Billion (PPB)",
+    "medium": "Ground Water",
+    "count": 135,
+    "first": "2016-03-31T11:10:00.000",
+    "last": "2022-04-27T13:51:00.000"
+  },
+  {
+    "parameter": "EOSINE DYE",
+    "unit": "Parts Per Billion (PPB)",
+    "medium": "Ground Water",
+    "count": 135,
+    "first": "2016-03-31T11:10:00.000",
+    "last": "2022-04-27T13:51:00.000"
+  },
+  {
+    "parameter": "PYRANINE",
+    "unit": "Parts Per Billion (PPB)",
+    "medium": "Ground Water",
+    "count": 6,
+    "first": "2016-06-27T19:10:00.000",
+    "last": "2016-09-08T16:07:00.000"
+  },
+  {
+    "parameter": "ACTINASTRUM HANTZSCHII",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 8,
+    "first": "2017-10-17T10:10:00.000",
+    "last": "2023-10-31T11:55:00.000"
+  },
+  {
+    "parameter": "ACTINASTRUM HANTZSCHII",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 8,
+    "first": "2017-10-17T10:10:00.000",
+    "last": "2023-10-31T11:55:00.000"
+  },
+  {
+    "parameter": "TINOPAL",
+    "unit": "Relative Confidence Scale 0-3: (no detect, weak, moderate, strong)",
+    "medium": "Ground Water",
+    "count": 10,
+    "first": "2016-05-06T19:15:00.000",
+    "last": "2016-06-27T20:40:00.000"
+  },
+  {
+    "parameter": "CERATIUM HIRUDINELLA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 6,
+    "first": "2017-12-14T13:15:00.000",
+    "last": "2023-08-15T11:45:00.000"
+  },
+  {
+    "parameter": "LIMNOTHRIX",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2018-02-21T13:05:00.000",
+    "last": "2018-02-21T13:05:00.000"
+  },
+  {
+    "parameter": "SCENEDESMUS BIJUGUS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2018-02-21T13:05:00.000",
+    "last": "2018-02-21T13:05:00.000"
+  },
+  {
+    "parameter": "CERATIUM HIRUDINELLA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 6,
+    "first": "2017-12-14T13:15:00.000",
+    "last": "2023-08-15T11:45:00.000"
+  },
+  {
+    "parameter": "LIMNOTHRIX",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2018-02-21T13:05:00.000",
+    "last": "2018-02-21T13:05:00.000"
+  },
+  {
+    "parameter": "SCENEDESMUS BIJUGUS",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2018-02-21T13:05:00.000",
+    "last": "2018-02-21T13:05:00.000"
+  },
+  {
+    "parameter": "DIRECT YELLOW 96",
+    "unit": "Relative Confidence Scale 0-3: (no detect, weak, moderate, strong)",
+    "medium": "Ground Water",
+    "count": 10,
+    "first": "2016-05-06T19:15:00.000",
+    "last": "2016-06-27T20:40:00.000"
+  },
+  {
+    "parameter": "TURBIDITY",
+    "unit": "NTU",
+    "medium": "Ground Water",
+    "count": 14,
+    "first": "2018-10-25T09:45:00.000",
+    "last": "2025-11-05T12:25:00.000"
+  },
+  {
+    "parameter": "PENTACHLOROPHENOL",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 6,
+    "first": "2018-10-02T14:35:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "CODE FOR SAMPLE COLLECTION APP",
+    "unit": "1=OATRTA;2=OTHER;3=JPSOCC;4=GIRDL;5=GAP;6=RFA;7=CO;8=SSAF;9=EIIBIO",
+    "medium": "Ground Water",
+    "count": 294,
+    "first": "2018-09-19T10:00:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "2_4_5-TRICHLOROPHENOXYACETIC ACID",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 6,
+    "first": "2018-10-02T14:35:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "2_4_5-TP (SILVEX)",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 6,
+    "first": "2018-10-02T14:35:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "2_4-DICHLOROPHENOXYACETIC ACID",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 6,
+    "first": "2018-10-02T14:35:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "DALAPON",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 6,
+    "first": "2018-10-02T14:35:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "DICAMBA (BANVEL)",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 6,
+    "first": "2018-10-02T14:35:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "DINOSEB",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 6,
+    "first": "2018-10-02T14:35:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "PLANORBELLA TRIVOLVIS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 6,
+    "first": "2018-08-07T09:50:00.000",
+    "last": "2022-07-20T13:50:00.000"
+  },
+  {
+    "parameter": "TOXOLASMA PARVUM",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 1,
+    "first": "2018-08-07T13:45:00.000",
+    "last": "2018-08-07T13:45:00.000"
+  },
+  {
+    "parameter": "DREISSENA POLYMORPHA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 17,
+    "first": "2018-08-07T09:50:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "SPHAERIUM (CLAM)",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 2,
+    "first": "2018-08-07T12:15:00.000",
+    "last": "2018-08-07T13:45:00.000"
+  },
+  {
+    "parameter": "RANATRA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 14,
+    "first": "2018-08-07T12:15:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "NASIAESCHNA PENTACANTHA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 2,
+    "first": "2018-08-07T13:45:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "PLANORBULA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 1,
+    "first": "2018-08-07T12:15:00.000",
+    "last": "2018-08-07T12:15:00.000"
+  },
+  {
+    "parameter": "SIALIS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 4,
+    "first": "2018-08-07T09:50:00.000",
+    "last": "2022-07-20T10:45:00.000"
+  },
+  {
+    "parameter": "HELICHUS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 2,
+    "first": "2018-08-07T09:50:00.000",
+    "last": "2020-09-30T13:00:00.000"
+  },
+  {
+    "parameter": "TIPULA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 1,
+    "first": "2018-08-07T09:50:00.000",
+    "last": "2018-08-07T09:50:00.000"
+  },
+  {
+    "parameter": "TURBIDITY",
+    "unit": "NTU",
+    "medium": "Surface Water",
+    "count": 35,
+    "first": "2018-10-25T11:05:00.000",
+    "last": "2024-11-26T13:05:00.000"
+  },
+  {
+    "parameter": "DAYS AFTER STORM",
+    "unit": "Days",
+    "medium": "Surface Water",
+    "count": 468,
+    "first": "2018-12-18T12:35:00.000",
+    "last": "2025-12-16T12:10:00.000"
+  },
+  {
+    "parameter": "APHANOCAPSA ELACHISTA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "CHRYSOSPORUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "CYANOGRANIS FERRUGINEA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "CYANOPHYTE CELL PAIR",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "CYANOPHYTE COLONY",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "CYANOPHYTE UNICELL OVAL/ROD",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2016-08-29T11:25:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "CYANOPHYTE UNICELL SPHERE",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "RAPHIDIOPSIS RACIBORSKII",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "DACTYLOCOCCOPSIS IRREGULARIS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "GEITLERINEMA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "MERISMOPEDIA PUNCTATA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2016-08-29T11:25:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "NOSTOCALES",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "PLANKTOLYNGBYA LIMNETICA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "PSEUDANABAENA LIMNETICA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "PSEUDANABAENA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 3,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2018-09-24T10:55:00.000"
+  },
+  {
+    "parameter": "APHANOCAPSA ELACHISTA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "CHRYSOSPORUM",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "CYANOGRANIS FERRUGINEA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "CYANOPHYTE CELL PAIR",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "CYANOPHYTE COLONY",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "CYANOPHYTE UNICELL OVAL/ROD",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2016-08-29T11:25:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "CYANOPHYTE UNICELL SPHERE",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "RAPHIDIOPSIS RACIBORSKII",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "DACTYLOCOCCOPSIS IRREGULARIS",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "GEITLERINEMA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "MERISMOPEDIA PUNCTATA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2016-08-29T11:25:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "NOSTOCALES",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "PLANKTOLYNGBYA LIMNETICA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "PSEUDANABAENA LIMNETICA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "PSEUDANABAENA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 3,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2018-09-24T10:55:00.000"
+  },
+  {
+    "parameter": "TOTAL ALGAE",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "NOSTOCALES SP.2",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T10:55:00.000"
+  },
+  {
+    "parameter": "PLANKTOLYNGBYA MICROSPIRA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T10:55:00.000"
+  },
+  {
+    "parameter": "NOSTOCALES SP.2",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T10:55:00.000"
+  },
+  {
+    "parameter": "PLANKTOLYNGBYA MICROSPIRA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T10:55:00.000"
+  },
+  {
+    "parameter": "LAGERHEIMIA QUADRISETA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2018-07-16T11:05:00.000",
+    "last": "2018-07-16T11:05:00.000"
+  },
+  {
+    "parameter": "LAGERHEIMIA QUADRISETA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2018-07-16T11:05:00.000",
+    "last": "2018-07-16T11:05:00.000"
+  },
+  {
+    "parameter": "PSEUDOSTAURASTRUM ENORME",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2018-07-16T09:55:00.000",
+    "last": "2018-07-16T09:55:00.000"
+  },
+  {
+    "parameter": "PSEUDOSTAURASTRUM ENORME",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2018-07-16T09:55:00.000",
+    "last": "2018-07-16T09:55:00.000"
+  },
+  {
+    "parameter": "EUCAPSIS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2018-08-21T13:20:00.000",
+    "last": "2018-08-21T13:20:00.000"
+  },
+  {
+    "parameter": "EUCAPSIS",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2018-08-21T13:20:00.000",
+    "last": "2018-08-21T13:20:00.000"
+  },
+  {
+    "parameter": "CHRYSAMOEBA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2018-09-24T12:05:00.000",
+    "last": "2018-09-24T12:05:00.000"
+  },
+  {
+    "parameter": "WILLEA CRUCIFERA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 3,
+    "first": "2018-09-24T11:35:00.000",
+    "last": "2022-09-29T11:10:00.000"
+  },
+  {
+    "parameter": "UNIDENTIFIED DINOFLAGELLATE",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 62,
+    "first": "2018-09-24T11:35:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "CHRYSAMOEBA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2018-09-24T12:05:00.000",
+    "last": "2018-09-24T12:05:00.000"
+  },
+  {
+    "parameter": "WILLEA CRUCIFERA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 3,
+    "first": "2018-09-24T11:35:00.000",
+    "last": "2022-09-29T11:10:00.000"
+  },
+  {
+    "parameter": "UNIDENTIFIED DINOFLAGELLATE",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 62,
+    "first": "2018-09-24T11:35:00.000",
+    "last": "2025-02-18T12:30:00.000"
+  },
+  {
+    "parameter": "ANATOXIN-A",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "CYLINDROSPERMOPSIN",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "LYNGBYATOXIN-A",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "DEBROMOAPLYSIATOXIN",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 4,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "APLYSIATOXIN",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "MICROCYSTIN VARIANT [DASP3]MC-RR",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "MICROCYSTIN VARIANT MC-RR",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 57,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2019-11-21T12:30:00.000"
+  },
+  {
+    "parameter": "NODULARIN",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "MICROCYSTIN VARIANT MC-YR",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 57,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2019-11-21T12:30:00.000"
+  },
+  {
+    "parameter": "MICROCYSTIN VARIANT MC-HTYR",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "MICROCYSTIN VARIANT MC-LR",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 57,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2019-11-21T12:30:00.000"
+  },
+  {
+    "parameter": "MICROCYSTIN VARIANT [DHA7]MC-LR",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "MICROCYSTIN VARIANT MC-HILR",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "MICROCYSTIN VARIANT MC-WR",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "MICROCYSTIN VARIANT [DLEU1]MC-LR",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "MICROCYSTIN VARIANT MC-LA",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "MICROCYSTIN VARIANT MC-LY",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "MICROCYSTIN VARIANT MC-LW",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 57,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2019-11-21T12:30:00.000"
+  },
+  {
+    "parameter": "MICROCYSTIN VARIANT MC-LF",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "PARALYTIC SHELLFISH TOXIN SAXITOXIN",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "PARALYTIC SHELLFISH TOXIN NEOSAXITOXIN",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "PARALYTIC SHELLFISH TOXIN GONYAUTOXIN 5",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "PARALYTIC SHELLFISH TOXIN GONYAUTOXIN 1",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "PARALYTIC SHELLFISH TOXIN GONYAUTOXIN 2",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "PARALYTIC SHELLFISH TOXIN GONYAUTOXIN 3",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "PARALYTIC SHELLFISH TOXIN GONYAUTOXIN 4",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "PARALYTIC SHELLFISH TOXIN DECARBAMOYLGONYAUTOXIN 2",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "PARALYTIC SHELLFISH TOXIN DECARBAMOYLGONYAUTOXIN 3",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "PARALYTIC SHELLFISH TOXIN N-SULFOCARBAMOYL-GONYAUTOXIN-2",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "PARALYTIC SHELLFISH TOXIN N-SULFOCARBAMOYL-GONYAUTOXIN-3",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 2,
+    "first": "2016-08-29T10:55:00.000",
+    "last": "2016-08-29T11:25:00.000"
+  },
+  {
+    "parameter": "TOTAL KJELDAHL NITROGEN AS N",
+    "unit": "MG/L",
+    "medium": "Ground Water",
+    "count": 9,
+    "first": "2019-01-24T10:00:00.000",
+    "last": "2019-01-24T11:40:00.000"
+  },
+  {
+    "parameter": "VOLATILE SUSPENDED SOLIDS",
+    "unit": "MG/L",
+    "medium": "Ground Water",
+    "count": 19,
+    "first": "2019-06-13T10:40:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "HELISOMA ANCEPS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 3,
+    "first": "2019-08-15T10:30:00.000",
+    "last": "2019-08-15T13:40:00.000"
+  },
+  {
+    "parameter": "EPITHECA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 3,
+    "first": "2019-08-15T10:30:00.000",
+    "last": "2019-08-15T13:40:00.000"
+  },
+  {
+    "parameter": "MICRATHYRIA HAGENII",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 2,
+    "first": "2019-08-15T13:40:00.000",
+    "last": "2021-09-17T13:51:00.000"
+  },
+  {
+    "parameter": "MACROMIA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 2,
+    "first": "2019-08-15T13:40:00.000",
+    "last": "2022-07-20T10:45:00.000"
+  },
+  {
+    "parameter": "CADMIUM",
+    "unit": "UG/L",
+    "medium": "Ground Water",
+    "count": 10,
+    "first": "2019-09-26T11:20:00.000",
+    "last": "2022-09-21T10:25:00.000"
+  },
+  {
+    "parameter": "RATIO OF INTOLERANT TO TOLERANT ORGANISMS",
+    "unit": "Ratio",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 21,
+    "first": "2019-08-15T10:30:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "TETRASTRUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2019-04-22T13:30:00.000",
+    "last": "2019-05-22T11:05:00.000"
+  },
+  {
+    "parameter": "TETRASTRUM",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2019-04-22T13:30:00.000",
+    "last": "2019-05-22T11:05:00.000"
+  },
+  {
+    "parameter": "TOTAL ORGANIC CARBON DRY WEIGHT",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 4,
+    "first": "2020-06-02T10:50:00.000",
+    "last": "2025-09-24T11:15:00.000"
+  },
+  {
+    "parameter": "SIDA CRYSTALLINA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 9,
+    "first": "2020-09-30T13:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "AMBRYSUS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 1,
+    "first": "2020-10-07T10:30:00.000",
+    "last": "2020-10-07T10:30:00.000"
+  },
+  {
+    "parameter": "CRANGONYX",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 6,
+    "first": "2020-09-30T11:10:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "EPITHECA PETECHIALIS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 2,
+    "first": "2020-09-30T11:10:00.000",
+    "last": "2024-07-09T14:35:00.000"
+  },
+  {
+    "parameter": "DESMODESMUS BRASILIENSIS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2020-05-14T11:20:00.000",
+    "last": "2020-05-14T11:20:00.000"
+  },
+  {
+    "parameter": "DESMODESMUS BRASILIENSIS",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2020-05-14T11:20:00.000",
+    "last": "2020-05-14T11:20:00.000"
+  },
+  {
+    "parameter": "E COLI HOLD TIME",
+    "unit": "Hours",
+    "medium": "Surface Water",
+    "count": 151,
+    "first": "2021-03-09T10:30:00.000",
+    "last": "2025-12-16T12:15:00.000"
+  },
+  {
+    "parameter": "E COLI HOLD TIME",
+    "unit": "Hours",
+    "medium": "Ground Water",
+    "count": 25,
+    "first": "2021-03-10T11:00:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "FLOW",
+    "unit": "Cubic Feet Per Second",
+    "medium": "Surface Water",
+    "count": 2,
+    "first": "2021-08-20T13:15:00.000",
+    "last": "2022-06-27T11:50:00.000"
+  },
+  {
+    "parameter": "CADMIUM",
+    "unit": "MG/L",
+    "medium": "Ground Water",
+    "count": 19,
+    "first": "2021-09-13T10:15:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "STRONTIUM",
+    "unit": "MG/L",
+    "medium": "Ground Water",
+    "count": 19,
+    "first": "2021-09-13T10:15:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "GLOEOCAPSA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2021-09-13T11:40:00.000",
+    "last": "2021-09-13T13:30:00.000"
+  },
+  {
+    "parameter": "UNKNOWN GREEN ALGAE",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 5,
+    "first": "2021-08-20T12:30:00.000",
+    "last": "2023-08-15T10:15:00.000"
+  },
+  {
+    "parameter": "CERATIUM",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2020-10-20T12:20:00.000",
+    "last": "2020-10-20T12:20:00.000"
+  },
+  {
+    "parameter": "UNKNOWN GREEN ALGAE",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 5,
+    "first": "2021-08-20T12:30:00.000",
+    "last": "2023-08-15T10:15:00.000"
+  },
+  {
+    "parameter": "CERATIUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2020-10-20T12:20:00.000",
+    "last": "2020-10-20T12:20:00.000"
+  },
+  {
+    "parameter": "GLOEOCAPSA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2021-09-13T11:40:00.000",
+    "last": "2021-09-13T13:30:00.000"
+  },
+  {
+    "parameter": "GYRAULUS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 4,
+    "first": "2021-09-17T12:35:00.000",
+    "last": "2023-07-25T10:00:00.000"
+  },
+  {
+    "parameter": "NEOPLEA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 3,
+    "first": "2021-09-17T12:35:00.000",
+    "last": "2025-06-30T10:30:00.000"
+  },
+  {
+    "parameter": "ANOPHELES",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 1,
+    "first": "2021-09-17T12:35:00.000",
+    "last": "2021-09-17T12:35:00.000"
+  },
+  {
+    "parameter": "CHARCOAL PACKET CONDITION",
+    "unit": "1-4: (Good; Damaged; Dry; Lost)",
+    "medium": "Ground Water",
+    "count": 107,
+    "first": "2022-02-09T12:00:00.000",
+    "last": "2022-05-04T14:39:00.000"
+  },
+  {
+    "parameter": "TOTAL SOLIDS",
+    "unit": "(%) Percent",
+    "medium": "Sediment",
+    "count": 154,
+    "first": "2021-06-14T13:10:00.000",
+    "last": "2025-11-21T13:15:00.000"
+  },
+  {
+    "parameter": "LABILE PHOSPHORUS",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 154,
+    "first": "2021-06-14T13:10:00.000",
+    "last": "2025-11-21T13:15:00.000"
+  },
+  {
+    "parameter": "REDUCTANT-SOLUBLE PHOSPHORUS",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 154,
+    "first": "2021-06-14T13:10:00.000",
+    "last": "2025-11-21T13:15:00.000"
+  },
+  {
+    "parameter": "METAL-OXIDE ADSORBED PHOSPHORUS",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 154,
+    "first": "2021-06-14T13:10:00.000",
+    "last": "2025-11-21T13:15:00.000"
+  },
+  {
+    "parameter": "ORGANIC PHOSPHORUS",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 154,
+    "first": "2021-06-14T13:10:00.000",
+    "last": "2025-11-21T13:15:00.000"
+  },
+  {
+    "parameter": "APATITE AND RESIDUAL PHOSPHORUS",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 154,
+    "first": "2021-06-14T13:10:00.000",
+    "last": "2025-11-21T13:15:00.000"
+  },
+  {
+    "parameter": "FREE REACTIVE PHOSPHORUS",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 28,
+    "first": "2021-06-14T13:34:00.000",
+    "last": "2024-11-26T13:05:00.000"
+  },
+  {
+    "parameter": "PHOSPHORUS AS P",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 28,
+    "first": "2021-06-14T13:34:00.000",
+    "last": "2024-11-26T13:05:00.000"
+  },
+  {
+    "parameter": "ALKALINITY (AS CACO3)",
+    "unit": "MG/L",
+    "medium": "Surface Water",
+    "count": 28,
+    "first": "2021-06-14T13:34:00.000",
+    "last": "2024-11-26T13:05:00.000"
+  },
+  {
+    "parameter": "HARDNESS (AS CACO3)",
+    "unit": "MG/L",
+    "medium": "Surface Water",
+    "count": 28,
+    "first": "2021-06-14T13:34:00.000",
+    "last": "2024-11-26T13:05:00.000"
+  },
+  {
+    "parameter": "NITRITE AS N",
+    "unit": "MG/L",
+    "medium": "Surface Water",
+    "count": 28,
+    "first": "2021-06-14T13:34:00.000",
+    "last": "2024-11-26T13:05:00.000"
+  },
+  {
+    "parameter": "NITROGEN AS N",
+    "unit": "MG/L",
+    "medium": "Surface Water",
+    "count": 28,
+    "first": "2021-06-14T13:34:00.000",
+    "last": "2024-11-26T13:05:00.000"
+  },
+  {
+    "parameter": "DINOBRYON SOCIALE (EHRENBERG)",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 7,
+    "first": "2022-08-16T12:25:00.000",
+    "last": "2023-06-29T14:00:00.000"
+  },
+  {
+    "parameter": "EUASTRUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 7,
+    "first": "2022-08-16T12:25:00.000",
+    "last": "2024-09-19T10:45:00.000"
+  },
+  {
+    "parameter": "TRACHELOMONAS VOLVOCINA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2022-08-16T12:25:00.000",
+    "last": "2022-08-16T12:25:00.000"
+  },
+  {
+    "parameter": "DINOBRYON SOCIALE (EHRENBERG)",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 7,
+    "first": "2022-08-16T12:25:00.000",
+    "last": "2023-06-29T14:00:00.000"
+  },
+  {
+    "parameter": "EUASTRUM",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 7,
+    "first": "2022-08-16T12:25:00.000",
+    "last": "2024-09-19T10:45:00.000"
+  },
+  {
+    "parameter": "TRACHELOMONAS VOLVOCINA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2022-08-16T12:25:00.000",
+    "last": "2022-08-16T12:25:00.000"
+  },
+  {
+    "parameter": "CHLOROPHYLL-A",
+    "unit": "MG/L",
+    "medium": "Surface Water",
+    "count": 92,
+    "first": "2022-12-13T10:20:00.000",
+    "last": "2025-12-16T12:15:00.000"
+  },
+  {
+    "parameter": "MERCURY",
+    "unit": "MG/L",
+    "medium": "Ground Water",
+    "count": 18,
+    "first": "2023-01-04T10:00:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "ALKALINITY BICARBONATE (AS CACO3)",
+    "unit": "MG/L",
+    "medium": "Ground Water",
+    "count": 18,
+    "first": "2023-01-04T10:00:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "ALKALINITY CARBONATE (AS CACO3)",
+    "unit": "MG/L",
+    "medium": "Ground Water",
+    "count": 18,
+    "first": "2023-01-04T10:00:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "ALKALINITY HYDROXIDE (AS CACO3)",
+    "unit": "MG/L",
+    "medium": "Ground Water",
+    "count": 18,
+    "first": "2023-01-04T10:00:00.000",
+    "last": "2025-12-10T11:10:00.000"
+  },
+  {
+    "parameter": "HYDROPTILA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 1,
+    "first": "2022-07-20T13:50:00.000",
+    "last": "2022-07-20T13:50:00.000"
+  },
+  {
+    "parameter": "GLOSSIPHONIIDAE",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 11,
+    "first": "2022-07-20T12:25:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "MESOVELIA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 3,
+    "first": "2022-07-20T13:50:00.000",
+    "last": "2024-07-09T14:35:00.000"
+  },
+  {
+    "parameter": "BELOSTOMA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 5,
+    "first": "2022-07-20T13:50:00.000",
+    "last": "2025-06-30T10:30:00.000"
+  },
+  {
+    "parameter": "CINCINNATIA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 3,
+    "first": "2022-07-20T10:45:00.000",
+    "last": "2022-07-20T13:50:00.000"
+  },
+  {
+    "parameter": "TREPOBATES",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 3,
+    "first": "2022-07-20T13:50:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "ERPOBDELLIDAE",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 4,
+    "first": "2022-07-20T10:45:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "MICROCYSTIN VARIANT MC-LW",
+    "unit": "ng/g",
+    "medium": "Periphyton Mat",
+    "count": 54,
+    "first": "2019-08-05T00:00:00.000",
+    "last": "2019-11-21T12:30:00.000"
+  },
+  {
+    "parameter": "MICROCYSTIN VARIANT MC-YR",
+    "unit": "ng/g",
+    "medium": "Periphyton Mat",
+    "count": 54,
+    "first": "2019-08-05T00:00:00.000",
+    "last": "2019-11-21T12:30:00.000"
+  },
+  {
+    "parameter": "DIHYDROANATOXIN-A",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 55,
+    "first": "2019-08-05T00:00:00.000",
+    "last": "2019-11-21T12:30:00.000"
+  },
+  {
+    "parameter": "DIHYDROANATOXIN-A",
+    "unit": "ng/g",
+    "medium": "Periphyton Mat",
+    "count": 54,
+    "first": "2019-08-05T00:00:00.000",
+    "last": "2019-11-21T12:30:00.000"
+  },
+  {
+    "parameter": "MICROCYSTIN VARIANT MC-LR",
+    "unit": "ng/g",
+    "medium": "Periphyton Mat",
+    "count": 54,
+    "first": "2019-08-05T00:00:00.000",
+    "last": "2019-11-21T12:30:00.000"
+  },
+  {
+    "parameter": "MICROCYSTIN VARIANT MC-RR",
+    "unit": "ng/g",
+    "medium": "Periphyton Mat",
+    "count": 54,
+    "first": "2019-08-05T00:00:00.000",
+    "last": "2019-11-21T12:30:00.000"
+  },
+  {
+    "parameter": "CODE FOR SAMPLE COLLECTION APP",
+    "unit": "1=OATRTA;2=OTHER;3=JPSOCC;4=GIRDL;5=GAP;6=RFA;7=CO;8=SSAF;9=EIIBIO",
+    "medium": "Periphyton Mat",
+    "count": 105,
+    "first": "2023-05-25T11:35:00.000",
+    "last": "2025-10-24T11:10:00.000"
+  },
+  {
+    "parameter": "CODE FOR SAMPLE COLLECTION APP",
+    "unit": "1=OATRTA;2=OTHER;3=JPSOCC;4=GIRDL;5=GAP;6=RFA;7=CO;8=SSAF;9=EIIBIO",
+    "medium": "Diatom",
+    "count": 36,
+    "first": "2023-04-17T10:20:00.000",
+    "last": "2025-10-21T12:40:00.000"
+  },
+  {
+    "parameter": "ORGANIC CARBON",
+    "unit": "MG/KG",
+    "medium": "Periphyton Mat",
+    "count": 83,
+    "first": "2023-05-25T11:40:00.000",
+    "last": "2025-10-24T11:05:00.000"
+  },
+  {
+    "parameter": "PHOSPHORUS AS P",
+    "unit": "MG/KG",
+    "medium": "Periphyton Mat",
+    "count": 83,
+    "first": "2023-05-25T11:40:00.000",
+    "last": "2025-10-24T11:05:00.000"
+  },
+  {
+    "parameter": "NITROGEN AS N",
+    "unit": "MG/KG",
+    "medium": "Periphyton Mat",
+    "count": 83,
+    "first": "2023-05-25T11:40:00.000",
+    "last": "2025-10-24T11:05:00.000"
+  },
+  {
+    "parameter": "POTASSIUM",
+    "unit": "MG/KG",
+    "medium": "Periphyton Mat",
+    "count": 83,
+    "first": "2023-05-25T11:40:00.000",
+    "last": "2025-10-24T11:05:00.000"
+  },
+  {
+    "parameter": "CALCIUM",
+    "unit": "MG/KG",
+    "medium": "Periphyton Mat",
+    "count": 83,
+    "first": "2023-05-25T11:40:00.000",
+    "last": "2025-10-24T11:05:00.000"
+  },
+  {
+    "parameter": "MAGNESIUM",
+    "unit": "MG/KG",
+    "medium": "Periphyton Mat",
+    "count": 83,
+    "first": "2023-05-25T11:40:00.000",
+    "last": "2025-10-24T11:05:00.000"
+  },
+  {
+    "parameter": "SODIUM",
+    "unit": "MG/KG",
+    "medium": "Periphyton Mat",
+    "count": 83,
+    "first": "2023-05-25T11:40:00.000",
+    "last": "2025-10-24T11:05:00.000"
+  },
+  {
+    "parameter": "ZINC",
+    "unit": "MG/KG",
+    "medium": "Periphyton Mat",
+    "count": 83,
+    "first": "2023-05-25T11:40:00.000",
+    "last": "2025-10-24T11:05:00.000"
+  },
+  {
+    "parameter": "IRON",
+    "unit": "MG/KG",
+    "medium": "Periphyton Mat",
+    "count": 83,
+    "first": "2023-05-25T11:40:00.000",
+    "last": "2025-10-24T11:05:00.000"
+  },
+  {
+    "parameter": "COPPER",
+    "unit": "MG/KG",
+    "medium": "Periphyton Mat",
+    "count": 83,
+    "first": "2023-05-25T11:40:00.000",
+    "last": "2025-10-24T11:05:00.000"
+  },
+  {
+    "parameter": "MANGANESE",
+    "unit": "MG/KG",
+    "medium": "Periphyton Mat",
+    "count": 83,
+    "first": "2023-05-25T11:40:00.000",
+    "last": "2025-10-24T11:05:00.000"
+  },
+  {
+    "parameter": "SULFUR",
+    "unit": "MG/KG",
+    "medium": "Periphyton Mat",
+    "count": 83,
+    "first": "2023-05-25T11:40:00.000",
+    "last": "2025-10-24T11:05:00.000"
+  },
+  {
+    "parameter": "BORON",
+    "unit": "MG/KG",
+    "medium": "Periphyton Mat",
+    "count": 83,
+    "first": "2023-05-25T11:40:00.000",
+    "last": "2025-10-24T11:05:00.000"
+  },
+  {
+    "parameter": "PHOSPHORUS AS P",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 9,
+    "first": "2023-05-25T11:30:00.000",
+    "last": "2024-05-30T12:35:00.000"
+  },
+  {
+    "parameter": "NITRATE AS N",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 9,
+    "first": "2023-05-25T11:30:00.000",
+    "last": "2024-05-30T12:35:00.000"
+  },
+  {
+    "parameter": "POTASSIUM",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 9,
+    "first": "2023-05-25T11:30:00.000",
+    "last": "2024-05-30T12:35:00.000"
+  },
+  {
+    "parameter": "CALCIUM",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 9,
+    "first": "2023-05-25T11:30:00.000",
+    "last": "2024-05-30T12:35:00.000"
+  },
+  {
+    "parameter": "MAGNESIUM",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 9,
+    "first": "2023-05-25T11:30:00.000",
+    "last": "2024-05-30T12:35:00.000"
+  },
+  {
+    "parameter": "SODIUM",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 9,
+    "first": "2023-05-25T11:30:00.000",
+    "last": "2024-05-30T12:35:00.000"
+  },
+  {
+    "parameter": "MANGANESE",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 9,
+    "first": "2023-05-25T11:30:00.000",
+    "last": "2024-05-30T12:35:00.000"
+  },
+  {
+    "parameter": "SULFUR",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 9,
+    "first": "2023-05-25T11:30:00.000",
+    "last": "2024-05-30T12:35:00.000"
+  },
+  {
+    "parameter": "NITROGEN AS N",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 9,
+    "first": "2023-05-25T11:30:00.000",
+    "last": "2024-05-30T12:35:00.000"
+  },
+  {
+    "parameter": "PH",
+    "unit": "Standard units",
+    "medium": "Sediment",
+    "count": 9,
+    "first": "2023-05-25T11:30:00.000",
+    "last": "2024-05-30T12:35:00.000"
+  },
+  {
+    "parameter": "CONDUCTIVITY",
+    "unit": "uS/cm",
+    "medium": "Sediment",
+    "count": 9,
+    "first": "2023-05-25T11:30:00.000",
+    "last": "2024-05-30T12:35:00.000"
+  },
+  {
+    "parameter": "ORGANIC MATERIAL",
+    "unit": "(%) Percent",
+    "medium": "Sediment",
+    "count": 9,
+    "first": "2023-05-25T11:30:00.000",
+    "last": "2024-05-30T12:35:00.000"
+  },
+  {
+    "parameter": "BORON",
+    "unit": "MG/KG",
+    "medium": "Sediment",
+    "count": 9,
+    "first": "2023-05-25T11:30:00.000",
+    "last": "2024-05-30T12:35:00.000"
+  },
+  {
+    "parameter": "CHROMULINA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2022-09-29T09:55:00.000",
+    "last": "2022-09-29T11:10:00.000"
+  },
+  {
+    "parameter": "APHANIZOMENON",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2022-12-13T11:20:00.000",
+    "last": "2022-12-13T11:20:00.000"
+  },
+  {
+    "parameter": "APHANIZOMENON",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2022-12-13T11:20:00.000",
+    "last": "2022-12-13T11:20:00.000"
+  },
+  {
+    "parameter": "CHROMULINA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2022-09-29T09:55:00.000",
+    "last": "2022-09-29T11:10:00.000"
+  },
+  {
+    "parameter": "ARIGOMPHUS LENTULUS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 1,
+    "first": "2023-07-25T12:00:00.000",
+    "last": "2023-07-25T12:00:00.000"
+  },
+  {
+    "parameter": "DYTHEMIS VELOX",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 1,
+    "first": "2023-07-25T12:00:00.000",
+    "last": "2023-07-25T12:00:00.000"
+  },
+  {
+    "parameter": "SIMOCEPHALUS SERRULATUS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 7,
+    "first": "2023-07-25T10:00:00.000",
+    "last": "2025-06-30T10:30:00.000"
+  },
+  {
+    "parameter": "MUSCULIUM",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 1,
+    "first": "2023-07-25T12:00:00.000",
+    "last": "2023-07-25T12:00:00.000"
+  },
+  {
+    "parameter": "ORTHOTRICHIA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 5,
+    "first": "2023-07-25T10:00:00.000",
+    "last": "2025-06-30T10:30:00.000"
+  },
+  {
+    "parameter": "EPITHECA (TETRAGONEURIA)",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 3,
+    "first": "2023-07-25T10:00:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "SYMPETRUM",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 1,
+    "first": "2023-07-25T11:10:00.000",
+    "last": "2023-07-25T11:10:00.000"
+  },
+  {
+    "parameter": "ODONTOMYIA (ODONTOMYIA) / HEDRIODISCUS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 4,
+    "first": "2023-07-25T11:10:00.000",
+    "last": "2025-06-30T10:30:00.000"
+  },
+  {
+    "parameter": "CULEX",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 3,
+    "first": "2023-07-25T10:00:00.000",
+    "last": "2024-07-09T13:15:00.000"
+  },
+  {
+    "parameter": "OXYETHIRA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 2,
+    "first": "2023-07-25T10:00:00.000",
+    "last": "2025-06-25T11:25:00.000"
+  },
+  {
+    "parameter": "TRAMEA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 1,
+    "first": "2023-07-25T10:00:00.000",
+    "last": "2023-07-25T10:00:00.000"
+  },
+  {
+    "parameter": "HEBETANCYLUS EXCENTRICUS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 1,
+    "first": "2023-07-25T10:00:00.000",
+    "last": "2023-07-25T10:00:00.000"
+  },
+  {
+    "parameter": "ERYTHEMIS SIMPLICICOLLIS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 6,
+    "first": "2023-07-25T10:00:00.000",
+    "last": "2025-06-30T10:30:00.000"
+  },
+  {
+    "parameter": "FLOW SEVERITY CODE (1=NONE;2=LOW;3=NORM;4=FLOOD;5=HIGH;6=DRY)",
+    "unit": "None",
+    "medium": "Habitat",
+    "count": 7,
+    "first": "2024-07-09T10:45:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "STAUROSIRA PINNATA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 4,
+    "first": "2023-04-17T10:20:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "STEPHANODISCUS MEDIUS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-04-17T10:20:00.000",
+    "last": "2023-04-17T10:20:00.000"
+  },
+  {
+    "parameter": "ULNARIA ULNA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 9,
+    "first": "2023-04-17T10:20:00.000",
+    "last": "2023-06-29T14:00:00.000"
+  },
+  {
+    "parameter": "ACHNANTHIDIUM CALEDONICUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-05-24T11:45:00.000",
+    "last": "2023-05-24T11:45:00.000"
+  },
+  {
+    "parameter": "COCCONEIS LINEATA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 6,
+    "first": "2023-04-17T10:20:00.000",
+    "last": "2023-06-29T12:20:00.000"
+  },
+  {
+    "parameter": "COCCONEIS PEDICULUS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 4,
+    "first": "2023-04-17T10:20:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "CYMBELLA SUBLEPTOCEROS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 3,
+    "first": "2023-04-17T10:20:00.000",
+    "last": "2023-05-24T15:00:00.000"
+  },
+  {
+    "parameter": "DENTICULA KUETZINGII",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 3,
+    "first": "2023-04-17T10:20:00.000",
+    "last": "2023-06-29T14:00:00.000"
+  },
+  {
+    "parameter": "GOMPHONEMA AFFINE",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 5,
+    "first": "2023-04-17T10:20:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "HALAMPHORA VENETA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 5,
+    "first": "2023-04-17T10:20:00.000",
+    "last": "2023-06-29T14:00:00.000"
+  },
+  {
+    "parameter": "HANTZSCHIA AMPHIOXYS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 5,
+    "first": "2023-04-17T10:20:00.000",
+    "last": "2023-06-29T12:20:00.000"
+  },
+  {
+    "parameter": "LUTICOLA MUTICA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 3,
+    "first": "2023-04-17T10:20:00.000",
+    "last": "2023-05-24T13:30:00.000"
+  },
+  {
+    "parameter": "NAVICULA CRYPTOTENELLA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 4,
+    "first": "2023-04-17T10:20:00.000",
+    "last": "2023-05-24T13:30:00.000"
+  },
+  {
+    "parameter": "NITZSCHIA AMPHIBIA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 8,
+    "first": "2023-04-17T10:20:00.000",
+    "last": "2023-06-29T14:00:00.000"
+  },
+  {
+    "parameter": "NITZSCHIA AMPHIBIOIDES",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 6,
+    "first": "2023-04-17T10:20:00.000",
+    "last": "2023-06-29T12:20:00.000"
+  },
+  {
+    "parameter": "REIMERIA SINUATA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 6,
+    "first": "2023-04-17T10:20:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "STAURONEIS BORRICHII",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 3,
+    "first": "2023-04-17T10:20:00.000",
+    "last": "2023-05-24T13:30:00.000"
+  },
+  {
+    "parameter": "STAURONEIS PSEUDOSUBOBTUSOIDES",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-04-17T10:20:00.000",
+    "last": "2023-04-17T10:20:00.000"
+  },
+  {
+    "parameter": "AMPHORA INARIENSIS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2023-05-24T11:45:00.000",
+    "last": "2023-05-24T15:00:00.000"
+  },
+  {
+    "parameter": "AMPHORA PEDICULUS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 5,
+    "first": "2023-04-17T10:20:00.000",
+    "last": "2023-06-29T12:20:00.000"
+  },
+  {
+    "parameter": "ANEUMASTUS TUSCULUS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-05-24T11:45:00.000",
+    "last": "2023-05-24T11:45:00.000"
+  },
+  {
+    "parameter": "ANEUMASTUS STROESEI",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-04-17T12:00:00.000",
+    "last": "2023-04-17T12:00:00.000"
+  },
+  {
+    "parameter": "AULACOSEIRA GRANULATA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 8,
+    "first": "2023-04-17T10:20:00.000",
+    "last": "2023-06-29T14:00:00.000"
+  },
+  {
+    "parameter": "AULACOSEIRA ITALICA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 4,
+    "first": "2023-04-17T11:25:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "BRACHYSIRA NEOEXILIS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2023-04-17T12:00:00.000",
+    "last": "2023-05-24T11:45:00.000"
+  },
+  {
+    "parameter": "CALONEIS LATIUSCULA VAR REIMERI",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2023-04-17T12:00:00.000",
+    "last": "2023-05-24T11:45:00.000"
+  },
+  {
+    "parameter": "CRATICULA BUDERI (TINY CUSPIDATA)",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-04-17T12:00:00.000",
+    "last": "2023-04-17T12:00:00.000"
+  },
+  {
+    "parameter": "LINDAVIA OCELLATA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-04-17T12:00:00.000",
+    "last": "2023-04-17T12:00:00.000"
+  },
+  {
+    "parameter": "GOMPHONEMA PARVULUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 3,
+    "first": "2023-04-17T12:00:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "HIPPODONTA CAPITATA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-04-17T12:00:00.000",
+    "last": "2023-04-17T12:00:00.000"
+  },
+  {
+    "parameter": "NEIDIUM DUBIUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-04-17T12:00:00.000",
+    "last": "2023-04-17T12:00:00.000"
+  },
+  {
+    "parameter": "PSEUDOSTAUROSIRA BREVISTRIATA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 4,
+    "first": "2023-04-17T12:00:00.000",
+    "last": "2023-05-24T15:00:00.000"
+  },
+  {
+    "parameter": "STAUROSIRA CONSTRUENS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 6,
+    "first": "2023-04-17T11:25:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "STAUROSIRA VENTER",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 5,
+    "first": "2023-04-17T12:00:00.000",
+    "last": "2023-06-29T14:00:00.000"
+  },
+  {
+    "parameter": "STEPHANOCYCLUS MENEGHINIANUS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 4,
+    "first": "2023-04-17T12:00:00.000",
+    "last": "2023-06-29T14:00:00.000"
+  },
+  {
+    "parameter": "ULNARIA GRUNOWII",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-04-17T12:00:00.000",
+    "last": "2023-04-17T12:00:00.000"
+  },
+  {
+    "parameter": "PLANOTHIDIUM FREQUENTISSIMUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-05-24T15:00:00.000",
+    "last": "2023-05-24T15:00:00.000"
+  },
+  {
+    "parameter": "AMPHORA COPULATA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 4,
+    "first": "2023-04-17T11:25:00.000",
+    "last": "2023-06-29T12:20:00.000"
+  },
+  {
+    "parameter": "AMPHORA OVALIS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2023-05-24T15:00:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "CRATICULA CUSPIDATA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-05-24T15:00:00.000",
+    "last": "2023-05-24T15:00:00.000"
+  },
+  {
+    "parameter": "CYCLOSTEPHANOS DELICATUS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-05-24T15:00:00.000",
+    "last": "2023-05-24T15:00:00.000"
+  },
+  {
+    "parameter": "CYMBELLA ASPERA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-05-24T15:00:00.000",
+    "last": "2023-05-24T15:00:00.000"
+  },
+  {
+    "parameter": "EPITHEMIA TURGIDA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 3,
+    "first": "2023-05-24T11:45:00.000",
+    "last": "2023-05-24T15:00:00.000"
+  },
+  {
+    "parameter": "EUNOTIA PECTINALIS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 4,
+    "first": "2023-04-17T11:25:00.000",
+    "last": "2023-06-29T12:20:00.000"
+  },
+  {
+    "parameter": "FRAGILARIA CAPUCINA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2023-05-24T15:00:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "GOMPHONEMA GRACILE",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 3,
+    "first": "2023-05-24T11:45:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "GOMPHONEMA MINUTUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 3,
+    "first": "2023-04-17T11:25:00.000",
+    "last": "2023-05-24T15:00:00.000"
+  },
+  {
+    "parameter": "GOMPHONEMA VIBRIO",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 4,
+    "first": "2023-05-24T15:00:00.000",
+    "last": "2023-06-29T14:00:00.000"
+  },
+  {
+    "parameter": "GYROSIGMA ACUMINATUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2023-05-24T11:45:00.000",
+    "last": "2023-05-24T15:00:00.000"
+  },
+  {
+    "parameter": "FRAGILARIA MESOLEPTA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-06-29T08:05:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "FRAGILARIA TENERA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-06-29T08:05:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "GOMPHONEMA AUGUR",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-06-29T08:05:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "GOMPHONEMA PUMILUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-06-29T08:05:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "MELOSIRA VARIANS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-06-29T08:05:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "NAVICULA ANTONII",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-06-29T08:05:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "NAVICULA GREGARIA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-06-29T08:05:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "NAVICULA RADIOSA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 4,
+    "first": "2023-04-17T11:25:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "NITZSCHIA INCONSPICUA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2023-06-29T08:05:00.000",
+    "last": "2023-06-29T14:00:00.000"
+  },
+  {
+    "parameter": "NITZSCHIA PALEA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2023-05-24T13:30:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "NITZSCHIA RECTA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-06-29T08:05:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "NITZSCHIA SERPENTIRAPHE",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 3,
+    "first": "2023-05-24T11:45:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "PSEUDOSTAUROSIRA PARASITICA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-06-29T08:05:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "SURIRELLA LIBRILE",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-06-29T08:05:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "TABULARIA FASCICULATA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2023-04-17T11:25:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "TRYBLIONELLA ANGUSTATA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-06-29T08:05:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "TRYBLIONELLA CALIDA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-06-29T08:05:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "TRYBLIONELLA DEBILIS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-06-29T08:05:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "ULNARIA ACUS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2023-06-29T08:05:00.000",
+    "last": "2023-06-29T14:00:00.000"
+  },
+  {
+    "parameter": "ACHNANTHIDIUM MINUTISSIMUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2023-04-17T10:20:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "ACHNANTHES PYRENAICUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2023-04-17T10:20:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "DISCOSTELLA STELLIGERA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-06-29T14:00:00.000",
+    "last": "2023-06-29T14:00:00.000"
+  },
+  {
+    "parameter": "RHOICOSPHENIA ABBREVIATA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 3,
+    "first": "2023-04-17T11:25:00.000",
+    "last": "2023-05-24T15:00:00.000"
+  },
+  {
+    "parameter": "STAURONEIS OBTUSA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2023-04-17T11:25:00.000",
+    "last": "2023-05-24T15:00:00.000"
+  },
+  {
+    "parameter": "COCCONEIS PLACENTULA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 3,
+    "first": "2023-05-24T13:30:00.000",
+    "last": "2023-06-29T14:00:00.000"
+  },
+  {
+    "parameter": "NITZSCHIA ACICULARIS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-06-29T14:00:00.000",
+    "last": "2023-06-29T14:00:00.000"
+  },
+  {
+    "parameter": "SELLAPHORA PUPULA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 3,
+    "first": "2023-05-24T11:45:00.000",
+    "last": "2023-06-29T14:00:00.000"
+  },
+  {
+    "parameter": "DIADESMIS CONFERVACEA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2023-04-17T11:25:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "EPITHEMIA ADNATA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-04-17T11:25:00.000",
+    "last": "2023-04-17T11:25:00.000"
+  },
+  {
+    "parameter": "EPITHEMIA GIBBA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 4,
+    "first": "2023-04-17T11:25:00.000",
+    "last": "2023-06-29T12:20:00.000"
+  },
+  {
+    "parameter": "CYMATOPLEURA ELLIPTICA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2023-05-24T11:45:00.000",
+    "last": "2023-06-29T12:20:00.000"
+  },
+  {
+    "parameter": "CYMBELLA CISTULA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-05-24T11:45:00.000",
+    "last": "2023-05-24T11:45:00.000"
+  },
+  {
+    "parameter": "DELICATOPHYCUS DELICATULUS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2023-05-24T11:45:00.000",
+    "last": "2023-05-24T13:30:00.000"
+  },
+  {
+    "parameter": "DELICATA VERENAE",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 3,
+    "first": "2023-05-24T11:45:00.000",
+    "last": "2023-06-29T12:20:00.000"
+  },
+  {
+    "parameter": "NAVICULA TRIVIALIS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2023-04-17T11:25:00.000",
+    "last": "2023-05-24T13:30:00.000"
+  },
+  {
+    "parameter": "NEIDIUM AMPLIATUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2023-05-24T11:45:00.000",
+    "last": "2023-05-24T13:30:00.000"
+  },
+  {
+    "parameter": "PINNULARIA BOREALIS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 3,
+    "first": "2023-04-17T11:25:00.000",
+    "last": "2023-06-29T12:20:00.000"
+  },
+  {
+    "parameter": "PINNULARIA MICROSTAURON",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-05-24T13:30:00.000",
+    "last": "2023-05-24T13:30:00.000"
+  },
+  {
+    "parameter": "PINNULARIA OBSCURA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2023-05-24T13:30:00.000",
+    "last": "2023-06-29T12:20:00.000"
+  },
+  {
+    "parameter": "SELLAPHORA SCHADEI",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-05-24T13:30:00.000",
+    "last": "2023-05-24T13:30:00.000"
+  },
+  {
+    "parameter": "STAURONEIS ANCEPS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2023-05-24T13:30:00.000",
+    "last": "2023-06-29T12:20:00.000"
+  },
+  {
+    "parameter": "ENCYONOPSIS EVERGLADIANA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2023-05-24T11:45:00.000",
+    "last": "2023-05-24T13:30:00.000"
+  },
+  {
+    "parameter": "ENCYONEMA MINUTUM V PSEUDOGRACILIS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-05-24T11:45:00.000",
+    "last": "2023-05-24T11:45:00.000"
+  },
+  {
+    "parameter": "EUNOTIA FORMICA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 4,
+    "first": "2023-04-17T11:25:00.000",
+    "last": "2023-06-29T12:20:00.000"
+  },
+  {
+    "parameter": "GOGOREVIA EXILIS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-05-24T11:45:00.000",
+    "last": "2023-05-24T11:45:00.000"
+  },
+  {
+    "parameter": "GOMPHONEMA ACUMINATUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-05-24T11:45:00.000",
+    "last": "2023-05-24T11:45:00.000"
+  },
+  {
+    "parameter": "GOMPHONEMA CLAVATUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2023-05-24T11:45:00.000",
+    "last": "2023-06-29T12:20:00.000"
+  },
+  {
+    "parameter": "GOMPHONEMA TRUNCATUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 3,
+    "first": "2023-04-17T11:25:00.000",
+    "last": "2023-05-24T13:30:00.000"
+  },
+  {
+    "parameter": "NAVICULA OBLONGA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2023-04-17T11:25:00.000",
+    "last": "2023-05-24T11:45:00.000"
+  },
+  {
+    "parameter": "NITZSCHIA LINEARIS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-05-24T11:45:00.000",
+    "last": "2023-05-24T11:45:00.000"
+  },
+  {
+    "parameter": "STEPHANODISCUS OREGONICUS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-04-17T11:25:00.000",
+    "last": "2023-04-17T11:25:00.000"
+  },
+  {
+    "parameter": "BACILLARIA PAXILLIFERA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2023-05-24T13:30:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "BRACHYSIRA VITREA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2023-05-24T13:30:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "CYMBELLA HUSTEDTII",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-06-29T08:05:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "DENTICULA ELEGANS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-06-29T08:05:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "EUNOTIA BILUNARIS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2023-04-17T11:25:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "EUNOTIA SOLEIROLII",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-06-29T08:05:00.000",
+    "last": "2023-06-29T08:05:00.000"
+  },
+  {
+    "parameter": "PINNULARIA VIRIDIS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2023-05-24T11:45:00.000",
+    "last": "2023-06-29T12:20:00.000"
+  },
+  {
+    "parameter": "STAURONEIS PHOENICENTERON",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-05-24T11:45:00.000",
+    "last": "2023-05-24T11:45:00.000"
+  },
+  {
+    "parameter": "TERPSINOE MUSICA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2023-05-24T11:45:00.000",
+    "last": "2023-06-29T12:20:00.000"
+  },
+  {
+    "parameter": "ULNARIA CAPITATA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 2,
+    "first": "2023-05-24T11:45:00.000",
+    "last": "2023-06-29T12:20:00.000"
+  },
+  {
+    "parameter": "CYMBELLA LAEVIS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-06-29T12:20:00.000",
+    "last": "2023-06-29T12:20:00.000"
+  },
+  {
+    "parameter": "ENCYONEMA SILESIACUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-06-29T12:20:00.000",
+    "last": "2023-06-29T12:20:00.000"
+  },
+  {
+    "parameter": "CRATICULA HALOPHILA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-05-24T13:30:00.000",
+    "last": "2023-05-24T13:30:00.000"
+  },
+  {
+    "parameter": "CRATICULA SUBMINUSCULA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-05-24T13:30:00.000",
+    "last": "2023-05-24T13:30:00.000"
+  },
+  {
+    "parameter": "CYMBELLA MEXICANA VAR KAMTSCHATICA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-05-24T13:30:00.000",
+    "last": "2023-05-24T13:30:00.000"
+  },
+  {
+    "parameter": "CYMBELLA NEOCISTULA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-05-24T13:30:00.000",
+    "last": "2023-05-24T13:30:00.000"
+  },
+  {
+    "parameter": "HALAMPHORA MONTANA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-05-24T13:30:00.000",
+    "last": "2023-05-24T13:30:00.000"
+  },
+  {
+    "parameter": "LUTICOLA DISMUTICA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-05-24T13:30:00.000",
+    "last": "2023-05-24T13:30:00.000"
+  },
+  {
+    "parameter": "GOMPHOSPHENIA GROVEI",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-04-17T11:25:00.000",
+    "last": "2023-04-17T11:25:00.000"
+  },
+  {
+    "parameter": "GOMPHOSPHENIA LINGULATIFORMIS",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-04-17T11:25:00.000",
+    "last": "2023-04-17T11:25:00.000"
+  },
+  {
+    "parameter": "FALLACIA PYGMAEA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-06-29T12:20:00.000",
+    "last": "2023-06-29T12:20:00.000"
+  },
+  {
+    "parameter": "GOMPHONEMA ANGUSTATUM",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-06-29T12:20:00.000",
+    "last": "2023-06-29T12:20:00.000"
+  },
+  {
+    "parameter": "MASTOGLOIA ELLIPTICA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-06-29T12:20:00.000",
+    "last": "2023-06-29T12:20:00.000"
+  },
+  {
+    "parameter": "AMMONIA AS N",
+    "unit": "UG/L",
+    "medium": "Surface Water",
+    "count": 4,
+    "first": "2024-11-26T10:35:00.000",
+    "last": "2024-11-26T13:05:00.000"
+  },
+  {
+    "parameter": "NAIDIDAE",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 2,
+    "first": "2024-07-09T10:45:00.000",
+    "last": "2024-07-09T14:35:00.000"
+  },
+  {
+    "parameter": "PLANORBIDAE",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 5,
+    "first": "2024-07-09T10:45:00.000",
+    "last": "2025-06-30T10:30:00.000"
+  },
+  {
+    "parameter": "URNATELLA GRACILIS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 1,
+    "first": "2024-07-09T14:35:00.000",
+    "last": "2024-07-09T14:35:00.000"
+  },
+  {
+    "parameter": "HYDROCANTHUS ATRIPENNIS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 2,
+    "first": "2024-07-09T13:15:00.000",
+    "last": "2025-06-30T10:30:00.000"
+  },
+  {
+    "parameter": "ENOCHRUS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 2,
+    "first": "2024-07-09T10:45:00.000",
+    "last": "2024-07-09T13:15:00.000"
+  },
+  {
+    "parameter": "MYMARIDAE",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 1,
+    "first": "2024-07-09T13:15:00.000",
+    "last": "2024-07-09T13:15:00.000"
+  },
+  {
+    "parameter": "TROPISTERNUS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 1,
+    "first": "2024-07-09T10:45:00.000",
+    "last": "2024-07-09T10:45:00.000"
+  },
+  {
+    "parameter": "PARACYMUS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 1,
+    "first": "2024-07-09T10:45:00.000",
+    "last": "2024-07-09T10:45:00.000"
+  },
+  {
+    "parameter": "TRIAENODES",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 1,
+    "first": "2024-07-09T10:45:00.000",
+    "last": "2024-07-09T10:45:00.000"
+  },
+  {
+    "parameter": "MICROVELIA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 2,
+    "first": "2024-07-09T10:45:00.000",
+    "last": "2025-06-25T11:25:00.000"
+  },
+  {
+    "parameter": "CAMELOBAETIDIUS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 1,
+    "first": "2024-07-09T10:45:00.000",
+    "last": "2024-07-09T10:45:00.000"
+  },
+  {
+    "parameter": "TRAMEA CALVERTI",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 1,
+    "first": "2024-07-09T10:45:00.000",
+    "last": "2024-07-09T10:45:00.000"
+  },
+  {
+    "parameter": "SCENEDESMUS QUADRICAUDA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-09-25T10:10:00.000",
+    "last": "2023-09-25T10:10:00.000"
+  },
+  {
+    "parameter": "SCENEDESMUS QUADRICAUDA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2023-09-25T10:10:00.000",
+    "last": "2023-09-25T10:10:00.000"
+  },
+  {
+    "parameter": "ZYGNEMA",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2024-05-15T12:10:00.000",
+    "last": "2024-05-15T12:10:00.000"
+  },
+  {
+    "parameter": "ZYGNEMA",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2024-05-15T12:10:00.000",
+    "last": "2024-05-15T12:10:00.000"
+  },
+  {
+    "parameter": "LATONA SETIFERA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 1,
+    "first": "2025-06-30T12:30:00.000",
+    "last": "2025-06-30T12:30:00.000"
+  },
+  {
+    "parameter": "PELOCORIS BIIMPRESSUS BIIMPRESSUS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 1,
+    "first": "2025-06-30T10:30:00.000",
+    "last": "2025-06-30T10:30:00.000"
+  },
+  {
+    "parameter": "CURICTA SCORPIO",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 1,
+    "first": "2025-06-30T10:30:00.000",
+    "last": "2025-06-30T10:30:00.000"
+  },
+  {
+    "parameter": "ANCYLINAE",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 1,
+    "first": "2025-06-25T11:25:00.000",
+    "last": "2025-06-25T11:25:00.000"
+  },
+  {
+    "parameter": "BASIAESCHNA JANATA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 1,
+    "first": "2025-06-25T11:25:00.000",
+    "last": "2025-06-25T11:25:00.000"
+  },
+  {
+    "parameter": "MIATHYRIA MARCELLA",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 1,
+    "first": "2025-06-25T11:25:00.000",
+    "last": "2025-06-25T11:25:00.000"
+  },
+  {
+    "parameter": "AQUARIUS",
+    "unit": "Count",
+    "medium": "Benthic Macroinvertebrate",
+    "count": 1,
+    "first": "2025-06-25T11:25:00.000",
+    "last": "2025-06-25T11:25:00.000"
+  },
+  {
+    "parameter": "TETRAEDRON",
+    "unit": "Count",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2024-09-19T10:45:00.000",
+    "last": "2024-09-19T10:45:00.000"
+  },
+  {
+    "parameter": "TETRAEDRON",
+    "unit": "Org/mL",
+    "medium": "Diatom",
+    "count": 1,
+    "first": "2024-09-19T10:45:00.000",
+    "last": "2024-09-19T10:45:00.000"
+  }
+]

@@ -1,0 +1,15 @@
+#!/usr/bin/env python3
+"""Register derived and simulated outputs after running their generators."""
+import json,hashlib
+from pathlib import Path
+R=Path(__file__).resolve().parents[1]; D=R/'data'
+def register(id,title,kind,count,notes,steps,source,license='CC BY 4.0'):
+ p=D/id/'metadata.json'; old=json.loads(p.read_text()) if p.exists() else {}
+ old.update(id=id,title=title,agency='Lake Lab; upstream authors listed in dataset notes',kind=kind,license=license,licenseUrl='https://creativecommons.org/licenses/by/4.0/' if license=='CC BY 4.0' else 'data/austin-water-quality/metadata.json',sourceUrl=source,retrievedAt=old.get('retrievedAt','2026-10-10'),period='2016–2025 source window' if id=='derived' else 'Teaching example; not an observed time period',recordCount=count,countUnit='rows',limitations=notes,cleaning=steps)
+ old['files']=[{'path':str(f.relative_to(R)),'bytes':f.stat().st_size,'sha256':hashlib.sha256(f.read_bytes()).hexdigest()} for f in sorted((D/id).iterdir()) if f.suffix in ('.json','.csv') and f.name!='metadata.json']
+ p.write_text(json.dumps(old,indent=2)+'\n')
+register('derived','Station evidence selections','Derived from real records',1086,['QC flags U and J are retained but not decoded; these are provisional observations.','73 toxin sample groups are not 73 independent visits. Censored and missing tests are not negative safety labels.'],['Select three named sites and shallow surface-water observations; preserve qualifiers and source identifiers.','Join daily weather and downstream flow by date; leave gaps empty.'], 'data/austin-water-quality/metadata.json','See upstream source licences')
+register('simulations','Invented forecast and daily sensor examples','Simulated',264,['No field measurements or safety forecasts. All coefficients are author-chosen.'],['Generate 240 seeded training examples and 24 illustrative hourly sensor values. See scripts/make-simulations.py.'],'docs/methods.md')
+register('optical-reference','Analytic teaching reference spectra','Simulated',81,['The forward equations match Water Optics Lab; reference water and phytoplankton shapes are analytic replacements, not the original numerical tables.'],['Evaluate the documented analytic functions every 5 nm from 400 to 800 nm. No measurements fitted.'],'docs/optical-methods.md')
+p=D/'field-photos'/'README.md';p.write_text('# Red Bud Isle field photos\n\nPerri, Bellinger, Ashworth and Manning (2024), Figure 2, https://doi.org/10.3390/toxins16020091. CC BY 4.0. Two panels show August 8 and 12, 2019. The original JPEG was extracted without visual changes from the previously retrieved publisher PDF on October 10, 2026. This is an extraction date, not a new network retrieval. See metadata for source checksum and script.\n\nThe panels are not independent validation images. Appearance cannot establish toxin presence.\n')
+m=json.loads((D/'manifest.json').read_text());m['datasets']=[json.loads(p.read_text()) for p in sorted(D.glob('*/metadata.json'))];(D/'manifest.json').write_text(json.dumps(m,indent=2)+'\n')

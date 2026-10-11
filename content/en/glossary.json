@@ -1,0 +1,94 @@
+[
+  {
+    "term": "Cyanobacteria",
+    "definition": "Tiny living things that use sunlight to make food. Some can make toxins. They are also called blue-green algae, but they are bacteria."
+  },
+  {
+    "term": "Benthic mat",
+    "definition": "A layer of organisms growing on the bottom. Pieces can break loose and float up."
+  },
+  {
+    "term": "Bloom",
+    "definition": "A large increase in algae or cyanobacteria. More growth does not always mean more toxins."
+  },
+  {
+    "term": "Toxin",
+    "definition": "A poison made by a living thing. A photo or water colour cannot tell us whether toxins are present."
+  },
+  {
+    "term": "Phycocyanin",
+    "definition": "A blue pigment in many cyanobacteria. A sensor can look for its signal, but that signal does not prove toxins are present."
+  },
+  {
+    "term": "Chlorophyll-a",
+    "definition": "A green pigment used to capture light. It is found in cyanobacteria and many other organisms that use sunlight."
+  },
+  {
+    "term": "Nutrient",
+    "definition": "A substance living things need to grow, such as nitrogen or phosphorus."
+  },
+  {
+    "term": "Dissolved oxygen",
+    "definition": "Oxygen mixed into water. Fish and many other water animals need it."
+  },
+  {
+    "term": "Turbidity",
+    "definition": "How cloudy water is because of tiny floating particles. Mud and living things can both make water cloudy."
+  },
+  {
+    "term": "pH",
+    "definition": "A number that tells how acidic or basic water is."
+  },
+  {
+    "term": "Flow",
+    "definition": "Water moving past a place. River discharge measures how much water passes in a set time."
+  },
+  {
+    "term": "Pixel",
+    "definition": "One small part of an image. A satellite pixel may mix signals from water, land and plants."
+  },
+  {
+    "term": "Mixed pixel",
+    "definition": "A pixel that covers more than one kind of surface, such as a narrow lake and its shore."
+  },
+  {
+    "term": "Model",
+    "definition": "A simplified way to describe a system. Models leave things out, so we need to test them."
+  },
+  {
+    "term": "Simulation",
+    "definition": "An example made with a model. It is not a measurement of the real lake."
+  },
+  {
+    "term": "Forecast",
+    "definition": "A guess about the future based on evidence and a method. It can be wrong."
+  },
+  {
+    "term": "False alarm",
+    "definition": "A prediction of an event that does not happen, using the event definition in that test."
+  },
+  {
+    "term": "Held-out data",
+    "definition": "Examples saved for testing a model. The model does not use these examples while learning."
+  },
+  {
+    "term": "Reporting limit",
+    "definition": "The smallest amount a test can reliably report. Below this limit does not always mean zero."
+  },
+  {
+    "term": "Watershed",
+    "definition": "The area of land that drains water toward a stream, river or lake."
+  },
+  {
+    "term": "Snapshot",
+    "definition": "A saved copy of data from a certain time. It does not update itself."
+  },
+  {
+    "term": "Micrograph",
+    "definition": "A picture taken through a microscope."
+  },
+  {
+    "term": "Evidence",
+    "definition": "Observations or measurements that help us check an idea."
+  }
+]

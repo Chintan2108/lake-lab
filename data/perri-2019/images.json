@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ba3c5f14-10c4-4df8-9c98-fcf7a94864c8",
+    "file": "data/perri-2019/micrograph-1.jpg",
+    "title": "Morphology of OTU 10.JPG",
+    "author": "Katherine Perri, Schonna Manning, Matt Ashworth and Brent Bellinger",
+    "license": "CC BY 4.0",
+    "sourceUrl": "https://data.mendeley.com/datasets/f94329byhk/2",
+    "alt": "Research microscope plate: Morphology of OTU 10. Species labels await science review.",
+    "changes": "None; original file.",
+    "specimenGroup": "Morphology of OTU 10.JPG",
+    "reviewStatus": "OTU-to-genus mapping pending researcher review"
+  },
+  {
+    "id": "e1b31e1e-b190-4b04-bcde-9247d02a5e12",
+    "file": "data/perri-2019/micrograph-2.jpg",
+    "title": "Morphology of OTUs 7 & 11.JPG",
+    "author": "Katherine Perri, Schonna Manning, Matt Ashworth and Brent Bellinger",
+    "license": "CC BY 4.0",
+    "sourceUrl": "https://data.mendeley.com/datasets/f94329byhk/2",
+    "alt": "Research microscope plate: Morphology of OTUs 7 & 11. Species labels await science review.",
+    "changes": "None; original file.",
+    "specimenGroup": "Morphology of OTUs 7 & 11.JPG",
+    "reviewStatus": "OTU-to-genus mapping pending researcher review"
+  },
+  {
+    "id": "a8d7b006-6332-40ed-b715-6dd17e139e00",
+    "file": "data/perri-2019/micrograph-3.jpg",
+    "title": "Morphology of OTUs 8 & 9.JPG",
+    "author": "Katherine Perri, Schonna Manning, Matt Ashworth and Brent Bellinger",
+    "license": "CC BY 4.0",
+    "sourceUrl": "https://data.mendeley.com/datasets/f94329byhk/2",
+    "alt": "Research microscope plate: Morphology of OTUs 8 & 9. Species labels await science review.",
+    "changes": "None; original file.",
+    "specimenGroup": "Morphology of OTUs 8 & 9.JPG",
+    "reviewStatus": "OTU-to-genus mapping pending researcher review"
+  }
+]

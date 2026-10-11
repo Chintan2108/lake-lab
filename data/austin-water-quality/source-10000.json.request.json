@@ -1,0 +1,5 @@
+{
+  "url": "https://data.austintexas.gov/resource/5tye-7ray.json?%24where=watershed%3D%27Lady+Bird+Lake%27+AND+sample_date+between+%272016-01-01T00%3A00%3A00%27+and+%272025-12-31T23%3A59%3A59%27&%24order=ref_no&%24limit=10000&%24offset=10000",
+  "retrievedAt": "2026-10-09T22:29:34.145241+00:00",
+  "sha256": "701222d61c7480b67680a03f2864de2fd08d7ebf2bc0356ea14c0c6dd62e5253"
+}

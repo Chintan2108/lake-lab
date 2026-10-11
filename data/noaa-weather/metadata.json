@@ -1,0 +1,38 @@
+{
+  "id": "noaa-weather",
+  "title": "Austin daily weather",
+  "agency": "NOAA NCEI / GHCN-Daily, Austin Camp Mabry",
+  "kind": "Measured",
+  "license": "Public Domain",
+  "licenseUrl": "https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00861",
+  "sourceUrl": "https://www.ncei.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND%3AUSW00013958/detail",
+  "retrievedAt": "2026-10-09T22:29:46.896242+00:00",
+  "period": "2016-01-01 to 2025-12-31",
+  "recordCount": 3653,
+  "countUnit": "records",
+  "files": [
+    {
+      "path": "data/noaa-weather/daily.csv",
+      "sha256": "92ce73528e69e1eaecd105b5a0c88ccf66db507e03e8cc695a6c5e8ccdc98d5c",
+      "bytes": 222597
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=daily-summaries&stations=USW00013958&startDate=2016-01-01&endDate=2025-12-31&dataTypes=TMAX%2CTMIN%2CPRCP&units=metric&format=json&includeAttributes=true",
+      "retrievedAt": "2026-10-09T22:29:46.896242+00:00",
+      "sha256": "d738492d98028ab0017ce8aeb1c216ae56b107194fb112b891db9475b975c4a0"
+    }
+  ],
+  "cleaning": [
+    "Request metric daily minimum/maximum air temperature (°C) and precipitation (mm).",
+    "Retain source attribute flags and missing fields; no interpolation."
+  ],
+  "limitations": [
+    "Air temperature is not water temperature; rain is measured at Camp Mabry, not at the lake.",
+    "Attribute strings preserve measurement, quality and source flags; trace rain must not be treated as exact zero.",
+    "No solar radiation or hourly observations included."
+  ],
+  "script": "scripts/freeze.py",
+  "scriptVersion": "1.0.0"
+}

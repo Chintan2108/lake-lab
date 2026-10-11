@@ -1,0 +1,38 @@
+{
+  "id": "usgs-flow",
+  "title": "Daily river flow below the lake",
+  "agency": "U.S. Geological Survey",
+  "kind": "Measured",
+  "license": "Public Domain",
+  "licenseUrl": "https://www.usgs.gov/faqs/are-usgs-reportspublications-copyrighted",
+  "sourceUrl": "https://waterdata.usgs.gov/monitoring-location/USGS-08158000/",
+  "retrievedAt": "2026-10-09T22:29:45.704026+00:00",
+  "period": "2016-01-01 to 2025-12-31",
+  "recordCount": 3652,
+  "countUnit": "records",
+  "files": [
+    {
+      "path": "data/usgs-flow/daily.csv",
+      "sha256": "2c8d2320cd47298146199600a1a08bc5012519116e620f1876e3acaaea3f5de9",
+      "bytes": 201899
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=08158000&startDT=2016-01-01&endDT=2025-12-31&parameterCd=00060&statCd=00003",
+      "retrievedAt": "2026-10-09T22:29:45.704026+00:00",
+      "sha256": "53a007f105eb84ca7f0238134b5ef94f434769365bcaa5aec3d23d9ccc5df75a"
+    }
+  ],
+  "cleaning": [
+    "Extract daily mean discharge (00060, statistic 00003).",
+    "Preserve source units and qualifiers. Do not fill missing dates or convert flow to lake speed."
+  ],
+  "limitations": [
+    "Gauge is downstream of Longhorn Dam, not a measurement of lake currents or Tom Miller releases.",
+    "Daily means hide changes within a day. Preserve approval/estimate qualifiers and no-data sentinel.",
+    "Missing day: 2017-01-26. No value was filled in."
+  ],
+  "script": "scripts/freeze.py",
+  "scriptVersion": "1.0.0"
+}

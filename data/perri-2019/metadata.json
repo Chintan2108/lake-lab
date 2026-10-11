@@ -1,0 +1,67 @@
+{
+  "id": "perri-2019",
+  "title": "Microscope images from the local study",
+  "agency": "Katherine Perri, Schonna Manning, Matt Ashworth and Brent Bellinger",
+  "kind": "Real image",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "sourceUrl": "https://data.mendeley.com/datasets/f94329byhk/2",
+  "retrievedAt": "2026-10-09T22:31:57.368917+00:00",
+  "period": "2019 study; dataset version 2 published 2024-02-07",
+  "recordCount": 3,
+  "countUnit": "records",
+  "files": [
+    {
+      "path": "data/perri-2019/micrograph-1.jpg",
+      "sha256": "cee9fee57e6878f834a474fabdf4b0fdf3d7c190ab1951dd0798c0c026216d63",
+      "bytes": 980113
+    },
+    {
+      "path": "data/perri-2019/micrograph-2.jpg",
+      "sha256": "762db4abb55ca5d0bc9aa627cd28d53115a167b9683b54102c0318d59e8ad3b8",
+      "bytes": 933898
+    },
+    {
+      "path": "data/perri-2019/micrograph-3.jpg",
+      "sha256": "76a8d3f6c17c9d52eb69189a204188614f423ac0fabd1c822aa2e2ec0cf10dfb",
+      "bytes": 1097688
+    },
+    {
+      "path": "data/perri-2019/images.json",
+      "sha256": "a66eabdb5409f2918e18d8216a8c992e38f252eb14fbd4271b93bd5c16b369e7",
+      "bytes": 1788
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://data.mendeley.com/public-files/datasets/f94329byhk/files/e1b31e1e-b190-4b04-bcde-9247d02a5e12/file_downloaded",
+      "retrievedAt": "2026-10-09T22:31:55.466839+00:00",
+      "sha256": "762db4abb55ca5d0bc9aa627cd28d53115a167b9683b54102c0318d59e8ad3b8"
+    },
+    {
+      "url": "https://data.mendeley.com/public-files/datasets/f94329byhk/files/a8d7b006-6332-40ed-b715-6dd17e139e00/file_downloaded",
+      "retrievedAt": "2026-10-09T22:31:57.368917+00:00",
+      "sha256": "76a8d3f6c17c9d52eb69189a204188614f423ac0fabd1c822aa2e2ec0cf10dfb"
+    },
+    {
+      "url": "https://data.mendeley.com/public-api/datasets/f94329byhk/files?folder_id=a5437c92-e780-46c5-9e68-88d90277ee25&version=2&%24start=0&%24limit=1000",
+      "retrievedAt": "2026-10-09T22:31:46.659931+00:00",
+      "sha256": "ee85e4587f3a84cc387ada9d560de2e8ad470f53f298770a395f3c10b52c9777"
+    },
+    {
+      "url": "https://data.mendeley.com/public-files/datasets/f94329byhk/files/ba3c5f14-10c4-4df8-9c98-fcf7a94864c8/file_downloaded",
+      "retrievedAt": "2026-10-09T22:31:49.169132+00:00",
+      "sha256": "cee9fee57e6878f834a474fabdf4b0fdf3d7c190ab1951dd0798c0c026216d63"
+    }
+  ],
+  "cleaning": [
+    "Download original microscopy files from version 2.",
+    "Verify each file against the publisher SHA-256; no crop or alteration."
+  ],
+  "limitations": [
+    "OTU names retained until species mapping is reviewed.",
+    "Three microscope plates are not three verified toxin outcomes or enough independent examples for a robust classifier."
+  ],
+  "script": "scripts/freeze.py",
+  "scriptVersion": "1.0.0"
+}

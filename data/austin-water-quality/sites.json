@@ -1,0 +1,686 @@
+[
+  {
+    "id": "1",
+    "names": [
+      "Lady Bird Lake @ Basin [AC]"
+    ],
+    "coordinates": [
+      [
+        -97.71637617,
+        30.24714285
+      ]
+    ]
+  },
+  {
+    "id": "5",
+    "names": [
+      "Lady Bird Lake @ Red Bud Isle (EC)"
+    ],
+    "coordinates": [
+      [
+        -97.7857300357344,
+        30.2871112881052
+      ]
+    ]
+  },
+  {
+    "id": "2",
+    "names": [
+      "Lady Bird Lake @ 1st St [CC]"
+    ],
+    "coordinates": [
+      [
+        -97.7475278,
+        30.2630556
+      ]
+    ]
+  },
+  {
+    "id": "9",
+    "names": [
+      "Cold Spring"
+    ],
+    "coordinates": [
+      [
+        -97.7805024014199,
+        30.2796281473922
+      ]
+    ]
+  },
+  {
+    "id": "294",
+    "names": [
+      "Robert E Lee Trib Downstream of R.E. Lee Dr"
+    ],
+    "coordinates": [
+      [
+        -97.77064,
+        30.26108
+      ]
+    ]
+  },
+  {
+    "id": "295",
+    "names": [
+      "Robert E Lee Trib 100 Feet Upstream of R.E. Lee Dr"
+    ],
+    "coordinates": [
+      [
+        -97.770608,
+        30.260624
+      ]
+    ]
+  },
+  {
+    "id": "305",
+    "names": [
+      "Robert E Lee Trib 300 Feet Upstream of R.E. Lee Dr"
+    ],
+    "coordinates": [
+      [
+        -97.770644,
+        30.260012
+      ]
+    ]
+  },
+  {
+    "id": "306",
+    "names": [
+      "Robert E Lee Trib 500 Feet Upstream of R.E. Lee Dr"
+    ],
+    "coordinates": [
+      [
+        -97.770506,
+        30.259497
+      ]
+    ]
+  },
+  {
+    "id": "4615",
+    "names": [
+      "Lady Bird Lake @ Gazebo (LBL 2 RB)"
+    ],
+    "coordinates": [
+      [
+        -97.72225058,
+        30.24627352
+      ]
+    ]
+  },
+  {
+    "id": "4617",
+    "names": [
+      "Lady Bird Lake @ Holiday Inn (LBL 3 LB)"
+    ],
+    "coordinates": [
+      [
+        -97.7383177439697,
+        30.2530782543282
+      ]
+    ]
+  },
+  {
+    "id": "4620",
+    "names": [
+      "Lady Bird Lake @ Stratford Dr (LBL 8 RB)"
+    ],
+    "coordinates": [
+      [
+        -97.7763330097575,
+        30.2763511161591
+      ]
+    ]
+  },
+  {
+    "id": "4623",
+    "names": [
+      "Lady Bird Lake @ Jasper (LBL 9 LB)"
+    ],
+    "coordinates": [
+      [
+        -97.7850137121295,
+        30.2867142212683
+      ]
+    ]
+  },
+  {
+    "id": "4619",
+    "names": [
+      "North Shore Lady Bird Lake @ RR Bridge (LBL 5 LB)"
+    ],
+    "coordinates": [
+      [
+        -97.7538087074635,
+        30.2655610253585
+      ]
+    ]
+  },
+  {
+    "id": "4618",
+    "names": [
+      "Lady Bird Lake @ West Bouldin Creek (LBL 6 RB)"
+    ],
+    "coordinates": [
+      [
+        -97.7538484472778,
+        30.2643016422502
+      ]
+    ]
+  },
+  {
+    "id": "4622",
+    "names": [
+      "Lady Bird Lake d/s Rollingwood Trib (LBL 10 RB)"
+    ],
+    "coordinates": [
+      [
+        -97.78602309,
+        30.28610764
+      ]
+    ]
+  },
+  {
+    "id": "4621",
+    "names": [
+      "Lady Bird Lake @ UT Student Housing (LBL 7 LB)"
+    ],
+    "coordinates": [
+      [
+        -97.7755219775259,
+        30.2775266024033
+      ]
+    ]
+  },
+  {
+    "id": "4614",
+    "names": [
+      "Lady Bird Lake @ Holly Peninsula (LBL 1 LB)"
+    ],
+    "coordinates": [
+      [
+        -97.7153456031148,
+        30.2505322611382
+      ]
+    ]
+  },
+  {
+    "id": "4616",
+    "names": [
+      "Lady Bird Lake @ Edgecliff Terrace (LBL 4 RB)"
+    ],
+    "coordinates": [
+      [
+        -97.7393303995605,
+        30.2514610868075
+      ]
+    ]
+  },
+  {
+    "id": "4523",
+    "names": [
+      "Deep Eddy Downstream Well"
+    ],
+    "coordinates": [
+      [
+        -97.77278821,
+        30.27599893
+      ]
+    ]
+  },
+  {
+    "id": "759",
+    "names": [
+      "Deep Eddy Upstream Well"
+    ],
+    "coordinates": [
+      [
+        -97.7736308,
+        30.27689949
+      ]
+    ]
+  },
+  {
+    "id": "4674",
+    "names": [
+      "Deep Eddy Pool Well II"
+    ],
+    "coordinates": [
+      [
+        -97.77323217,
+        30.27631445
+      ]
+    ]
+  },
+  {
+    "id": "10434",
+    "names": [
+      "Deep Eddy Hillside Well"
+    ],
+    "coordinates": [
+      [
+        -97.7726734161908,
+        30.2762214767918
+      ]
+    ]
+  },
+  {
+    "id": "10",
+    "names": [
+      "Lady Bird Lake @ Deep Eddy"
+    ],
+    "coordinates": [
+      [
+        -97.773957410063,
+        30.2756113873465
+      ]
+    ]
+  },
+  {
+    "id": "1942",
+    "names": [
+      "2208 Mountain View Drive"
+    ],
+    "coordinates": [
+      [
+        -97.7712490037,
+        30.2978133842
+      ]
+    ]
+  },
+  {
+    "id": "1944",
+    "names": [
+      "Storm Drain Manhole 2209 Mountain View Drive"
+    ],
+    "coordinates": [
+      [
+        -97.77112696319818,
+        30.29782467396765
+      ]
+    ]
+  },
+  {
+    "id": "1943",
+    "names": [
+      "2207 Mountain View Drive"
+    ],
+    "coordinates": [
+      [
+        -97.77122855186462,
+        30.297643747339325
+      ]
+    ]
+  },
+  {
+    "id": "1997",
+    "names": [
+      "Lagoon at Festival Beach"
+    ],
+    "coordinates": [
+      [
+        -97.72454604506493,
+        30.247941716350812
+      ]
+    ]
+  },
+  {
+    "id": "1252",
+    "names": [
+      "Lady Bird Lake @ Powerline"
+    ],
+    "coordinates": [
+      [
+        -97.753719,
+        30.264224
+      ]
+    ]
+  },
+  {
+    "id": "1671",
+    "names": [
+      "Barton Creek at Barton Springs Road Bridge"
+    ],
+    "coordinates": [
+      [
+        -97.76533219,
+        30.26490741
+      ]
+    ]
+  },
+  {
+    "id": "1996",
+    "names": [
+      "Redbud West of Parking Lot"
+    ],
+    "coordinates": [
+      [
+        -97.78752565383911,
+        30.290393091288536
+      ]
+    ]
+  },
+  {
+    "id": "1248",
+    "names": [
+      "Barton Creek Mouth upstream @ Lady Bird Lake"
+    ],
+    "coordinates": [
+      [
+        -97.762232,
+        30.266783
+      ]
+    ]
+  },
+  {
+    "id": "15",
+    "names": [
+      "Lady Bird Lake @ Shoal Creek"
+    ],
+    "coordinates": [
+      [
+        -97.7496150439333,
+        30.2641242851885
+      ]
+    ]
+  },
+  {
+    "id": "2611",
+    "names": [
+      "Lady Bird Lake @ Redbud Isle East-Central"
+    ],
+    "coordinates": [
+      [
+        -97.785576,
+        30.289943
+      ]
+    ]
+  },
+  {
+    "id": "1184",
+    "names": [
+      "Lady Bird Lake Downstream of Red Bud Trail"
+    ],
+    "coordinates": [
+      [
+        -97.787595,
+        30.289803
+      ]
+    ]
+  },
+  {
+    "id": "1170",
+    "names": [
+      "Rollingwood Spring"
+    ],
+    "coordinates": [
+      [
+        -97.778127,
+        30.2777716
+      ]
+    ]
+  },
+  {
+    "id": "2666",
+    "names": [
+      "Lady Bird Lake Upstream of Cold Springs"
+    ],
+    "coordinates": [
+      [
+        -97.78109975159168,
+        30.280365598260495
+      ]
+    ]
+  },
+  {
+    "id": "3247",
+    "names": [
+      "Lady Bird Lake VIP Site 34"
+    ],
+    "coordinates": [
+      [
+        -97.7303313448209,
+        30.2472318929313
+      ]
+    ]
+  },
+  {
+    "id": "5776",
+    "names": [
+      "Lady Bird Lake Planted 3"
+    ],
+    "coordinates": [
+      [
+        -97.7280397551724,
+        30.2483889518785
+      ]
+    ]
+  },
+  {
+    "id": "2612",
+    "names": [
+      "Lady Bird Lake @ Redbud Isle South-West"
+    ],
+    "coordinates": [
+      [
+        -97.7867005392909,
+        30.2884122830402
+      ]
+    ]
+  },
+  {
+    "id": "487",
+    "names": [
+      "Lady Bird Lake @ Red Bud Isle (Downstream end)"
+    ],
+    "coordinates": [
+      [
+        -97.7858790483686,
+        30.2878293338978
+      ]
+    ]
+  },
+  {
+    "id": "4040",
+    "names": [
+      "Lady Bird Lake @ Red Bud Boat Ramp"
+    ],
+    "coordinates": [
+      [
+        -97.7864277061986,
+        30.2912973909435
+      ]
+    ]
+  },
+  {
+    "id": "4226",
+    "names": [
+      "Lady Bird Lake @ Red Bud Island Upstream of Bridge"
+    ],
+    "coordinates": [
+      [
+        -97.78651664,
+        30.29225077
+      ]
+    ]
+  },
+  {
+    "id": "3877",
+    "names": [
+      "Lady Bird Lake Downstream of IH35"
+    ],
+    "coordinates": [
+      [
+        -97.7341527,
+        30.25072816
+      ]
+    ]
+  },
+  {
+    "id": "2732",
+    "names": [
+      "LBL @ 1621 building"
+    ],
+    "coordinates": [
+      [
+        -97.7310229092836,
+        30.2493394583269
+      ]
+    ]
+  },
+  {
+    "id": "5773",
+    "names": [
+      "Lady Bird Lake Passive 4"
+    ],
+    "coordinates": [
+      [
+        -97.7255307643492,
+        30.2472620949318
+      ]
+    ]
+  },
+  {
+    "id": "3245",
+    "names": [
+      "Lady Bird Lake VIP Site 32"
+    ],
+    "coordinates": [
+      [
+        -97.7347694951808,
+        30.2492334841058
+      ]
+    ]
+  },
+  {
+    "id": "10825",
+    "names": [
+      "LAERF LBL Enclosure 10a-08"
+    ],
+    "coordinates": [
+      [
+        -97.727,
+        30.246
+      ]
+    ]
+  },
+  {
+    "id": "2731",
+    "names": [
+      "LBL @ Festival Beach Lagoon"
+    ],
+    "coordinates": [
+      [
+        -97.725718,
+        30.249014
+      ]
+    ]
+  },
+  {
+    "id": "2792",
+    "names": [
+      "Cliff Drive Spring"
+    ],
+    "coordinates": [
+      [
+        -97.76400838047265,
+        30.262760360349464
+      ]
+    ]
+  },
+  {
+    "id": "2000",
+    "names": [
+      "Downstream Rowing Center"
+    ],
+    "coordinates": [
+      [
+        -97.76752006262541,
+        30.271069673230787
+      ]
+    ]
+  },
+  {
+    "id": "1998",
+    "names": [
+      "Longhorn Point"
+    ],
+    "coordinates": [
+      [
+        -97.71659228950739,
+        30.24409043754951
+      ]
+    ]
+  },
+  {
+    "id": "3046",
+    "names": [
+      "Lady Bird Lake Tunnel Rowing Dock"
+    ],
+    "coordinates": [
+      [
+        -97.742336,
+        30.260179
+      ]
+    ]
+  },
+  {
+    "id": "3045",
+    "names": [
+      "Lady Bird Lake Waller Creek Tunnel Pump Intake"
+    ],
+    "coordinates": [
+      [
+        -97.74215,
+        30.260136
+      ]
+    ]
+  },
+  {
+    "id": "3047",
+    "names": [
+      "Lady Bird Lake 270 ft from Rowing Dock"
+    ],
+    "coordinates": [
+      [
+        -97.743211,
+        30.261241
+      ]
+    ]
+  },
+  {
+    "id": "3048",
+    "names": [
+      "Lady Bird Lake @ Congress Bridge"
+    ],
+    "coordinates": [
+      [
+        -97.74476,
+        30.262467
+      ]
+    ]
+  },
+  {
+    "id": "3049",
+    "names": [
+      "Lady Bird Lake @ Shoal Creek Peninsula Near Bridge"
+    ],
+    "coordinates": [
+      [
+        -97.750411,
+        30.264165
+      ]
+    ]
+  },
+  {
+    "id": "321",
+    "names": [
+      "1118 W 7th"
+    ],
+    "coordinates": [
+      [
+        -97.7558337562,
+        30.2737726932
+      ]
+    ]
+  }
+]

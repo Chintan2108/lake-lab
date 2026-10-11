@@ -1,0 +1,41 @@
+{
+  "id": "simulations",
+  "title": "Invented forecast and daily sensor examples",
+  "agency": "Lake Lab; upstream authors listed in dataset notes",
+  "kind": "Simulated",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "sourceUrl": "docs/methods.md",
+  "retrievedAt": "2026-10-10",
+  "period": "Teaching example; not an observed time period",
+  "recordCount": 264,
+  "countUnit": "rows",
+  "limitations": [
+    "No field measurements or safety forecasts. All coefficients are author-chosen."
+  ],
+  "cleaning": [
+    "Generate 240 seeded training examples and 24 illustrative hourly sensor values. See scripts/make-simulations.py."
+  ],
+  "files": [
+    {
+      "path": "data/simulations/forecast.csv",
+      "bytes": 18130,
+      "sha256": "f6d3a02d62a3dfc47405e255d01b80d1481454d519aa009d6c0e9116ecf37e53"
+    },
+    {
+      "path": "data/simulations/forecast.json",
+      "bytes": 57421,
+      "sha256": "1b423c59e34ee46917422ee7d81ae0c79198dd2c9e5b7324dfc02b494c1c7dd2"
+    },
+    {
+      "path": "data/simulations/sensor-day.csv",
+      "bytes": 866,
+      "sha256": "d69ef1d87dddc2ca46e88849bfaf92696d4d5f696b43c4c7f7d8638501c79c7d"
+    },
+    {
+      "path": "data/simulations/sensor-day.json",
+      "bytes": 4015,
+      "sha256": "80ef7d0851c5d1a91416ea19bc0d68fc973254a5ef653b823df94d017da8419f"
+    }
+  ]
+}

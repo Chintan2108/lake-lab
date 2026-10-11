@@ -1,0 +1,73 @@
+{
+  "id": "open-images",
+  "title": "Organisms and look-alikes",
+  "agency": "Individual photographers; see images.json",
+  "license": "Mixed open licences; see each image",
+  "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia",
+  "sourceUrl": "https://commons.wikimedia.org/",
+  "kind": "Real image",
+  "recordCount": 4,
+  "countUnit": "images",
+  "period": "2007–2023 images; not Lady Bird Lake",
+  "retrievedAt": "2026-10-10T03:25:18.162232+00:00",
+  "files": [
+    {
+      "path": "data/open-images/Microcystis_live.jpg",
+      "sha256": "034e5df150aada5749434c3e7c079adb34f9c9481b2acfd3a3f7a7badd326e64",
+      "bytes": 135461
+    },
+    {
+      "path": "data/open-images/Dolichospermum_sp..jpg",
+      "sha256": "9e60bd428fb724e84d913c02574d55a628154589c8c468cb3b23850a4563bd3a",
+      "bytes": 616210
+    },
+    {
+      "path": "data/open-images/Microscopic_image_of_spirogyra.jpg",
+      "sha256": "3653a0374b16b10b7e70c5250368bf45ee56d40222cf6c8a3a4b6a83a8b44985",
+      "bytes": 3289140
+    },
+    {
+      "path": "data/open-images/20230604Lemna_minor1.jpg",
+      "sha256": "a43dd43704318c7e184ccc3956cc5234f24e8d567afa8af6dfa58b5cecd4958a",
+      "bytes": 3442568
+    },
+    {
+      "path": "data/open-images/images.json",
+      "sha256": "891a2f22648177ebb513598a2d5e7e59e8fc0e9ad49370a2dac12a5006a85f6b",
+      "bytes": 1999
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Microscopic_image_of_spirogyra.jpg",
+      "retrievedAt": "2026-10-10T03:25:10.450610+00:00",
+      "sha256": "3653a0374b16b10b7e70c5250368bf45ee56d40222cf6c8a3a4b6a83a8b44985"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/20230604Lemna_minor1.jpg",
+      "retrievedAt": "2026-10-10T03:25:18.162232+00:00",
+      "sha256": "a43dd43704318c7e184ccc3956cc5234f24e8d567afa8af6dfa58b5cecd4958a"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dolichospermum_sp..jpg",
+      "retrievedAt": "2026-10-10T03:25:02.254264+00:00",
+      "sha256": "9e60bd428fb724e84d913c02574d55a628154589c8c468cb3b23850a4563bd3a"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Microcystis_live.jpg",
+      "retrievedAt": "2026-10-10T03:25:01.589722+00:00",
+      "sha256": "034e5df150aada5749434c3e7c079adb34f9c9481b2acfd3a3f7a7badd326e64"
+    }
+  ],
+  "cleaning": [
+    "Download original JPEGs without alteration.",
+    "Retain per-image author, licence, date, source and specimen-group ID."
+  ],
+  "limitations": [
+    "These images are not local lake measurements or toxin evidence.",
+    "CC BY-SA applies to adaptations of the Dolichospermum image.",
+    "A small curated gallery is not a validated identification system."
+  ],
+  "script": "scripts/freeze-imagery.py",
+  "scriptVersion": "1.0.0"
+}

@@ -1,0 +1,189 @@
+{
+  "generated_at": "2026-10-10T03:46:21.113651+00:00",
+  "script": "scripts/derive-station-data.py",
+  "license": "See upstream source licences",
+  "period": "2016\u20132025 source window",
+  "sites": [
+    "1252",
+    "1996",
+    "1997"
+  ],
+  "inputs": [
+    {
+      "path": "data/austin-water-quality/observations.csv",
+      "sha256": "4e1627f9df266a2a569b6151061ab64461a2d64b2fed7fae8b45485f49b7c98b",
+      "metadata": "data/austin-water-quality/metadata.json"
+    },
+    {
+      "path": "data/austin-water-quality/toxins.csv",
+      "sha256": "9941e5d27abec121a486a589eee1fcd971241959561d4feb198bb1df203f0e86",
+      "metadata": "data/austin-water-quality/metadata.json"
+    },
+    {
+      "path": "data/noaa-weather/daily.csv",
+      "sha256": "92ce73528e69e1eaecd105b5a0c88ccf66db507e03e8cc695a6c5e8ccdc98d5c",
+      "metadata": "data/noaa-weather/metadata.json"
+    },
+    {
+      "path": "data/usgs-flow/daily.csv",
+      "sha256": "2c8d2320cd47298146199600a1a08bc5012519116e620f1876e3acaaea3f5de9",
+      "metadata": "data/usgs-flow/metadata.json"
+    }
+  ],
+  "source_ids": [
+    "Austin Socrata 5tye-7ray",
+    "NOAA GHCND USW00013958",
+    "USGS 08158000 parameter 00060 daily mean 00003"
+  ],
+  "counts": {
+    "water_candidates": 1584,
+    "water_accepted_measurements": 1086,
+    "water_visits": 1086,
+    "monthly_rows": 53,
+    "daily_rows": 3653,
+    "toxin_measurements": 365,
+    "toxin_sample_groups": 73
+  },
+  "water_exclusions": {
+    "qualified or censored result": 430,
+    "missing or deeper than 0.5 m": 20,
+    "nonempty qc_type (replicate/QC sample)": 48
+  },
+  "water_qc_flags": {
+    "U": 291,
+    "J": 33,
+    "(blank)": 762
+  },
+  "missing_flow_dates": [
+    "2017-01-26"
+  ],
+  "outputs": [
+    {
+      "path": "data/derived/environment-daily.csv",
+      "sha256": "eacb39f63a4e9f5eb0628dadaed76ade3cd29afb9ce5bcbee4aeb591d866d9a0"
+    },
+    {
+      "path": "data/derived/environment-daily.json",
+      "sha256": "da4f998389cf7a1136fc7049c9280f15ebfa1b3abebdfc669b70757585005e59"
+    },
+    {
+      "path": "data/derived/toxin-evidence.csv",
+      "sha256": "504a95dc2c8d7d93867d0c2332beba8d5bd0f3306ab1e1b56ee43e5aa2e12a5b"
+    },
+    {
+      "path": "data/derived/toxin-evidence.json",
+      "sha256": "6313d8a7baef946c57c45405a1ff3fb30edf3cc3eb68d23bb53713b75d2538bd"
+    },
+    {
+      "path": "data/derived/toxin-samples.csv",
+      "sha256": "6cb9c4e1bf59eb25e1dadbde6fe5641a8371202cec2a0d85251d1cd0ce3f7895"
+    },
+    {
+      "path": "data/derived/toxin-samples.json",
+      "sha256": "e0112d329b7274c88b1938ae3ab05d8e8ac164d551a330198e3520478060e4f0"
+    },
+    {
+      "path": "data/derived/water-evidence.csv",
+      "sha256": "09e7e66c09a2cf58236fdf7151cad66b6eb5480055da4befad09aa47af014df4"
+    },
+    {
+      "path": "data/derived/water-evidence.json",
+      "sha256": "3544aeb1c1523d092292d92ec811d850797755d3d0d09e99f293ac7d78ecda33"
+    },
+    {
+      "path": "data/derived/water-monthly.csv",
+      "sha256": "3be3841d3815d721cab046c53920590f72a0566c96ce88ae9013ddeebf1eff00"
+    },
+    {
+      "path": "data/derived/water-monthly.json",
+      "sha256": "fae918f2c2d5db56eac6aedeb43c46894b9a5a8bd713fe9923f47d8d6b50be7c"
+    },
+    {
+      "path": "data/derived/water-visits.csv",
+      "sha256": "e76148057745044d4a91c8d37221c3c8098463a2a79d7f35c3ebdcba1a66149e"
+    },
+    {
+      "path": "data/derived/water-visits.json",
+      "sha256": "3ef15bc54eb026149c08573431d856cdf4e0e41803485910957f759a7a6f292e"
+    }
+  ],
+  "id": "derived",
+  "title": "Station evidence selections",
+  "agency": "Lake Lab; upstream authors listed in dataset notes",
+  "kind": "Derived from real records",
+  "licenseUrl": "data/austin-water-quality/metadata.json",
+  "sourceUrl": "data/austin-water-quality/metadata.json",
+  "retrievedAt": "2026-10-10",
+  "recordCount": 1086,
+  "countUnit": "rows",
+  "limitations": [
+    "QC flags U and J are retained but not decoded; these are provisional observations.",
+    "73 toxin sample groups are not 73 independent visits. Censored and missing tests are not negative safety labels."
+  ],
+  "cleaning": [
+    "Select three named sites and shallow surface-water observations; preserve qualifiers and source identifiers.",
+    "Join daily weather and downstream flow by date; leave gaps empty."
+  ],
+  "files": [
+    {
+      "path": "data/derived/environment-daily.csv",
+      "bytes": 321666,
+      "sha256": "eacb39f63a4e9f5eb0628dadaed76ade3cd29afb9ce5bcbee4aeb591d866d9a0"
+    },
+    {
+      "path": "data/derived/environment-daily.json",
+      "bytes": 1380871,
+      "sha256": "da4f998389cf7a1136fc7049c9280f15ebfa1b3abebdfc669b70757585005e59"
+    },
+    {
+      "path": "data/derived/toxin-evidence.csv",
+      "bytes": 94996,
+      "sha256": "504a95dc2c8d7d93867d0c2332beba8d5bd0f3306ab1e1b56ee43e5aa2e12a5b"
+    },
+    {
+      "path": "data/derived/toxin-evidence.json",
+      "bytes": 258297,
+      "sha256": "6313d8a7baef946c57c45405a1ff3fb30edf3cc3eb68d23bb53713b75d2538bd"
+    },
+    {
+      "path": "data/derived/toxin-samples.csv",
+      "bytes": 18603,
+      "sha256": "6cb9c4e1bf59eb25e1dadbde6fe5641a8371202cec2a0d85251d1cd0ce3f7895"
+    },
+    {
+      "path": "data/derived/toxin-samples.json",
+      "bytes": 37590,
+      "sha256": "e0112d329b7274c88b1938ae3ab05d8e8ac164d551a330198e3520478060e4f0"
+    },
+    {
+      "path": "data/derived/water-evidence.csv",
+      "bytes": 461589,
+      "sha256": "09e7e66c09a2cf58236fdf7151cad66b6eb5480055da4befad09aa47af014df4"
+    },
+    {
+      "path": "data/derived/water-evidence.json",
+      "bytes": 1240674,
+      "sha256": "3544aeb1c1523d092292d92ec811d850797755d3d0d09e99f293ac7d78ecda33"
+    },
+    {
+      "path": "data/derived/water-monthly.csv",
+      "bytes": 5239,
+      "sha256": "3be3841d3815d721cab046c53920590f72a0566c96ce88ae9013ddeebf1eff00"
+    },
+    {
+      "path": "data/derived/water-monthly.json",
+      "bytes": 19464,
+      "sha256": "fae918f2c2d5db56eac6aedeb43c46894b9a5a8bd713fe9923f47d8d6b50be7c"
+    },
+    {
+      "path": "data/derived/water-visits.csv",
+      "bytes": 107600,
+      "sha256": "e76148057745044d4a91c8d37221c3c8098463a2a79d7f35c3ebdcba1a66149e"
+    },
+    {
+      "path": "data/derived/water-visits.json",
+      "bytes": 342071,
+      "sha256": "3ef15bc54eb026149c08573431d856cdf4e0e41803485910957f759a7a6f292e"
+    }
+  ]
+}

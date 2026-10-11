@@ -1,0 +1,11 @@
+{
+  "id": "5tye-7ray",
+  "name": "Water Quality Sampling Data",
+  "licenseId": "PUBLIC_DOMAIN",
+  "license": {
+    "name": "Public Domain"
+  },
+  "attribution": "City of Austin, Texas - data.austintexas.gov",
+  "description": "Data collected to assess water quality conditions in the natural creeks, aquifers and lakes in the Austin area. This is raw data, provided directly from our Water Resources Monitoring database (WRM) and should be considered provisional. Data may or may not have been reviewed by project staff. A map of site locations can be found by searching for LOCATION.WRM_SAMPLE_SITES; you may then use those WRM_SITE_IDs to filter in this dataset using the field SAMPLE_SITE_NO.",
+  "rowsUpdatedAt": 1791534395
+}

@@ -1,0 +1,66 @@
+{
+  "id": "identify",
+  "number": "02",
+  "title": "Who\u2019s in the water?",
+  "tagline": "Look closer. Looks can fool us.",
+  "description": "Meet tiny organisms and their look-alikes. Then teach a simple image classifier.",
+  "projectQuestion": "How could your team check an identification when a photo is unclear?",
+  "icon": "cells",
+  "phase": "Phase 4",
+  "status": "ready",
+  "how": [
+    "These are real microscope and field photographs. A picture can suggest a shape or organism, but it cannot measure toxins.",
+    "The nearest-neighbour classifier compares mean red, green and blue brightness plus edge contrast. It picks the closest labelled training photo. These simple image features can learn lighting and backgrounds instead of biology.",
+    "The teaching collection is very small. Test photographs come from different original files than training photographs. Crops from the same original never count as independent tests. No image library or pretrained model is downloaded.",
+    "The training pool here has too few independently verified green-alga microscope examples. Try labels and inspect neighbours, but do not mistake this tiny test for validated species recognition. Field photos are kept out of the microscope classifier."
+  ],
+  "prompt": "Before you try it: what evidence would you want to collect?",
+  "challenges": [
+    {
+      "id": "gallery",
+      "title": "A closer look",
+      "goal": "Inspect at least three organism cards.",
+      "hint": "Use the card details to compare shapes, source and limits."
+    },
+    {
+      "id": "labels",
+      "title": "Teach by examples",
+      "goal": "Label at least three training images and run the classifier.",
+      "hint": "Your choices become the labels the machine copies."
+    },
+    {
+      "id": "fool",
+      "title": "Test a bad label",
+      "goal": "Change a training label and retrain.",
+      "hint": "Does a wrong label change the nearest neighbour\u2019s prediction? It may not change every test."
+    },
+    {
+      "id": "field",
+      "title": "Mat or look-alike?",
+      "goal": "Complete the field-photo questions, including the uncertainty question.",
+      "hint": "No field photo can prove that water is safe or identify its toxins."
+    }
+  ],
+  "omissions": [
+    "No toxin detection, species confirmation or validated field classifier.",
+    "No student photos are uploaded or collected.",
+    "Microscope plates may contain multiple organisms; local OTU labels are kept where genus mapping is unresolved."
+  ],
+  "modelVersion": "image-knn-v1",
+  "warning": "Real images. Educational identification only\u2014not a toxin test.",
+  "classifierWarning": "Tiny teaching collection. Accuracy on a few images is unstable and can be misleading. A microscope image and a field photo are different kinds of evidence.",
+  "sources": [
+    {
+      "label": "Local study and image credits",
+      "url": "data/field-photos/README.md"
+    },
+    {
+      "label": "Open comparison-image credits",
+      "url": "data/open-images/README.md"
+    },
+    {
+      "label": "Classifier method",
+      "url": "docs/methods.md"
+    }
+  ]
+}

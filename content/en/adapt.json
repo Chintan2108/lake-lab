@@ -1,0 +1,34 @@
+{
+  "title": "Make it your lake",
+  "intro": "Keep the activities. Change the evidence and the local story.",
+  "sections": [
+    {
+      "title": "Start with the lake configuration",
+      "paragraphs": [
+        "Copy config/lady-bird-lake.json. Give your lake a new ID, name, coordinates, monitoring sites, agency links and outline. Point app.js at your new file.",
+        "The dataPaths mapping replaces station data files. Use the same documented columns or adapt the station module. Map geometry must be projected to metres; imagery and geometry must share a coordinate reference system."
+      ]
+    },
+    {
+      "title": "Freeze evidence you may reuse",
+      "paragraphs": [
+        "Use a script in scripts/ to fetch openly licensed records once. Preserve dates, units, sample types, qualifiers and source identifiers. Add a README and metadata with retrieval date, author, licence, cleaning and gaps.",
+        "Update data/manifest.json and run scripts/validate.py. Never relabel a simulation as a local measurement. Review the source terms again when refreshing."
+      ]
+    },
+    {
+      "title": "Adapt the lessons",
+      "paragraphs": [
+        "Edit challenges, hints, explanations and project questions in content/en/. Disable unsupported stations in config. Review teaching assumptions and local bloom types with an expert.",
+        "The current satellite panel, selected units and source-specific cleaning rules need adaptation for another lake. See README and docs/methods.md; changing the lake name alone is not enough."
+      ]
+    },
+    {
+      "title": "Publish and test",
+      "paragraphs": [
+        "Keep MIT code and content attribution, and preserve each external asset\u2019s licence. Test phones, keyboard controls, missing data and unavailable browser storage.",
+        "Publish the folder root on GitHub Pages. All data and assets must stay on the same site; do not add live API calls or tracking."
+      ]
+    }
+  ]
+}

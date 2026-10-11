@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": "lady-bird-lake",
+  "name": "Lady Bird Lake",
+  "region": "Austin, Texas",
+  "center": [
+    -97.745,
+    30.264
+  ],
+  "bounds": [
+    -97.8,
+    30.23,
+    -97.69,
+    30.3
+  ],
+  "timeZone": "America/Chicago",
+  "outline": {
+    "file": "data/lake-outline/lake.geojson",
+    "sourceId": "lake-outline"
+  },
+  "hydrology": {
+    "inflowDam": "Tom Miller Dam",
+    "outflowDam": "Longhorn Dam",
+    "contextGauge": {
+      "id": "08158000",
+      "relationship": "Downstream of Longhorn Dam; not in-lake flow"
+    }
+  },
+  "bloom": {
+    "default": "benthic-mats",
+    "modes": [
+      "benthic-mats",
+      "floating-bloom"
+    ]
+  },
+  "monitoringSites": [
+    {
+      "id": "1996",
+      "name": "Redbud West of Parking Lot",
+      "shortName": "Red Bud Isle",
+      "coordinates": [
+        -97.78752565383911,
+        30.290393091288536
+      ],
+      "sourceId": "austin-water-quality"
+    },
+    {
+      "id": "1252",
+      "name": "Lady Bird Lake @ Powerline",
+      "shortName": "Powerline site",
+      "coordinates": [
+        -97.753719,
+        30.264224
+      ],
+      "sourceId": "austin-water-quality"
+    },
+    {
+      "id": "1997",
+      "name": "Lagoon at Festival Beach",
+      "shortName": "Festival Beach lagoon",
+      "coordinates": [
+        -97.72454604506493,
+        30.247941716350812
+      ],
+      "sourceId": "austin-water-quality"
+    }
+  ],
+  "stations": {
+    "understand": {
+      "enabled": true,
+      "module": "stations/understand/index.js",
+      "content": "content/en/understand.json",
+      "status": "ready"
+    },
+    "identify": {
+      "enabled": true,
+      "module": "stations/identify/index.js",
+      "content": "content/en/identify.json",
+      "status": "ready"
+    },
+    "detect": {
+      "enabled": true,
+      "module": "stations/detect/index.js",
+      "content": "content/en/detect.json",
+      "status": "ready"
+    },
+    "predict": {
+      "enabled": true,
+      "module": "stations/predict/index.js",
+      "content": "content/en/predict.json",
+      "status": "ready"
+    },
+    "decide": {
+      "enabled": true,
+      "module": "stations/decide/index.js",
+      "content": "content/en/decide.json",
+      "status": "ready"
+    }
+  },
+  "seasonalRanges": null,
+  "prediction": {
+    "realTrainingEnabled": false,
+    "trainingMode": "simulated",
+    "labelPolicy": "No binary safety labels from missing or censored tests"
+  },
+  "datasets": "data/manifest.json",
+  "content": {
+    "common": "content/en/common.json",
+    "glossary": "content/en/glossary.json"
+  },
+  "agencyLinks": [
+    {
+      "label": "City of Austin: current algae guidance",
+      "url": "https://www.austintexas.gov/watershed-protection/algae-austins-waterways"
+    }
+  ],
+  "credits": {
+    "creator": "Chintan B. Maniyar",
+    "repositoryUrl": "https://github.com/Chintan2108/lake-lab",
+    "siblingUrl": "https://chintan2108.github.io/Water_Optics_Rrs_Simulator/",
+    "codeLicense": "MIT",
+    "contentLicense": "CC BY 4.0"
+  },
+  "dataPaths": {
+    "data/derived/environment-daily.json": "data/derived/environment-daily.json",
+    "data/derived/toxin-samples.json": "data/derived/toxin-samples.json",
+    "data/derived/water-monthly.json": "data/derived/water-monthly.json",
+    "data/derived/water-visits.json": "data/derived/water-visits.json",
+    "data/field-photos/images.json": "data/field-photos/images.json",
+    "data/open-images/images.json": "data/open-images/images.json",
+    "data/perri-2019/images.json": "data/perri-2019/images.json",
+    "data/sentinel-2/crop.json": "data/sentinel-2/crop.json",
+    "data/simulations/forecast.json": "data/simulations/forecast.json",
+    "data/simulations/sensor-day.json": "data/simulations/sensor-day.json"
+  },
+  "assetVersion": "20261010d"
+}

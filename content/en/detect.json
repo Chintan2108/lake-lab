@@ -1,0 +1,70 @@
+{
+  "id": "detect",
+  "number": "03",
+  "title": "Follow the signals",
+  "tagline": "What can a sensor actually see?",
+  "description": "Explore water records, satellite pixels and the colours of light.",
+  "projectQuestion": "What could your sensor or satellite miss near the shore or lake bottom?",
+  "icon": "satellite",
+  "phase": "Phase 3",
+  "status": "ready",
+  "how": [
+    "Real sensor mode shows separate City visits at selected shallow-water sites. Points are individual days, not a continuous recording through a day. Connecting lines guide your eye across missing time; they do not fill it.",
+    "The simulated day shows one invented order of signals: pH and dissolved oxygen respond to the light cycle before the pigment pulse. That timing is not a universal rule. RFU values depend on the instrument.",
+    "A phycocyanin probe shines light into water and measures pigment fluorescence. It is a clue about cyanobacteria, not a toxin test. Calibration, other particles and the position of a hidden mat can change what it sees. No local phycocyanin time series was verified for this app.",
+    "The pixel map uses the real lake outline in a local metre-based projection. Its grid origin is chosen for the lesson, not an actual satellite orbit. A coarse pixel can mix land and water.",
+    "The spectrum is a forward teaching model from Water Optics Lab. It adds absorption and backscattering, then calculates reflected light. Phycocyanin adds absorption near 620 nm. It does not directly model toxins."
+  ],
+  "prompt": "Before you try it: what evidence would you want to collect?",
+  "challenges": [
+    {
+      "id": "sensors",
+      "title": "See what is missing",
+      "goal": "Switch between measured visits and the simulated day.",
+      "hint": "A regular curve and scattered field visits are different evidence."
+    },
+    {
+      "id": "timing",
+      "title": "Which changed first?",
+      "goal": "In the invented day, find which pair rises before the pigment pulse.",
+      "hint": "Look at pH and dissolved oxygen, then compare the phycocyanin curve."
+    },
+    {
+      "id": "pixels",
+      "title": "A disappearing lake",
+      "goal": "Compare 10 m and 1,000 m pixels on the same outline.",
+      "hint": "The pixel size changes, not the lake. Coarse cells mix surfaces."
+    },
+    {
+      "id": "spectrum",
+      "title": "Find the blue pigment clue",
+      "goal": "Compare PC = 0 with PC \u2265 30 at the same chlorophyll.",
+      "hint": "Look near 620 nm. Keep total chlorophyll fixed."
+    }
+  ],
+  "omissions": [
+    "No live sensors, forecasts or water safety judgement. No verified local phycocyanin time series.",
+    "No actual satellite sensor response, atmospheric correction or bottom-mat optical model.",
+    "Sentinel-2 has 10 m visible bands but no narrow 620 nm band. Sentinel-3 has coarser pixels; PACE is about 1 km at nadir.",
+    "The lake is narrow. Published CyAN lake lists do not promise a usable local cyanobacteria time series."
+  ],
+  "modelVersion": "optical-teaching-v1",
+  "sensorWarning": "Derived from measured records. Provisional flags remain. No verified turbidity or phycocyanin channel at these selected sites.",
+  "dayWarning": "Simulated day: illustrative, not field measurements. Timing and values are chosen for teaching.",
+  "gridWarning": "Resolution demonstration. Real shoreline, invented grid alignment. Not a satellite toxin map.",
+  "spectrumWarning": "Illustrative, not field measurements. Optical reference-table rights remain unresolved; see the precise input treatment below.",
+  "sources": [
+    {
+      "label": "Water Optics Lab",
+      "url": "https://chintan2108.github.io/Water_Optics_Rrs_Simulator/"
+    },
+    {
+      "label": "Optical equations and input provenance",
+      "url": "docs/optical-methods.md"
+    },
+    {
+      "label": "Data derivations",
+      "url": "data/derived/README.md"
+    }
+  ]
+}

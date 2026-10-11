@@ -1,0 +1,30 @@
+{
+  "id": "map-grid",
+  "title": "Lake geometry in metres",
+  "agency": "USGS NHD; projection by Lake Lab",
+  "kind": "Derived from public data",
+  "license": "Public Domain",
+  "licenseUrl": "https://hydro.nationalmap.gov/arcgis/rest/services/nhd/MapServer",
+  "sourceUrl": "https://hydro.nationalmap.gov/arcgis/rest/services/nhd/MapServer/12",
+  "retrievedAt": "2026-10-09T22:29:47.669449+00:00",
+  "derivedAt": "2026-10-10T16:18:30.588637+00:00",
+  "period": "Historical NHD outline",
+  "recordCount": 1,
+  "countUnit": "projected polygon",
+  "files": [
+    {
+      "path": "data/map-grid/lake-utm.geojson",
+      "sha256": "bea1e14c227da0d3d043ef72408b61a57a584055b745bc832f0648cc83363b75",
+      "bytes": 40602
+    }
+  ],
+  "cleaning": [
+    "Reproject frozen WGS84 polygon to UTM zone14N (EPSG:32614), preserving holes; no simplification."
+  ],
+  "limitations": [
+    "Grid alignment in the browser is author-chosen, not an actual sensor footprint.",
+    "Outline is historical; mixed-pixel effects vary by real orbit, geolocation and shoreline."
+  ],
+  "requests": [],
+  "script": "scripts/project-map.py"
+}

@@ -1,0 +1,30 @@
+{
+  "scene": "S2B_14RPU_20190813_0_L2A",
+  "date": "2019-08-13T17:25:30.280000Z",
+  "requestedBoundsWGS84": [
+    -97.8,
+    30.235,
+    -97.69,
+    30.303
+  ],
+  "crs": "EPSG:32614",
+  "transform": [
+    10.0,
+    0.0,
+    615380.0,
+    0.0,
+    -10.0,
+    3353090.0,
+    0.0,
+    0.0,
+    1.0
+  ],
+  "width": 1066,
+  "height": 765,
+  "pixelSizeMetres": 10,
+  "sourceAsset": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/14/R/PU/2019/8/S2B_14RPU_20190813_0_L2A/TCI.tif",
+  "processing": "Crop existing 8-bit TCI RGB at native 10 m; JPEG quality 90; no additional contrast stretch.",
+  "attribution": "Contains modified Copernicus Sentinel data 2019, processed by ESA; hosted by Element 84 / AWS.",
+  "alt": "True-colour Sentinel-2 view of Lady Bird Lake and surrounding Austin on 13 August 2019.",
+  "cloudReview": "Visually inspected on 2026-10-10: no obvious cloud cover over the lake in the RGB crop. No quantitative cloud/shadow mask; not a cloud-free certification."
+}

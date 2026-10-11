@@ -1,0 +1,54 @@
+[
+  {
+    "file": "data/open-images/Microcystis_live.jpg",
+    "author": "Panek",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Microcystis_live.jpg",
+    "imageDate": "2007-02-11",
+    "alt": "Microcystis cells seen through a microscope.",
+    "changes": "None; original file.",
+    "specimenGroup": "Microcystis_live.jpg",
+    "kind": "Real image",
+    "local": false
+  },
+  {
+    "file": "data/open-images/Dolichospermum_sp..jpg",
+    "author": "Masa Zupancic",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dolichospermum_sp..jpg",
+    "imageDate": "2019-05-13",
+    "alt": "Microscope image of Dolichospermum.",
+    "changes": "None; original file.",
+    "specimenGroup": "Dolichospermum_sp..jpg",
+    "kind": "Real image",
+    "local": false
+  },
+  {
+    "file": "data/open-images/Microscopic_image_of_spirogyra.jpg",
+    "author": "SPJ777",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Microscopic_image_of_spirogyra.jpg",
+    "imageDate": "2023-03-15",
+    "alt": "Microscope image of the green alga Spirogyra.",
+    "changes": "None; original file.",
+    "specimenGroup": "Microscopic_image_of_spirogyra.jpg",
+    "kind": "Real image",
+    "local": false
+  },
+  {
+    "file": "data/open-images/20230604Lemna_minor1.jpg",
+    "author": "AnRo0002",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:20230604Lemna_minor1.jpg",
+    "imageDate": "2023-06-04",
+    "alt": "Duckweed plants on water, photographed from above.",
+    "changes": "None; original file.",
+    "specimenGroup": "20230604Lemna_minor1.jpg",
+    "kind": "Real image",
+    "local": false
+  }
+]

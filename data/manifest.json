@@ -1,0 +1,750 @@
+{
+  "schemaVersion": 1,
+  "window": [
+    "2016-01-01",
+    "2025-12-31"
+  ],
+  "datasets": [
+    {
+      "id": "austin-water-quality",
+      "title": "Lady Bird Lake water-quality records",
+      "agency": "City of Austin Watershed Protection",
+      "kind": "Measured",
+      "license": "Public Domain",
+      "licenseUrl": "https://data.austintexas.gov/api/views/5tye-7ray.json",
+      "sourceUrl": "https://data.austintexas.gov/d/5tye-7ray",
+      "retrievedAt": "2026-10-09T22:29:38.332246+00:00",
+      "period": "2016-02-17 to 2025-12-16",
+      "recordCount": 39001,
+      "countUnit": "measurement rows",
+      "files": [
+        {
+          "path": "data/austin-water-quality/observations.csv",
+          "sha256": "4e1627f9df266a2a569b6151061ab64461a2d64b2fed7fae8b45485f49b7c98b",
+          "bytes": 10537210
+        },
+        {
+          "path": "data/austin-water-quality/hab.csv",
+          "sha256": "099964e24fc432fdfba2d0965693fb7d3382a052e2fb19fdd8317c06fa95c646",
+          "bytes": 2154101
+        },
+        {
+          "path": "data/austin-water-quality/other-projects.csv",
+          "sha256": "ac53c4a2ab3f41ce5b96cf350ee66f83b42c07d36d0ab2f3b7ad679497aa01c9",
+          "bytes": 8383355
+        },
+        {
+          "path": "data/austin-water-quality/toxins.csv",
+          "sha256": "9941e5d27abec121a486a589eee1fcd971241959561d4feb198bb1df203f0e86",
+          "bytes": 144048
+        },
+        {
+          "path": "data/austin-water-quality/sites.json",
+          "sha256": "bda71b227946b15b7fd4ff32a8bbfd0e7845ccd0d59c84ecef4416eabc30cca5",
+          "bytes": 10271
+        },
+        {
+          "path": "data/austin-water-quality/inventory.json",
+          "sha256": "b0c0ec7f4da72383e650344c7abfe14093f66248d64d547dc358fb5483897639",
+          "bytes": 153057
+        },
+        {
+          "path": "data/austin-water-quality/summary.json",
+          "sha256": "f816257efaf2e1a5c01fcb7cd321ec7d54916ba76c55eb889bb306dbcbaee8e0",
+          "bytes": 171
+        }
+      ],
+      "requests": [
+        {
+          "url": "https://data.austintexas.gov/resource/5tye-7ray.json?%24where=watershed%3D%27Lady+Bird+Lake%27+AND+sample_date+between+%272016-01-01T00%3A00%3A00%27+and+%272025-12-31T23%3A59%3A59%27&%24order=ref_no&%24limit=10000&%24offset=30000",
+          "retrievedAt": "2026-10-09T22:29:38.332246+00:00",
+          "sha256": "55f290365b322741227fa4174a5978ca531aa215f63033cdc1cdbbf824811bba"
+        },
+        {
+          "url": "https://data.austintexas.gov/resource/5tye-7ray.json?%24where=watershed%3D%27Lady+Bird+Lake%27+AND+sample_date+between+%272016-01-01T00%3A00%3A00%27+and+%272025-12-31T23%3A59%3A59%27&%24order=ref_no&%24limit=10000&%24offset=10000",
+          "retrievedAt": "2026-10-09T22:29:34.145241+00:00",
+          "sha256": "701222d61c7480b67680a03f2864de2fd08d7ebf2bc0356ea14c0c6dd62e5253"
+        },
+        {
+          "url": "https://data.austintexas.gov/resource/5tye-7ray.json?%24where=watershed%3D%27Lady+Bird+Lake%27+AND+sample_date+between+%272016-01-01T00%3A00%3A00%27+and+%272025-12-31T23%3A59%3A59%27&%24order=ref_no&%24limit=10000&%24offset=0",
+          "retrievedAt": "2026-10-09T22:29:32.945860+00:00",
+          "sha256": "280ac277e7a42d8c5b95fff537ee9a23c411c7fd39dca4f446f23eee849748b3"
+        },
+        {
+          "url": "https://data.austintexas.gov/resource/5tye-7ray.json?%24where=watershed%3D%27Lady+Bird+Lake%27+AND+sample_date+between+%272016-01-01T00%3A00%3A00%27+and+%272025-12-31T23%3A59%3A59%27&%24order=ref_no&%24limit=10000&%24offset=20000",
+          "retrievedAt": "2026-10-09T22:29:37.464702+00:00",
+          "sha256": "6b0f284472f436eb0836badded55194ca8a2920d3d6351f9f030adf36c09dce0"
+        }
+      ],
+      "cleaning": [
+        "Filter exact watershed and approved 2016\u20132025 dates; paginate by unique ref_no.",
+        "Retain all source fields as text in CSV, including qualifier, method, depth and QC. Missing fields become empty cells.",
+        "Separate HAB project, other projects and toxin analytes; preserve all rows.",
+        "List unique site IDs and every returned name/coordinate variant; inventory parameter/unit/medium counts."
+      ],
+      "limitations": [
+        "Source is provisional and may include unreviewed or QC samples.",
+        "Watershed filter includes tributaries and varied media, depths and projects; not all rows are in-lake water.",
+        "No interpolation, unit conversion, outlier removal or safe/unsafe labels. Review parameter, medium, depth, qualifier and QC fields before analysis.",
+        "Toxin coverage is sparse and selectively sampled; below reporting limit is not zero or proof of safety."
+      ],
+      "script": "scripts/freeze.py",
+      "scriptVersion": "1.0.0"
+    },
+    {
+      "generated_at": "2026-10-10T03:46:21.113651+00:00",
+      "script": "scripts/derive-station-data.py",
+      "license": "See upstream source licences",
+      "period": "2016\u20132025 source window",
+      "sites": [
+        "1252",
+        "1996",
+        "1997"
+      ],
+      "inputs": [
+        {
+          "path": "data/austin-water-quality/observations.csv",
+          "sha256": "4e1627f9df266a2a569b6151061ab64461a2d64b2fed7fae8b45485f49b7c98b",
+          "metadata": "data/austin-water-quality/metadata.json"
+        },
+        {
+          "path": "data/austin-water-quality/toxins.csv",
+          "sha256": "9941e5d27abec121a486a589eee1fcd971241959561d4feb198bb1df203f0e86",
+          "metadata": "data/austin-water-quality/metadata.json"
+        },
+        {
+          "path": "data/noaa-weather/daily.csv",
+          "sha256": "92ce73528e69e1eaecd105b5a0c88ccf66db507e03e8cc695a6c5e8ccdc98d5c",
+          "metadata": "data/noaa-weather/metadata.json"
+        },
+        {
+          "path": "data/usgs-flow/daily.csv",
+          "sha256": "2c8d2320cd47298146199600a1a08bc5012519116e620f1876e3acaaea3f5de9",
+          "metadata": "data/usgs-flow/metadata.json"
+        }
+      ],
+      "source_ids": [
+        "Austin Socrata 5tye-7ray",
+        "NOAA GHCND USW00013958",
+        "USGS 08158000 parameter 00060 daily mean 00003"
+      ],
+      "counts": {
+        "water_candidates": 1584,
+        "water_accepted_measurements": 1086,
+        "water_visits": 1086,
+        "monthly_rows": 53,
+        "daily_rows": 3653,
+        "toxin_measurements": 365,
+        "toxin_sample_groups": 73
+      },
+      "water_exclusions": {
+        "qualified or censored result": 430,
+        "missing or deeper than 0.5 m": 20,
+        "nonempty qc_type (replicate/QC sample)": 48
+      },
+      "water_qc_flags": {
+        "U": 291,
+        "J": 33,
+        "(blank)": 762
+      },
+      "missing_flow_dates": [
+        "2017-01-26"
+      ],
+      "outputs": [
+        {
+          "path": "data/derived/environment-daily.csv",
+          "sha256": "eacb39f63a4e9f5eb0628dadaed76ade3cd29afb9ce5bcbee4aeb591d866d9a0"
+        },
+        {
+          "path": "data/derived/environment-daily.json",
+          "sha256": "da4f998389cf7a1136fc7049c9280f15ebfa1b3abebdfc669b70757585005e59"
+        },
+        {
+          "path": "data/derived/toxin-evidence.csv",
+          "sha256": "504a95dc2c8d7d93867d0c2332beba8d5bd0f3306ab1e1b56ee43e5aa2e12a5b"
+        },
+        {
+          "path": "data/derived/toxin-evidence.json",
+          "sha256": "6313d8a7baef946c57c45405a1ff3fb30edf3cc3eb68d23bb53713b75d2538bd"
+        },
+        {
+          "path": "data/derived/toxin-samples.csv",
+          "sha256": "6cb9c4e1bf59eb25e1dadbde6fe5641a8371202cec2a0d85251d1cd0ce3f7895"
+        },
+        {
+          "path": "data/derived/toxin-samples.json",
+          "sha256": "e0112d329b7274c88b1938ae3ab05d8e8ac164d551a330198e3520478060e4f0"
+        },
+        {
+          "path": "data/derived/water-evidence.csv",
+          "sha256": "09e7e66c09a2cf58236fdf7151cad66b6eb5480055da4befad09aa47af014df4"
+        },
+        {
+          "path": "data/derived/water-evidence.json",
+          "sha256": "3544aeb1c1523d092292d92ec811d850797755d3d0d09e99f293ac7d78ecda33"
+        },
+        {
+          "path": "data/derived/water-monthly.csv",
+          "sha256": "3be3841d3815d721cab046c53920590f72a0566c96ce88ae9013ddeebf1eff00"
+        },
+        {
+          "path": "data/derived/water-monthly.json",
+          "sha256": "fae918f2c2d5db56eac6aedeb43c46894b9a5a8bd713fe9923f47d8d6b50be7c"
+        },
+        {
+          "path": "data/derived/water-visits.csv",
+          "sha256": "e76148057745044d4a91c8d37221c3c8098463a2a79d7f35c3ebdcba1a66149e"
+        },
+        {
+          "path": "data/derived/water-visits.json",
+          "sha256": "3ef15bc54eb026149c08573431d856cdf4e0e41803485910957f759a7a6f292e"
+        }
+      ],
+      "id": "derived",
+      "title": "Station evidence selections",
+      "agency": "Lake Lab; upstream authors listed in dataset notes",
+      "kind": "Derived from real records",
+      "licenseUrl": "data/austin-water-quality/metadata.json",
+      "sourceUrl": "data/austin-water-quality/metadata.json",
+      "retrievedAt": "2026-10-10",
+      "recordCount": 1086,
+      "countUnit": "rows",
+      "limitations": [
+        "QC flags U and J are retained but not decoded; these are provisional observations.",
+        "73 toxin sample groups are not 73 independent visits. Censored and missing tests are not negative safety labels."
+      ],
+      "cleaning": [
+        "Select three named sites and shallow surface-water observations; preserve qualifiers and source identifiers.",
+        "Join daily weather and downstream flow by date; leave gaps empty."
+      ],
+      "files": [
+        {
+          "path": "data/derived/environment-daily.csv",
+          "bytes": 321666,
+          "sha256": "eacb39f63a4e9f5eb0628dadaed76ade3cd29afb9ce5bcbee4aeb591d866d9a0"
+        },
+        {
+          "path": "data/derived/environment-daily.json",
+          "bytes": 1380871,
+          "sha256": "da4f998389cf7a1136fc7049c9280f15ebfa1b3abebdfc669b70757585005e59"
+        },
+        {
+          "path": "data/derived/toxin-evidence.csv",
+          "bytes": 94996,
+          "sha256": "504a95dc2c8d7d93867d0c2332beba8d5bd0f3306ab1e1b56ee43e5aa2e12a5b"
+        },
+        {
+          "path": "data/derived/toxin-evidence.json",
+          "bytes": 258297,
+          "sha256": "6313d8a7baef946c57c45405a1ff3fb30edf3cc3eb68d23bb53713b75d2538bd"
+        },
+        {
+          "path": "data/derived/toxin-samples.csv",
+          "bytes": 18603,
+          "sha256": "6cb9c4e1bf59eb25e1dadbde6fe5641a8371202cec2a0d85251d1cd0ce3f7895"
+        },
+        {
+          "path": "data/derived/toxin-samples.json",
+          "bytes": 37590,
+          "sha256": "e0112d329b7274c88b1938ae3ab05d8e8ac164d551a330198e3520478060e4f0"
+        },
+        {
+          "path": "data/derived/water-evidence.csv",
+          "bytes": 461589,
+          "sha256": "09e7e66c09a2cf58236fdf7151cad66b6eb5480055da4befad09aa47af014df4"
+        },
+        {
+          "path": "data/derived/water-evidence.json",
+          "bytes": 1240674,
+          "sha256": "3544aeb1c1523d092292d92ec811d850797755d3d0d09e99f293ac7d78ecda33"
+        },
+        {
+          "path": "data/derived/water-monthly.csv",
+          "bytes": 5239,
+          "sha256": "3be3841d3815d721cab046c53920590f72a0566c96ce88ae9013ddeebf1eff00"
+        },
+        {
+          "path": "data/derived/water-monthly.json",
+          "bytes": 19464,
+          "sha256": "fae918f2c2d5db56eac6aedeb43c46894b9a5a8bd713fe9923f47d8d6b50be7c"
+        },
+        {
+          "path": "data/derived/water-visits.csv",
+          "bytes": 107600,
+          "sha256": "e76148057745044d4a91c8d37221c3c8098463a2a79d7f35c3ebdcba1a66149e"
+        },
+        {
+          "path": "data/derived/water-visits.json",
+          "bytes": 342071,
+          "sha256": "3ef15bc54eb026149c08573431d856cdf4e0e41803485910957f759a7a6f292e"
+        }
+      ]
+    },
+    {
+      "id": "field-photos",
+      "title": "Lady Bird Lake mat field photographs",
+      "agency": "Katherine A. Perri, Brent J. Bellinger, Matt P. Ashworth and Schonna R. Manning",
+      "kind": "Real image",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://doi.org/10.3390/toxins16020091",
+      "retrievedAt": "2026-10-10T03:47:10.621645+00:00",
+      "period": "2019-08-08 and 2019-08-12",
+      "recordCount": 2,
+      "countUnit": "photographs in one published figure",
+      "files": [
+        {
+          "path": "data/field-photos/red-bud-mats-2019.jpg",
+          "sha256": "463536fe991c465b4a18b1539d5ded9fcc3fd75fa7039477e738421975fae811",
+          "bytes": 89058
+        },
+        {
+          "path": "data/field-photos/images.json",
+          "sha256": "9c6a6b8695fbe0cfe4abb0ed20094b4bbc367d80bd9a3d83cd51e1e674079803",
+          "bytes": 1661
+        }
+      ],
+      "requests": [
+        {
+          "url": "https://mdpi-res.com/d_attachment/toxins/toxins-16-00091/article_deploy/toxins-16-00091-v2.pdf",
+          "sha256": "b782f4d885779db11113ff61d69457a0240fba743b592dd187b348de85e7d260",
+          "retrievedAt": "2026-10-10T03:47:10.621645+00:00",
+          "access": "Previously retrieved publisher PDF supplied locally"
+        }
+      ],
+      "cleaning": [
+        "Original embedded JPEG extracted from page 3, Figure 2, without visual changes; both panels preserved."
+      ],
+      "limitations": [
+        "A source-identified example, not a rule for identifying every photo. Mat presence does not establish toxicity. No individual photographer is credited separately in the article.",
+        "The two panels are not independent training or validation sets."
+      ],
+      "script": "scripts/freeze-field-photos.py",
+      "scriptVersion": "1.0.0"
+    },
+    {
+      "id": "lake-outline",
+      "title": "Lady Bird Lake shoreline",
+      "agency": "U.S. Geological Survey, National Hydrography Dataset",
+      "kind": "Derived from public data",
+      "license": "Public Domain",
+      "licenseUrl": "https://hydro.nationalmap.gov/arcgis/rest/services/nhd/MapServer",
+      "sourceUrl": "https://hydro.nationalmap.gov/arcgis/rest/services/nhd/MapServer/12",
+      "retrievedAt": "2026-10-09T22:29:47.669449+00:00",
+      "period": "Feature timestamp: 2013-03-19",
+      "recordCount": 1,
+      "countUnit": "records",
+      "files": [
+        {
+          "path": "data/lake-outline/lake.geojson",
+          "sha256": "21e413eec4b42afcd17d666226046ad8451f840fd614dc15230bcc05baff3ee0",
+          "bytes": 100348
+        }
+      ],
+      "requests": [
+        {
+          "url": "https://hydro.nationalmap.gov/arcgis/rest/services/nhd/MapServer/12/query?where=gnis_id%3D%2701376484%27&outFields=%2A&returnGeometry=true&outSR=4326&f=geojson",
+          "retrievedAt": "2026-10-09T22:29:47.669449+00:00",
+          "sha256": "505cf7620f4fb6196da62ab8224fdf7fefb5f0c5a8cbac385fbaf1209a86f962"
+        }
+      ],
+      "cleaning": [
+        "Select GNIS 01376484 and verified Lady Bird Lake feature.",
+        "Preserve geometry, holes and attributes; WGS84 coordinates. No simplification."
+      ],
+      "limitations": [
+        "Historical mapped shoreline, not today\u2019s measured water edge.",
+        "Display map is for learning, not navigation."
+      ],
+      "script": "scripts/freeze.py",
+      "scriptVersion": "1.0.0"
+    },
+    {
+      "id": "map-grid",
+      "title": "Lake geometry in metres",
+      "agency": "USGS NHD; projection by Lake Lab",
+      "kind": "Derived from public data",
+      "license": "Public Domain",
+      "licenseUrl": "https://hydro.nationalmap.gov/arcgis/rest/services/nhd/MapServer",
+      "sourceUrl": "https://hydro.nationalmap.gov/arcgis/rest/services/nhd/MapServer/12",
+      "retrievedAt": "2026-10-09T22:29:47.669449+00:00",
+      "derivedAt": "2026-10-10T16:18:30.588637+00:00",
+      "period": "Historical NHD outline",
+      "recordCount": 1,
+      "countUnit": "projected polygon",
+      "files": [
+        {
+          "path": "data/map-grid/lake-utm.geojson",
+          "sha256": "bea1e14c227da0d3d043ef72408b61a57a584055b745bc832f0648cc83363b75",
+          "bytes": 40602
+        }
+      ],
+      "cleaning": [
+        "Reproject frozen WGS84 polygon to UTM zone14N (EPSG:32614), preserving holes; no simplification."
+      ],
+      "limitations": [
+        "Grid alignment in the browser is author-chosen, not an actual sensor footprint.",
+        "Outline is historical; mixed-pixel effects vary by real orbit, geolocation and shoreline."
+      ],
+      "requests": [],
+      "script": "scripts/project-map.py"
+    },
+    {
+      "id": "noaa-weather",
+      "title": "Austin daily weather",
+      "agency": "NOAA NCEI / GHCN-Daily, Austin Camp Mabry",
+      "kind": "Measured",
+      "license": "Public Domain",
+      "licenseUrl": "https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00861",
+      "sourceUrl": "https://www.ncei.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND%3AUSW00013958/detail",
+      "retrievedAt": "2026-10-09T22:29:46.896242+00:00",
+      "period": "2016-01-01 to 2025-12-31",
+      "recordCount": 3653,
+      "countUnit": "records",
+      "files": [
+        {
+          "path": "data/noaa-weather/daily.csv",
+          "sha256": "92ce73528e69e1eaecd105b5a0c88ccf66db507e03e8cc695a6c5e8ccdc98d5c",
+          "bytes": 222597
+        }
+      ],
+      "requests": [
+        {
+          "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=daily-summaries&stations=USW00013958&startDate=2016-01-01&endDate=2025-12-31&dataTypes=TMAX%2CTMIN%2CPRCP&units=metric&format=json&includeAttributes=true",
+          "retrievedAt": "2026-10-09T22:29:46.896242+00:00",
+          "sha256": "d738492d98028ab0017ce8aeb1c216ae56b107194fb112b891db9475b975c4a0"
+        }
+      ],
+      "cleaning": [
+        "Request metric daily minimum/maximum air temperature (\u00b0C) and precipitation (mm).",
+        "Retain source attribute flags and missing fields; no interpolation."
+      ],
+      "limitations": [
+        "Air temperature is not water temperature; rain is measured at Camp Mabry, not at the lake.",
+        "Attribute strings preserve measurement, quality and source flags; trace rain must not be treated as exact zero.",
+        "No solar radiation or hourly observations included."
+      ],
+      "script": "scripts/freeze.py",
+      "scriptVersion": "1.0.0"
+    },
+    {
+      "id": "open-images",
+      "title": "Organisms and look-alikes",
+      "agency": "Individual photographers; see images.json",
+      "license": "Mixed open licences; see each image",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "kind": "Real image",
+      "recordCount": 4,
+      "countUnit": "images",
+      "period": "2007\u20132023 images; not Lady Bird Lake",
+      "retrievedAt": "2026-10-10T03:25:18.162232+00:00",
+      "files": [
+        {
+          "path": "data/open-images/Microcystis_live.jpg",
+          "sha256": "034e5df150aada5749434c3e7c079adb34f9c9481b2acfd3a3f7a7badd326e64",
+          "bytes": 135461
+        },
+        {
+          "path": "data/open-images/Dolichospermum_sp..jpg",
+          "sha256": "9e60bd428fb724e84d913c02574d55a628154589c8c468cb3b23850a4563bd3a",
+          "bytes": 616210
+        },
+        {
+          "path": "data/open-images/Microscopic_image_of_spirogyra.jpg",
+          "sha256": "3653a0374b16b10b7e70c5250368bf45ee56d40222cf6c8a3a4b6a83a8b44985",
+          "bytes": 3289140
+        },
+        {
+          "path": "data/open-images/20230604Lemna_minor1.jpg",
+          "sha256": "a43dd43704318c7e184ccc3956cc5234f24e8d567afa8af6dfa58b5cecd4958a",
+          "bytes": 3442568
+        },
+        {
+          "path": "data/open-images/images.json",
+          "sha256": "891a2f22648177ebb513598a2d5e7e59e8fc0e9ad49370a2dac12a5006a85f6b",
+          "bytes": 1999
+        }
+      ],
+      "requests": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Microscopic_image_of_spirogyra.jpg",
+          "retrievedAt": "2026-10-10T03:25:10.450610+00:00",
+          "sha256": "3653a0374b16b10b7e70c5250368bf45ee56d40222cf6c8a3a4b6a83a8b44985"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/20230604Lemna_minor1.jpg",
+          "retrievedAt": "2026-10-10T03:25:18.162232+00:00",
+          "sha256": "a43dd43704318c7e184ccc3956cc5234f24e8d567afa8af6dfa58b5cecd4958a"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dolichospermum_sp..jpg",
+          "retrievedAt": "2026-10-10T03:25:02.254264+00:00",
+          "sha256": "9e60bd428fb724e84d913c02574d55a628154589c8c468cb3b23850a4563bd3a"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Microcystis_live.jpg",
+          "retrievedAt": "2026-10-10T03:25:01.589722+00:00",
+          "sha256": "034e5df150aada5749434c3e7c079adb34f9c9481b2acfd3a3f7a7badd326e64"
+        }
+      ],
+      "cleaning": [
+        "Download original JPEGs without alteration.",
+        "Retain per-image author, licence, date, source and specimen-group ID."
+      ],
+      "limitations": [
+        "These images are not local lake measurements or toxin evidence.",
+        "CC BY-SA applies to adaptations of the Dolichospermum image.",
+        "A small curated gallery is not a validated identification system."
+      ],
+      "script": "scripts/freeze-imagery.py",
+      "scriptVersion": "1.0.0"
+    },
+    {
+      "id": "optical-reference",
+      "kind": "Simulated",
+      "author": "Chintan B. Maniyar / Lake Lab",
+      "license": "CC BY 4.0",
+      "created": "2026-10-09",
+      "retrieved": null,
+      "source": "Original analytic teaching formulas; see docs/optical-methods.md",
+      "rows": 81,
+      "wavelength_nm": [
+        400,
+        800
+      ],
+      "step_nm": 5,
+      "sha256": "b4e9e04ee70516cdfc3d1fd8085b86f9a1c6822762aea399fb86b3b7a61d563d",
+      "upstream_equations": "https://github.com/Chintan2108/Water_Optics_Rrs_Simulator/blob/cf17a481bea2cbbcb98142274bfa6fede9df6529/app.js",
+      "upstream_numerical_tables_copied": false,
+      "transform": "Evaluate documented analytic functions at 5 nm intervals; no measured data fitted or copied.",
+      "title": "Analytic teaching reference spectra",
+      "agency": "Lake Lab; upstream authors listed in dataset notes",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "docs/optical-methods.md",
+      "retrievedAt": "2026-10-10",
+      "period": "Teaching example; not an observed time period",
+      "recordCount": 81,
+      "countUnit": "rows",
+      "limitations": [
+        "The forward equations match Water Optics Lab; reference water and phytoplankton shapes are analytic replacements, not the original numerical tables."
+      ],
+      "cleaning": [
+        "Evaluate the documented analytic functions every 5 nm from 400 to 800 nm. No measurements fitted."
+      ],
+      "files": [
+        {
+          "path": "data/optical-reference/analytic-reference.csv",
+          "bytes": 3710,
+          "sha256": "b4e9e04ee70516cdfc3d1fd8085b86f9a1c6822762aea399fb86b3b7a61d563d"
+        }
+      ]
+    },
+    {
+      "id": "perri-2019",
+      "title": "Microscope images from the local study",
+      "agency": "Katherine Perri, Schonna Manning, Matt Ashworth and Brent Bellinger",
+      "kind": "Real image",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://data.mendeley.com/datasets/f94329byhk/2",
+      "retrievedAt": "2026-10-09T22:31:57.368917+00:00",
+      "period": "2019 study; dataset version 2 published 2024-02-07",
+      "recordCount": 3,
+      "countUnit": "records",
+      "files": [
+        {
+          "path": "data/perri-2019/micrograph-1.jpg",
+          "sha256": "cee9fee57e6878f834a474fabdf4b0fdf3d7c190ab1951dd0798c0c026216d63",
+          "bytes": 980113
+        },
+        {
+          "path": "data/perri-2019/micrograph-2.jpg",
+          "sha256": "762db4abb55ca5d0bc9aa627cd28d53115a167b9683b54102c0318d59e8ad3b8",
+          "bytes": 933898
+        },
+        {
+          "path": "data/perri-2019/micrograph-3.jpg",
+          "sha256": "76a8d3f6c17c9d52eb69189a204188614f423ac0fabd1c822aa2e2ec0cf10dfb",
+          "bytes": 1097688
+        },
+        {
+          "path": "data/perri-2019/images.json",
+          "sha256": "a66eabdb5409f2918e18d8216a8c992e38f252eb14fbd4271b93bd5c16b369e7",
+          "bytes": 1788
+        }
+      ],
+      "requests": [
+        {
+          "url": "https://data.mendeley.com/public-files/datasets/f94329byhk/files/e1b31e1e-b190-4b04-bcde-9247d02a5e12/file_downloaded",
+          "retrievedAt": "2026-10-09T22:31:55.466839+00:00",
+          "sha256": "762db4abb55ca5d0bc9aa627cd28d53115a167b9683b54102c0318d59e8ad3b8"
+        },
+        {
+          "url": "https://data.mendeley.com/public-files/datasets/f94329byhk/files/a8d7b006-6332-40ed-b715-6dd17e139e00/file_downloaded",
+          "retrievedAt": "2026-10-09T22:31:57.368917+00:00",
+          "sha256": "76a8d3f6c17c9d52eb69189a204188614f423ac0fabd1c822aa2e2ec0cf10dfb"
+        },
+        {
+          "url": "https://data.mendeley.com/public-api/datasets/f94329byhk/files?folder_id=a5437c92-e780-46c5-9e68-88d90277ee25&version=2&%24start=0&%24limit=1000",
+          "retrievedAt": "2026-10-09T22:31:46.659931+00:00",
+          "sha256": "ee85e4587f3a84cc387ada9d560de2e8ad470f53f298770a395f3c10b52c9777"
+        },
+        {
+          "url": "https://data.mendeley.com/public-files/datasets/f94329byhk/files/ba3c5f14-10c4-4df8-9c98-fcf7a94864c8/file_downloaded",
+          "retrievedAt": "2026-10-09T22:31:49.169132+00:00",
+          "sha256": "cee9fee57e6878f834a474fabdf4b0fdf3d7c190ab1951dd0798c0c026216d63"
+        }
+      ],
+      "cleaning": [
+        "Download original microscopy files from version 2.",
+        "Verify each file against the publisher SHA-256; no crop or alteration."
+      ],
+      "limitations": [
+        "OTU names retained until species mapping is reviewed.",
+        "Three microscope plates are not three verified toxin outcomes or enough independent examples for a robust classifier."
+      ],
+      "script": "scripts/freeze.py",
+      "scriptVersion": "1.0.0"
+    },
+    {
+      "id": "sentinel-2",
+      "title": "Lady Bird Lake from Sentinel-2",
+      "agency": "Copernicus / ESA; Element 84 Earth Search mirror",
+      "license": "Copernicus free, full and open use",
+      "licenseUrl": "https://documentation.dataspace.copernicus.eu/FAQ.html",
+      "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_14RPU_20190813_0_L2A",
+      "kind": "Real image",
+      "recordCount": 1,
+      "countUnit": "images",
+      "period": "2019-08-13",
+      "retrievedAt": "2026-10-10T03:26:32.240012+00:00",
+      "files": [
+        {
+          "path": "data/sentinel-2/lake-true-colour.jpg",
+          "sha256": "6a2567facb80a6498d3aa667e0e31ce43907afca605dc1807e674af231900251",
+          "bytes": 412713
+        },
+        {
+          "path": "data/sentinel-2/lake-true-colour.tif",
+          "sha256": "36e0030ee5738eed737cc7ad675ba6903a93f4d5b3f722bc9de07c9443932ef0",
+          "bytes": 2210037
+        },
+        {
+          "path": "data/sentinel-2/crop.json",
+          "sha256": "b0f672061cc8b998f063fb343e9fd6bf9c5ff7e465cfb22122c5e3b6c27945bb",
+          "bytes": 1000
+        },
+        {
+          "path": "data/sentinel-2/scene.json",
+          "sha256": "92b5588168c11aa1494a12471e3037ca94a19658258aa3b3241d3c7af07cc96a",
+          "bytes": 21346
+        }
+      ],
+      "requests": [
+        {
+          "url": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/14/R/PU/2019/8/S2B_14RPU_20190813_0_L2A/TCI.tif",
+          "retrievedAt": "2026-10-10T03:26:32.240012+00:00",
+          "method": "HTTP byte-range crop via rasterio; full original not downloaded",
+          "cropSha256": "36e0030ee5738eed737cc7ad675ba6903a93f4d5b3f722bc9de07c9443932ef0"
+        },
+        {
+          "url": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_14RPU_20190813_0_L2A",
+          "retrievedAt": "2026-10-10T03:26:20.002760+00:00",
+          "sha256": "92b5588168c11aa1494a12471e3037ca94a19658258aa3b3241d3c7af07cc96a"
+        }
+      ],
+      "cleaning": [
+        "Select audited scene S2B_14RPU_20190813_0_L2A.",
+        "Range-read a native 10 m RGB crop covering the lake; save georeferenced TIFF and JPEG.",
+        "Contains modified Copernicus Sentinel data 2019."
+      ],
+      "limitations": [
+        "True colour does not identify toxins or hidden bottom mats.",
+        "L2A land surface reflectance is not water-leaving reflectance.",
+        "Visual check found no obvious cloud cover over the lake; no quantitative cloud/shadow mask was applied."
+      ],
+      "script": "scripts/freeze-imagery.py",
+      "scriptVersion": "1.0.0"
+    },
+    {
+      "id": "simulations",
+      "title": "Invented forecast and daily sensor examples",
+      "agency": "Lake Lab; upstream authors listed in dataset notes",
+      "kind": "Simulated",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "docs/methods.md",
+      "retrievedAt": "2026-10-10",
+      "period": "Teaching example; not an observed time period",
+      "recordCount": 264,
+      "countUnit": "rows",
+      "limitations": [
+        "No field measurements or safety forecasts. All coefficients are author-chosen."
+      ],
+      "cleaning": [
+        "Generate 240 seeded training examples and 24 illustrative hourly sensor values. See scripts/make-simulations.py."
+      ],
+      "files": [
+        {
+          "path": "data/simulations/forecast.csv",
+          "bytes": 18130,
+          "sha256": "f6d3a02d62a3dfc47405e255d01b80d1481454d519aa009d6c0e9116ecf37e53"
+        },
+        {
+          "path": "data/simulations/forecast.json",
+          "bytes": 57421,
+          "sha256": "1b423c59e34ee46917422ee7d81ae0c79198dd2c9e5b7324dfc02b494c1c7dd2"
+        },
+        {
+          "path": "data/simulations/sensor-day.csv",
+          "bytes": 866,
+          "sha256": "d69ef1d87dddc2ca46e88849bfaf92696d4d5f696b43c4c7f7d8638501c79c7d"
+        },
+        {
+          "path": "data/simulations/sensor-day.json",
+          "bytes": 4015,
+          "sha256": "80ef7d0851c5d1a91416ea19bc0d68fc973254a5ef653b823df94d017da8419f"
+        }
+      ]
+    },
+    {
+      "id": "usgs-flow",
+      "title": "Daily river flow below the lake",
+      "agency": "U.S. Geological Survey",
+      "kind": "Measured",
+      "license": "Public Domain",
+      "licenseUrl": "https://www.usgs.gov/faqs/are-usgs-reportspublications-copyrighted",
+      "sourceUrl": "https://waterdata.usgs.gov/monitoring-location/USGS-08158000/",
+      "retrievedAt": "2026-10-09T22:29:45.704026+00:00",
+      "period": "2016-01-01 to 2025-12-31",
+      "recordCount": 3652,
+      "countUnit": "records",
+      "files": [
+        {
+          "path": "data/usgs-flow/daily.csv",
+          "sha256": "2c8d2320cd47298146199600a1a08bc5012519116e620f1876e3acaaea3f5de9",
+          "bytes": 201899
+        }
+      ],
+      "requests": [
+        {
+          "url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=08158000&startDT=2016-01-01&endDT=2025-12-31&parameterCd=00060&statCd=00003",
+          "retrievedAt": "2026-10-09T22:29:45.704026+00:00",
+          "sha256": "53a007f105eb84ca7f0238134b5ef94f434769365bcaa5aec3d23d9ccc5df75a"
+        }
+      ],
+      "cleaning": [
+        "Extract daily mean discharge (00060, statistic 00003).",
+        "Preserve source units and qualifiers. Do not fill missing dates or convert flow to lake speed."
+      ],
+      "limitations": [
+        "Gauge is downstream of Longhorn Dam, not a measurement of lake currents or Tom Miller releases.",
+        "Daily means hide changes within a day. Preserve approval/estimate qualifiers and no-data sentinel.",
+        "Missing day: 2017-01-26. No value was filled in."
+      ],
+      "script": "scripts/freeze.py",
+      "scriptVersion": "1.0.0"
+    }
+  ]
+}

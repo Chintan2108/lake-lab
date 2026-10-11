@@ -1,0 +1,26 @@
+[
+  {
+    "id": "red-bud-mats-2019",
+    "file": "data/field-photos/red-bud-mats-2019.jpg",
+    "title": "Red Bud Isle mat photographs, August 2019",
+    "author": "Katherine A. Perri, Brent J. Bellinger, Matt P. Ashworth and Schonna R. Manning",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://doi.org/10.3390/toxins16020091",
+    "downloadUrl": "https://mdpi-res.com/d_attachment/toxins/toxins-16-00091/article_deploy/toxins-16-00091-v2.pdf",
+    "retrievedAt": "2026-10-10T03:47:10.621645+00:00",
+    "dates": [
+      "2019-08-08",
+      "2019-08-12"
+    ],
+    "alt": "Two field photographs of thick olive-brown and green mats in shallow water near Red Bud Isle. These are real mat photographs; appearance does not show toxin levels.",
+    "changes": "Original embedded JPEG extracted from page 3, Figure 2, without visual changes; both panels preserved.",
+    "specimenGroup": "Perri2024-Figure2-RedBud2019",
+    "evidence": "Figure 2 caption identifies metaphyton mats around Red Bud Isle in Lady Bird Lake, photographed August 8 (A) and August 12 (B), 2019.",
+    "quizLabel": "mat",
+    "explanation": "The researchers identified these as mats at Red Bud Isle. The clumps look different from a smooth green surface bloom. A photo cannot tell us whether toxins are present.",
+    "uncertainty": "A source-identified example, not a rule for identifying every photo. Mat presence does not establish toxicity. No individual photographer is credited separately in the article.",
+    "sha256": "463536fe991c465b4a18b1539d5ded9fcc3fd75fa7039477e738421975fae811",
+    "bytes": 89058
+  }
+]

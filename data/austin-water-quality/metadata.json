@@ -1,0 +1,86 @@
+{
+  "id": "austin-water-quality",
+  "title": "Lady Bird Lake water-quality records",
+  "agency": "City of Austin Watershed Protection",
+  "kind": "Measured",
+  "license": "Public Domain",
+  "licenseUrl": "https://data.austintexas.gov/api/views/5tye-7ray.json",
+  "sourceUrl": "https://data.austintexas.gov/d/5tye-7ray",
+  "retrievedAt": "2026-10-09T22:29:38.332246+00:00",
+  "period": "2016-02-17 to 2025-12-16",
+  "recordCount": 39001,
+  "countUnit": "measurement rows",
+  "files": [
+    {
+      "path": "data/austin-water-quality/observations.csv",
+      "sha256": "4e1627f9df266a2a569b6151061ab64461a2d64b2fed7fae8b45485f49b7c98b",
+      "bytes": 10537210
+    },
+    {
+      "path": "data/austin-water-quality/hab.csv",
+      "sha256": "099964e24fc432fdfba2d0965693fb7d3382a052e2fb19fdd8317c06fa95c646",
+      "bytes": 2154101
+    },
+    {
+      "path": "data/austin-water-quality/other-projects.csv",
+      "sha256": "ac53c4a2ab3f41ce5b96cf350ee66f83b42c07d36d0ab2f3b7ad679497aa01c9",
+      "bytes": 8383355
+    },
+    {
+      "path": "data/austin-water-quality/toxins.csv",
+      "sha256": "9941e5d27abec121a486a589eee1fcd971241959561d4feb198bb1df203f0e86",
+      "bytes": 144048
+    },
+    {
+      "path": "data/austin-water-quality/sites.json",
+      "sha256": "bda71b227946b15b7fd4ff32a8bbfd0e7845ccd0d59c84ecef4416eabc30cca5",
+      "bytes": 10271
+    },
+    {
+      "path": "data/austin-water-quality/inventory.json",
+      "sha256": "b0c0ec7f4da72383e650344c7abfe14093f66248d64d547dc358fb5483897639",
+      "bytes": 153057
+    },
+    {
+      "path": "data/austin-water-quality/summary.json",
+      "sha256": "f816257efaf2e1a5c01fcb7cd321ec7d54916ba76c55eb889bb306dbcbaee8e0",
+      "bytes": 171
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://data.austintexas.gov/resource/5tye-7ray.json?%24where=watershed%3D%27Lady+Bird+Lake%27+AND+sample_date+between+%272016-01-01T00%3A00%3A00%27+and+%272025-12-31T23%3A59%3A59%27&%24order=ref_no&%24limit=10000&%24offset=30000",
+      "retrievedAt": "2026-10-09T22:29:38.332246+00:00",
+      "sha256": "55f290365b322741227fa4174a5978ca531aa215f63033cdc1cdbbf824811bba"
+    },
+    {
+      "url": "https://data.austintexas.gov/resource/5tye-7ray.json?%24where=watershed%3D%27Lady+Bird+Lake%27+AND+sample_date+between+%272016-01-01T00%3A00%3A00%27+and+%272025-12-31T23%3A59%3A59%27&%24order=ref_no&%24limit=10000&%24offset=10000",
+      "retrievedAt": "2026-10-09T22:29:34.145241+00:00",
+      "sha256": "701222d61c7480b67680a03f2864de2fd08d7ebf2bc0356ea14c0c6dd62e5253"
+    },
+    {
+      "url": "https://data.austintexas.gov/resource/5tye-7ray.json?%24where=watershed%3D%27Lady+Bird+Lake%27+AND+sample_date+between+%272016-01-01T00%3A00%3A00%27+and+%272025-12-31T23%3A59%3A59%27&%24order=ref_no&%24limit=10000&%24offset=0",
+      "retrievedAt": "2026-10-09T22:29:32.945860+00:00",
+      "sha256": "280ac277e7a42d8c5b95fff537ee9a23c411c7fd39dca4f446f23eee849748b3"
+    },
+    {
+      "url": "https://data.austintexas.gov/resource/5tye-7ray.json?%24where=watershed%3D%27Lady+Bird+Lake%27+AND+sample_date+between+%272016-01-01T00%3A00%3A00%27+and+%272025-12-31T23%3A59%3A59%27&%24order=ref_no&%24limit=10000&%24offset=20000",
+      "retrievedAt": "2026-10-09T22:29:37.464702+00:00",
+      "sha256": "6b0f284472f436eb0836badded55194ca8a2920d3d6351f9f030adf36c09dce0"
+    }
+  ],
+  "cleaning": [
+    "Filter exact watershed and approved 2016–2025 dates; paginate by unique ref_no.",
+    "Retain all source fields as text in CSV, including qualifier, method, depth and QC. Missing fields become empty cells.",
+    "Separate HAB project, other projects and toxin analytes; preserve all rows.",
+    "List unique site IDs and every returned name/coordinate variant; inventory parameter/unit/medium counts."
+  ],
+  "limitations": [
+    "Source is provisional and may include unreviewed or QC samples.",
+    "Watershed filter includes tributaries and varied media, depths and projects; not all rows are in-lake water.",
+    "No interpolation, unit conversion, outlier removal or safe/unsafe labels. Review parameter, medium, depth, qualifier and QC fields before analysis.",
+    "Toxin coverage is sparse and selectively sampled; below reporting limit is not zero or proof of safety."
+  ],
+  "script": "scripts/freeze.py",
+  "scriptVersion": "1.0.0"
+}

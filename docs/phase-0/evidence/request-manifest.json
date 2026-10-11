@@ -1,0 +1,122 @@
+[
+  {
+    "file": "austin-total.json",
+    "url": "https://data.austintexas.gov/resource/5tye-7ray.json?%24select=count%28%2A%29+as+n%2Cmin%28sample_date%29+as+first%2Cmax%28sample_date%29+as+last",
+    "checkedOn": "2026-10-09",
+    "licence": "Public Domain",
+    "transform": "None; source aggregate response",
+    "sha256": "bb61bfd6b207e37a209fdc46818f9e6b450a713b7c3d1b0869be7b2332b1e78a"
+  },
+  {
+    "file": "austin-lake.json",
+    "url": "https://data.austintexas.gov/resource/5tye-7ray.json?%24select=watershed%2Ccount%28%2A%29+as+n%2Cmin%28sample_date%29+as+first%2Cmax%28sample_date%29+as+last&%24where=upper%28watershed%29+like+%27%25LADY%25%27+OR+upper%28watershed%29+like+%27%25TOWN%25%27&%24group=watershed",
+    "checkedOn": "2026-10-09",
+    "licence": "Public Domain",
+    "transform": "None; source aggregate response",
+    "sha256": "4794b8e94fe8ffb2f05f7dcaddd70b1988231022879266eb163698f2bf468633"
+  },
+  {
+    "file": "austin-projects.json",
+    "url": "https://data.austintexas.gov/resource/5tye-7ray.json?%24select=project%2Ccount%28%2A%29+as+n%2Cmin%28sample_date%29+as+first%2Cmax%28sample_date%29+as+last&%24where=upper%28project%29+like+%27%25ALGA%25%27+OR+upper%28project%29+like+%27%25CYANO%25%27&%24group=project",
+    "checkedOn": "2026-10-09",
+    "licence": "Public Domain",
+    "transform": "None; source aggregate response",
+    "sha256": "0f213778238190f99ba3940c44ac0015ed56d738fe51f7addf714ddd442ae790"
+  },
+  {
+    "file": "austin-hab-sites.json",
+    "url": "https://data.austintexas.gov/resource/5tye-7ray.json?%24select=site_name%2Csample_site_no%2Cwatershed%2Ccount%28%2A%29+as+n%2Cmin%28sample_date%29+as+first%2Cmax%28sample_date%29+as+last%2Ccount%28distinct+sample_date%29+as+dates&%24where=project%3D%27Lady+Bird+Lake+Harmful+Algal+Bloom+Monitoring%27&%24group=site_name%2Csample_site_no%2Cwatershed&%24limit=1000",
+    "checkedOn": "2026-10-09",
+    "licence": "Public Domain",
+    "transform": "None; source aggregate response",
+    "sha256": "dfc074bcaf65e520bd692f715be7c2442618502aa2c16cc966ee19b39a80b921"
+  },
+  {
+    "file": "austin-hab-params.json",
+    "url": "https://data.austintexas.gov/resource/5tye-7ray.json?%24select=parameter%2Cunit%2Cmedium%2Ccount%28%2A%29+as+n%2Cmin%28sample_date%29+as+first%2Cmax%28sample_date%29+as+last&%24where=project%3D%27Lady+Bird+Lake+Harmful+Algal+Bloom+Monitoring%27&%24group=parameter%2Cunit%2Cmedium&%24limit=1000",
+    "checkedOn": "2026-10-09",
+    "licence": "Public Domain",
+    "transform": "None; source aggregate response",
+    "sha256": "f2fb6894dc7f8225545e7d52ec62ffe9baf304dc108c8b2f157c7781c79039d2"
+  },
+  {
+    "file": "austin-lake-params.json",
+    "url": "https://data.austintexas.gov/resource/5tye-7ray.json?%24select=parameter%2Cunit%2Ccount%28%2A%29+as+n%2Cmin%28sample_date%29+as+first%2Cmax%28sample_date%29+as+last&%24where=watershed%3D%27Lady+Bird+Lake%27&%24group=parameter%2Cunit&%24limit=2000",
+    "checkedOn": "2026-10-09",
+    "licence": "Public Domain",
+    "transform": "None; source aggregate response",
+    "sha256": "b53c928bef8c50e77cab5e5cb6fa6132b659a78f706f66f811b681fbfcc2ae06"
+  },
+  {
+    "file": "austin-hab-days.json",
+    "url": "https://data.austintexas.gov/resource/5tye-7ray.json?%24select=sample_site_no%2Cdate_trunc_ymd%28sample_date%29+as+day%2Ccount%28%2A%29+as+n&%24where=project%3D%27Lady+Bird+Lake+Harmful+Algal+Bloom+Monitoring%27+AND+watershed%3D%27Lady+Bird+Lake%27&%24group=sample_site_no%2Cday&%24limit=5000",
+    "checkedOn": "2026-10-09",
+    "licence": "Public Domain",
+    "transform": "None; source aggregate response",
+    "sha256": "c406afe12e6d3083e4f439ace08c187b6b2e61a08c706f4bf91ac3e5c161e3b8"
+  },
+  {
+    "file": "austin-toxins.json",
+    "url": "https://data.austintexas.gov/resource/5tye-7ray.json?%24select=parameter%2Cmedium%2Cunit%2Ccount%28%2A%29+as+n%2Ccount%28distinct+sample_date%29+as+timestamps%2Cmin%28sample_date%29+as+first%2Cmax%28sample_date%29+as+last&%24where=project%3D%27Lady+Bird+Lake+Harmful+Algal+Bloom+Monitoring%27+AND+watershed%3D%27Lady+Bird+Lake%27+AND+%28upper%28parameter%29+like+%27%25TOXIN%25%27+OR+upper%28parameter%29+like+%27%25MICROCYSTIN%25%27%29&%24group=parameter%2Cmedium%2Cunit",
+    "checkedOn": "2026-10-09",
+    "licence": "Public Domain",
+    "transform": "None; source aggregate response",
+    "sha256": "55362de177413e841dbe242140eeea1c0db6be911c676efa69ea0f02397f5cbd"
+  },
+  {
+    "file": "austin-toxin-flags.json",
+    "url": "https://data.austintexas.gov/resource/5tye-7ray.json?%24select=medium%2Cqualifier%2Cqc_flag%2Ccount%28%2A%29+as+n&%24where=project%3D%27Lady+Bird+Lake+Harmful+Algal+Bloom+Monitoring%27+AND+watershed%3D%27Lady+Bird+Lake%27+AND+parameter%3D%27DIHYDROANATOXIN-A%27&%24group=medium%2Cqualifier%2Cqc_flag",
+    "checkedOn": "2026-10-09",
+    "licence": "Public Domain",
+    "transform": "None; source aggregate response",
+    "sha256": "43bc5bb7fddd1d859ee3bc71bf115bf9acb3315981a8b521af6c2d426ca9280a"
+  },
+  {
+    "file": "austin-sites-coords.json",
+    "url": "https://data.austintexas.gov/resource/5tye-7ray.json?%24select=sample_site_no%2Csite_name%2Clat_dd_wgs84%2Clon_dd_wgs84%2Ccount%28%2A%29+as+n&%24where=sample_site_no+in+%281996%2C1997%2C1252%29&%24group=sample_site_no%2Csite_name%2Clat_dd_wgs84%2Clon_dd_wgs84",
+    "checkedOn": "2026-10-09",
+    "licence": "Public Domain",
+    "transform": "None; source aggregate response",
+    "sha256": "6cad646ecdd386db933cd702e3e762e84e0801005a5172a940f105d106bfe346"
+  },
+  {
+    "file": "austin-license.json",
+    "url": "https://data.austintexas.gov/api/views/5tye-7ray.json",
+    "checkedOn": "2026-10-09",
+    "transform": "Selected metadata fields only",
+    "licence": "Public Domain",
+    "sha256": "0b5929b2a24e3ed0ce9a9c34522515e14b0821e3ee3a49c3e890f314c601fa64"
+  },
+  {
+    "file": "mendeley-micrographs.json",
+    "url": "https://data.mendeley.com/public-api/datasets/f94329byhk/files?folder_id=a5437c92-e780-46c5-9e68-88d90277ee25&version=2&%24start=0&%24limit=1000",
+    "checkedOn": "2026-10-09",
+    "licence": "CC BY 4.0 dataset; file metadata only",
+    "transform": "None",
+    "sha256": "fb38618948b68d13bfdf65b8cbdc464aa3ee2014e964e6606ff2fa896bce9f6e"
+  },
+  {
+    "file": "mendeley-statistics.json",
+    "url": "https://data.mendeley.com/public-api/datasets/f94329byhk/files?folder_id=08b149bb-01d3-4ea4-acc0-bcaf0a8a1555&version=2&%24start=0&%24limit=1000",
+    "checkedOn": "2026-10-09",
+    "licence": "CC BY 4.0 dataset; file metadata only",
+    "transform": "None",
+    "sha256": "5f1ce556f50fef78eb6acddbb965d174ea48839c4fbf1869e1fe65162373f507"
+  },
+  {
+    "file": "usgs-series.txt",
+    "url": "https://waterservices.usgs.gov/nwis/site/?format=rdb&sites=08158000&seriesCatalogOutput=true",
+    "checkedOn": "2026-10-09",
+    "licence": "USGS public-domain metadata; partner data rights separate",
+    "transform": "None",
+    "sha256": "3686d3c73dc3f14801a4459794c2d6118b750f31982ad18dcaa64b706e46834d"
+  },
+  {
+    "file": "usgs-nearby.txt",
+    "url": "https://waterservices.usgs.gov/nwis/site/?format=rdb&sites=08157900,08154900,301500097424801,301650097453501&seriesCatalogOutput=true",
+    "checkedOn": "2026-10-09",
+    "licence": "USGS public-domain metadata; partner data rights separate",
+    "transform": "None",
+    "sha256": "8554c430119796b629540afc6a38910fff0c4de55c5dd689cf4cb68c7c3a4125"
+  }
+]

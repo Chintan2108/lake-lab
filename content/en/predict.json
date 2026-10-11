@@ -1,0 +1,62 @@
+{
+  "id": "predict",
+  "number": "04",
+  "title": "Beat the forecaster",
+  "tagline": "Use the past. Test your guess.",
+  "description": "Compare a forecast with new evidence. Learn why a small dataset can trick a model.",
+  "projectQuestion": "What evidence would convince you that your forecast works in a new season?",
+  "icon": "chart",
+  "phase": "Phase 2",
+  "status": "ready",
+  "how": [
+    "Real mode shows historical sample groups and the observations available before them. The next-record reveal is evidence exploration, not a validated toxic/not-toxic quiz. A blank qualifier is not a confirmed positive result.",
+    "Training mode uses 240 invented visits. The first 160 are available for training; the last 80 stay held out. A slider chooses how many early examples the model sees. All inputs precede the pretend result.",
+    "Logistic regression adds weighted inputs and turns the sum into a score from 0 to 1. It learns weights only from training rows. Standardization also uses training rows only. A 0.5 cutoff makes a yes/no prediction.",
+    "The later simulated period changes one relationship. More data or more inputs may not improve performance. Compare with a model that always picks the most common training outcome."
+  ],
+  "prompt": "Before you try it: what evidence would you want to collect?",
+  "challenges": [
+    {
+      "id": "guess",
+      "title": "Make your own forecast",
+      "goal": "Guess the next simulated outcome before revealing it.",
+      "hint": "Use the four clues, but leave room for uncertainty."
+    },
+    {
+      "id": "train",
+      "title": "Build a first model",
+      "goal": "Train with at least one input and inspect the held-out results.",
+      "hint": "The model must not see the test outcomes while learning."
+    },
+    {
+      "id": "compare",
+      "title": "Test an alternative",
+      "goal": "Train two models with different inputs or training histories.",
+      "hint": "Compare raw hits, misses and false alarms. More features need not win."
+    },
+    {
+      "id": "real",
+      "title": "Return to real evidence",
+      "goal": "Reveal a real next sample record and identify its limitations.",
+      "hint": "Use Real evidence mode. Below-limit results are not safe-lake labels."
+    }
+  ],
+  "omissions": [
+    "No real-toxin model is trained. The verified record is sparse, seasonal and selectively sampled.",
+    "Unmeasured ecology, lab turnaround time and sampling decisions are not fully represented.",
+    "Synthetic performance is not evidence that a real forecast works."
+  ],
+  "modelVersion": "forecast-teaching-v1",
+  "realWarning": "Measured records, provisional. Mat and water samples have different units. Missing and below-limit results do not establish safety.",
+  "simWarning": "Simulated training game. These are invented visits and outcomes, not Lady Bird Lake toxin results.",
+  "sources": [
+    {
+      "label": "Forecast equations, split and omissions",
+      "url": "docs/methods.md"
+    },
+    {
+      "label": "Real data rules",
+      "url": "data/derived/README.md"
+    }
+  ]
+}

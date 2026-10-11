@@ -1,0 +1,65 @@
+{
+  "id": "understand",
+  "number": "01",
+  "title": "Grow a bloom",
+  "tagline": "What helps cyanobacteria grow?",
+  "description": "Change the lake conditions. Compare a floating bloom with a mat on the bottom.",
+  "projectQuestion": "Which lake conditions would your idea need to notice, and which could it miss?",
+  "icon": "leaf",
+  "phase": "Phase 2",
+  "status": "ready",
+  "how": [
+    "This is a teaching model, not a prediction for Lady Bird Lake. Its score describes conditions that support growth. It does not estimate toxins or tell you whether water is safe.",
+    "Temperature, nitrogen, phosphorus, light and flushing each change the score. The smaller nutrient support limits growth. These relationships and all curve settings are author-chosen examples, not fitted lake biology.",
+    "Mats receive less light at the bottom. We assume a shallow 0.5 m bottom and a fixed light-loss rate of 0.7 per metre. Real depth, shade and water clarity vary.",
+    "Monthly temperature examples come from selected shallow-water City visits. Some months have few samples or no samples. The nutrient and light presets remain invented teaching settings."
+  ],
+  "prompt": "Before you try it: what evidence would you want to collect?",
+  "challenges": [
+    {
+      "id": "warm",
+      "title": "Follow the warmth",
+      "goal": "At fixed other settings, compare a cool lake (\u226415\u00b0C) with a warm lake (\u226525\u00b0C).",
+      "hint": "Use the same nutrients, light, flow and mode for both comparisons."
+    },
+    {
+      "id": "october",
+      "title": "An October surprise",
+      "goal": "Load the October temperature example. Keep its temperature and reach a growth score of at least 55.",
+      "hint": "Change nutrients, light or flushing. A calendar month alone cannot rule out growth.",
+      "setup": "Load October"
+    },
+    {
+      "id": "one-change",
+      "title": "Change just one thing",
+      "goal": "Start the supplied high-growth scene. Change exactly one control and lower the score by at least 20.",
+      "hint": "Less light or more flushing can change this teaching score.",
+      "setup": "Start one-change scene"
+    },
+    {
+      "id": "bottom",
+      "title": "Look below the surface",
+      "goal": "Compare a floating bloom and a bottom mat at the same settings.",
+      "hint": "Use both growth modes. Notice the bottom-light assumption."
+    }
+  ],
+  "omissions": [
+    "No toxin model, species competition, nutrient recycling, grazing, sediment chemistry or nitrogen fixation.",
+    "The flushing slider is a relative teaching control, not measured USGS discharge.",
+    "These monthly samples are not a complete seasonal climate record."
+  ],
+  "modelVersion": "growth-teaching-v1",
+  "intro": "Build a lake scene. Watch the growth conditions\u2014not toxin risk.",
+  "caution": "Illustrative, not field measurements. A high or low score says nothing about toxins.",
+  "monthlyNote": "Real temperature examples, provisional: uneven City visits at three sites, shallow water only. Nutrients, sunlight and flushing in presets are simulated.",
+  "sources": [
+    {
+      "label": "Growth model and all assumptions",
+      "url": "docs/methods.md"
+    },
+    {
+      "label": "Derived-data methods",
+      "url": "data/derived/README.md"
+    }
+  ]
+}

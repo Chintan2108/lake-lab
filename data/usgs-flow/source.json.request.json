@@ -1,0 +1,5 @@
+{
+  "url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=08158000&startDT=2016-01-01&endDT=2025-12-31&parameterCd=00060&statCd=00003",
+  "retrievedAt": "2026-10-09T22:29:45.704026+00:00",
+  "sha256": "53a007f105eb84ca7f0238134b5ef94f434769365bcaa5aec3d23d9ccc5df75a"
+}

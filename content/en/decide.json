@@ -1,0 +1,107 @@
+{
+  "id": "decide",
+  "number": "05",
+  "title": "Make the call",
+  "tagline": "What would you do with mixed clues?",
+  "description": "Weigh imperfect evidence as a lake manager. A warning, a sample, or more waiting?",
+  "projectQuestion": "Who needs a warning, and what extra evidence would change your decision?",
+  "icon": "flag",
+  "phase": "Phase 4",
+  "status": "ready",
+  "how": [
+    "Every round is invented. You choose with incomplete evidence, then see the hidden teaching outcome. You cannot infer toxins from the photo or sensor alone.",
+    "Posting a warning costs 2 points for effort and disruption. A false alarm costs another 3. Waiting during a toxic event costs 12. Waiting during a quiet round costs 0. These are teaching points, not dollars or official policy.",
+    "Sampling costs 3 points and reveals the hidden result in this game. You then decide whether to warn or wait. Real sampling is delayed, uncertain and not perfect; our instant test is a deliberate simplification.",
+    "Lower total cost is better in this invented game. It does not identify a single best real-world policy. Different communities may weigh consequences differently."
+  ],
+  "prompt": "Before you try it: what evidence would you want to collect?",
+  "challenges": [
+    {
+      "id": "round",
+      "title": "Make a call",
+      "goal": "Complete one round and inspect what your choice missed or found.",
+      "hint": "Choose a warning, a sample, or waiting."
+    },
+    {
+      "id": "sample",
+      "title": "Buy more evidence",
+      "goal": "Send a sampling crew and then make a decision.",
+      "hint": "Sampling has a cost, but it can change your next choice."
+    },
+    {
+      "id": "finish",
+      "title": "Keep a decision record",
+      "goal": "Finish all six rounds.",
+      "hint": "Compare the evidence before the reveal with the outcome after it."
+    },
+    {
+      "id": "reflect",
+      "title": "Compare tradeoffs",
+      "goal": "Finish a run, then use Replay to try a different strategy.",
+      "hint": "No perfect policy is promised. Track misses as well as false alarms."
+    }
+  ],
+  "omissions": [
+    "No real public-health advice, agency policy, cost estimate or real-time event.",
+    "Instant perfect sampling is unrealistic. Real warnings require local authority and current evidence.",
+    "No score measures the value of a life or the team\u2019s real solution."
+  ],
+  "modelVersion": "decision-game-v1",
+  "warning": "Simulated game. Invented evidence, outcomes and point costs. Not lake-management advice.",
+  "sources": [
+    {
+      "label": "Decision-game rules",
+      "url": "docs/methods.md"
+    }
+  ],
+  "rounds": [
+    {
+      "title": "A quiet-looking shore",
+      "sensor": "Temperature 29\u00b0C; no local toxin test yet.",
+      "forecast": "The teaching forecast says \u201clower chance\u201d.",
+      "photo": "A citizen reports a small loose mat near shore.",
+      "outcome": 1,
+      "lesson": "A quiet-looking surface and low model score can miss a local mat hazard."
+    },
+    {
+      "title": "A green patch",
+      "sensor": "Turbidity is up after rain.",
+      "forecast": "The teaching forecast says \u201chigher chance\u201d.",
+      "photo": "A citizen sees green floating leaves.",
+      "outcome": 0,
+      "lesson": "Look-alikes and muddy runoff can trigger a false alarm. That does not make photos a safety test."
+    },
+    {
+      "title": "Several clues agree",
+      "sensor": "Warm, slow-moving water; pigment signal elevated.",
+      "forecast": "The teaching forecast says \u201chigher chance\u201d.",
+      "photo": "More than one person reports loose mats.",
+      "outcome": 1,
+      "lesson": "Several clues can support further action, but only the invented reveal gives certainty here."
+    },
+    {
+      "title": "A gap in the record",
+      "sensor": "The sensor is offline.",
+      "forecast": "The model has no recent input.",
+      "photo": "No citizen photo has arrived.",
+      "outcome": 1,
+      "lesson": "No report is not proof that no event exists."
+    },
+    {
+      "title": "A changed scene",
+      "sensor": "Cooler water; flow has increased.",
+      "forecast": "The teaching forecast says \u201clower chance\u201d.",
+      "photo": "One old photo is being shared again.",
+      "outcome": 0,
+      "lesson": "Evidence needs a time and place. An old photo may describe a different day."
+    },
+    {
+      "title": "Conflicting signals",
+      "sensor": "Pigment signal is low in open water.",
+      "forecast": "The teaching forecast says \u201chigher chance\u201d.",
+      "photo": "Shoreline photo is too blurred to identify.",
+      "outcome": 0,
+      "lesson": "Uncertainty is part of a decision. A false alarm and a miss have different consequences."
+    }
+  ]
+}

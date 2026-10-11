@@ -1,0 +1,5 @@
+{
+  "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=daily-summaries&stations=USW00013958&startDate=2016-01-01&endDate=2025-12-31&dataTypes=TMAX%2CTMIN%2CPRCP&units=metric&format=json&includeAttributes=true",
+  "retrievedAt": "2026-10-09T22:29:46.896242+00:00",
+  "sha256": "d738492d98028ab0017ce8aeb1c216ae56b107194fb112b891db9475b975c4a0"
+}

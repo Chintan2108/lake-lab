@@ -1,0 +1,5 @@
+{
+  "url": "https://hydro.nationalmap.gov/arcgis/rest/services/nhd/MapServer/12/query?where=gnis_id%3D%2701376484%27&outFields=%2A&returnGeometry=true&outSR=4326&f=geojson",
+  "retrievedAt": "2026-10-09T22:29:47.669449+00:00",
+  "sha256": "505cf7620f4fb6196da62ab8224fdf7fefb5f0c5a8cbac385fbaf1209a86f962"
+}

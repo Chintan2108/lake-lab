@@ -1,0 +1,1087 @@
+date,site_id,site_name,parameter,unit,value,measurement_count,depth_min_m,depth_max_m,qc_flags,source_refs
+2019-08-12,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.559,1,0.3,0.3,U,2754463
+2019-08-12,1252,Lady Bird Lake @ Powerline,PHOSPHORUS AS P,MG/L,0.021,1,0.3,0.3,U,2754460
+2019-08-12,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.436,1,0.3,0.3,U,2754459
+2019-09-09,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.196,1,0.3,0.3,U,2754774
+2019-09-09,1252,Lady Bird Lake @ Powerline,PHOSPHORUS AS P,MG/L,0.0207,1,0.3,0.3,U,2754776
+2019-09-09,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.323,1,0.3,0.3,J,2754775
+2019-09-24,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.407,1,0.3,0.3,J,2761496
+2019-09-24,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.411,1,0.3,0.3,U,2761497
+2019-10-14,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.413,1,0.3,0.3,U,2758355
+2019-10-14,1252,Lady Bird Lake @ Powerline,PHOSPHORUS AS P,MG/L,0.0211,1,0.3,0.3,U,2758357
+2019-10-14,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.448,1,0.3,0.3,U,2758356
+2019-11-12,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.595,1,0.3,0.3,J,2780492
+2019-11-12,1252,Lady Bird Lake @ Powerline,PHOSPHORUS AS P,MG/L,0.052,1,0.3,0.3,U,2780494
+2019-11-12,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.27,1,0.3,0.3,J,2780493
+2019-11-21,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.51,1,0.3,0.3,U,2780516
+2019-11-21,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.298,1,0.3,0.3,U,2780517
+2020-06-17,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,7.85,1,0.3,0.3,U,2791100
+2020-06-17,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.249,1,0.3,0.3,U,2791202
+2020-06-17,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.47,1,0.3,0.3,U,2791039
+2020-06-17,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.314,1,0.3,0.3,U,2791151
+2020-06-17,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,24.85,1,0.3,0.3,U,2790963
+2020-07-01,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,8.66,1,0.3,0.3,U,2790522
+2020-07-01,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.22,1,0.3,0.3,U,2791317
+2020-07-01,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.46,1,0.3,0.3,U,2790697
+2020-07-01,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.524,1,0.3,0.3,U,2791530
+2020-07-01,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,24.97,1,0.3,0.3,U,2790620
+2020-07-09,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,8.47,1,0.3,0.3,U,2790471
+2020-07-09,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.309,1,0.3,0.3,J,2816591
+2020-07-09,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.33,1,0.3,0.3,U,2790190
+2020-07-09,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.363,1,0.3,0.3,U,2815937
+2020-07-09,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,26.97,1,0.3,0.3,U,2790792
+2020-07-14,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,8.78,1,0.3,0.3,U,2790472
+2020-07-14,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.185,1,0.3,0.3,U,2816136
+2020-07-14,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.47,1,0.3,0.3,U,2790191
+2020-07-14,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.415,1,0.3,0.3,U,2816137
+2020-07-14,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,28.13,1,0.3,0.3,U,2790793
+2020-07-22,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,6.34,1,0.3,0.3,U,2791362
+2020-07-22,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.131,1,0.3,0.3,J,2816117
+2020-07-22,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.55,1,0.3,0.3,U,2791666
+2020-07-22,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.468,1,0.3,0.3,U,2816118
+2020-07-22,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,27.47,1,0.3,0.3,U,2791542
+2020-07-29,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,8.0,1,0.3,0.3,U,2790929
+2020-07-29,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.167,1,0.3,0.3,U,2816540
+2020-07-29,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.6,1,0.3,0.3,U,2790993
+2020-07-29,1252,Lady Bird Lake @ Powerline,PHOSPHORUS AS P,MG/L,0.0273,1,0.3,0.3,U,2816618
+2020-07-29,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.524,1,0.3,0.3,J,2816541
+2020-07-29,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,27.13,1,0.3,0.3,U,2790948
+2020-08-04,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,8.52,1,0.3,0.3,U,2788631
+2020-08-04,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.171,1,0.3,0.3,U,2815977
+2020-08-04,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.54,1,0.3,0.3,U,2788639
+2020-08-04,1252,Lady Bird Lake @ Powerline,PHOSPHORUS AS P,MG/L,0.0488,1,0.3,0.3,U,2815979
+2020-08-04,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.889,1,0.3,0.3,U,2815978
+2020-08-04,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,28.06,1,0.3,0.3,U,2788635
+2020-08-11,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,6.79,1,0.3,0.3,U,2794227
+2020-08-11,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.133,1,0.3,0.3,U,2815725
+2020-08-11,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.71,1,0.3,0.3,U,2794235
+2020-08-11,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.575,1,0.3,0.3,J,2815726
+2020-08-11,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,27.45,1,0.3,0.3,U,2794231
+2020-08-18,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,7.73,1,0.3,0.3,U,2794205
+2020-08-18,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.131,1,0.3,0.3,U,2816799
+2020-08-18,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.7,1,0.3,0.3,U,2794112
+2020-08-18,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.559,1,0.3,0.3,J,2816800
+2020-08-18,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,28.23,1,0.3,0.3,U,2794093
+2020-09-01,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,5.96,1,0.3,0.3,U,2794325
+2020-09-01,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.12,1,0.3,0.3,U,2871220
+2020-09-01,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.6,1,0.3,0.3,U,2794335
+2020-09-01,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.404,1,0.3,0.3,U,2871218
+2020-09-01,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,25.58,1,0.3,0.3,U,2794330
+2020-09-08,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,5.74,1,0.3,0.3,U,2807268
+2020-09-08,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.138,1,0.3,0.3,J,2873634
+2020-09-08,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.54,1,0.3,0.3,U,2807406
+2020-09-08,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.424,1,0.3,0.3,U,2873632
+2020-09-08,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,25.08,1,0.3,0.3,U,2807323
+2020-09-15,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,8.67,1,0.3,0.3,U,2811613
+2020-09-15,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.225,1,0.3,0.3,U,2872525
+2020-09-15,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.68,1,0.3,0.3,U,2812263
+2020-09-15,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.498,1,0.3,0.3,U,2872523
+2020-09-15,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,24.94,1,0.3,0.3,U,2811775
+2020-09-23,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,7.07,1,0.3,0.3,U,2824007
+2020-09-23,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.238,1,0.3,0.3,U,2872074
+2020-09-23,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.6,1,0.3,0.3,U,2824145
+2020-09-23,1252,Lady Bird Lake @ Powerline,PHOSPHORUS AS P,MG/L,0.0211,1,0.3,0.3,U,2872076
+2020-09-23,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.461,1,0.3,0.3,U,2872075
+2020-09-23,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,23.55,1,0.3,0.3,U,2824012
+2020-10-06,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,8.65,1,0.3,0.3,U,2843321
+2020-10-06,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.18,1,0.3,0.3,U,2872804
+2020-10-06,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.77,1,0.3,0.3,U,2843331
+2020-10-06,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.333,1,0.3,0.3,U,2872803
+2020-10-06,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,23.76,1,0.3,0.3,U,2843326
+2020-10-13,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,8.8,1,0.3,0.3,U,2867829
+2020-10-13,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.274,1,0.3,0.3,J,2872048
+2020-10-13,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.65,1,0.3,0.3,U,2867871
+2020-10-13,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.437,1,0.3,0.3,U,2873177
+2020-10-13,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,24.17,1,0.3,0.3,U,2867861
+2020-10-20,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,8.72,1,0.3,0.3,U,2869066
+2020-10-20,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.319,1,0.3,0.3,J,2871813
+2020-10-20,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.8,1,0.3,0.3,U,2869152
+2020-10-20,1252,Lady Bird Lake @ Powerline,PHOSPHORUS AS P,MG/L,0.0425,1,0.3,0.3,U,2872784
+2020-10-20,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.346,1,0.3,0.3,U,2871812
+2020-10-20,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,24.44,1,0.3,0.3,U,2869105
+2020-10-27,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,7.62,1,0.3,0.3,U,2874235
+2020-10-27,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.616,1,0.3,0.3,U,2870821
+2020-10-27,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.62,1,0.3,0.3,U,2874249
+2020-10-27,1252,Lady Bird Lake @ Powerline,PHOSPHORUS AS P,MG/L,0.026,1,0.3,0.3,U,2870819
+2020-10-27,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.577,1,0.3,0.3,U,2870820
+2020-10-27,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,20.2,1,0.3,0.3,U,2874244
+2020-11-03,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,9.79,1,0.3,0.3,U,2874127
+2020-11-03,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.469,1,0.3,0.3,U,2873887
+2020-11-03,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.59,1,0.3,0.3,U,2874158
+2020-11-03,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.543,1,0.3,0.3,J,2873886
+2020-11-03,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,18.54,1,0.3,0.3,U,2874138
+2021-06-01,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,6.55,1,0.3,0.3,(blank),2895187
+2021-06-01,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.394,1,0.3,0.3,(blank),2896470
+2021-06-01,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.31,1,0.3,0.3,(blank),2895193
+2021-06-01,1252,Lady Bird Lake @ Powerline,PHOSPHORUS AS P,MG/L,0.0412,1,0.3,0.3,(blank),2896472
+2021-06-01,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.517,1,0.3,0.3,(blank),2896471
+2021-06-01,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,24.68,1,0.3,0.3,(blank),2895190
+2021-06-11,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,8.43,1,0.3,0.3,(blank),2896424
+2021-06-11,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.581,1,0.3,0.3,(blank),2897583
+2021-06-11,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.42,1,0.3,0.3,(blank),2896438
+2021-06-11,1252,Lady Bird Lake @ Powerline,PHOSPHORUS AS P,MG/L,0.0405,1,0.3,0.3,(blank),2897585
+2021-06-11,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.547,1,0.3,0.3,(blank),2897584
+2021-06-11,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,26.41,1,0.3,0.3,(blank),2896431
+2021-06-24,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,7.63,1,0.3,0.3,(blank),2896700
+2021-06-24,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.35,1,0.3,0.3,(blank),2898402
+2021-06-24,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.32,1,0.3,0.3,(blank),2896706
+2021-06-24,1252,Lady Bird Lake @ Powerline,PHOSPHORUS AS P,MG/L,0.0241,1,0.3,0.3,(blank),2898401
+2021-06-24,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.353,1,0.3,0.3,(blank),2898400
+2021-06-24,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,28.34,1,0.3,0.3,(blank),2896703
+2021-07-06,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,9.09,1,0.3,0.3,(blank),2897055
+2021-07-06,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.282,1,0.3,0.3,(blank),2898278
+2021-07-06,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.69,1,0.3,0.3,(blank),2897263
+2021-07-06,1252,Lady Bird Lake @ Powerline,PHOSPHORUS AS P,MG/L,0.0476,1,0.3,0.3,(blank),2898280
+2021-07-06,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.599,1,0.3,0.3,(blank),2898281
+2021-07-06,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,28.27,1,0.3,0.3,(blank),2897380
+2021-07-20,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,7.59,1,0.3,0.3,(blank),2897717
+2021-07-20,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.205,1,0.3,0.3,(blank),2903991
+2021-07-20,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.59,1,0.3,0.3,(blank),2897733
+2021-07-20,1252,Lady Bird Lake @ Powerline,PHOSPHORUS AS P,MG/L,0.144,1,0.3,0.3,(blank),2903993
+2021-07-20,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.99,1,0.3,0.3,(blank),2903992
+2021-07-20,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,27.89,1,0.3,0.3,(blank),2897720
+2021-08-05,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,7.08,1,0.3,0.3,(blank),2897955
+2021-08-05,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.435,1,0.3,0.3,(blank),2903658
+2021-08-05,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.59,1,0.3,0.3,(blank),2897965
+2021-08-05,1252,Lady Bird Lake @ Powerline,PHOSPHORUS AS P,MG/L,0.316,1,0.3,0.3,(blank),2903660
+2021-08-05,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.728,1,0.3,0.3,(blank),2903659
+2021-08-05,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,27.14,1,0.3,0.3,(blank),2897960
+2021-08-20,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,6.02,1,0.3,0.3,(blank),2898437
+2021-08-20,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.144,1,0.3,0.3,(blank),2903347
+2021-08-20,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.01,1,0.3,0.3,(blank),2898484
+2021-08-20,1252,Lady Bird Lake @ Powerline,PHOSPHORUS AS P,MG/L,0.0506,1,0.3,0.3,(blank),2903349
+2021-08-20,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.579,1,0.3,0.3,(blank),2903348
+2021-08-20,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,28.45,1,0.3,0.3,(blank),2898460
+2021-09-13,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,7.33,1,0.3,0.3,(blank),2902622
+2021-09-13,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.449,1,0.3,0.3,(blank),2906474
+2021-09-13,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.53,1,0.3,0.3,(blank),2902750
+2021-09-13,1252,Lady Bird Lake @ Powerline,PHOSPHORUS AS P,MG/L,0.0304,1,0.3,0.3,(blank),2906476
+2021-09-13,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.605,1,0.3,0.3,(blank),2906475
+2021-09-13,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,25.44,1,0.3,0.3,(blank),2902702
+2021-10-11,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,7.06,1,0.3,0.3,(blank),2906221
+2021-10-11,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.23,1,0.3,0.3,(blank),2907564
+2021-10-11,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.61,1,0.3,0.3,(blank),2906234
+2021-10-11,1252,Lady Bird Lake @ Powerline,PHOSPHORUS AS P,MG/L,0.148,1,0.3,0.3,(blank),2907568
+2021-10-11,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,1.45,1,0.3,0.3,(blank),2907567
+2021-10-11,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,23.75,1,0.3,0.3,(blank),2906228
+2021-11-04,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,7.62,1,0.3,0.3,(blank),2907784
+2021-11-04,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.627,1,0.3,0.3,(blank),2907968
+2021-11-04,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.37,1,0.3,0.3,(blank),2907790
+2021-11-04,1252,Lady Bird Lake @ Powerline,PHOSPHORUS AS P,MG/L,0.0252,1,0.3,0.3,(blank),2907970
+2021-11-04,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.384,1,0.3,0.3,(blank),2907969
+2021-11-04,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,19.58,1,0.3,0.3,(blank),2907787
+2022-05-30,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,8.0,1,0.3,0.3,(blank),2943192
+2022-05-30,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.164,1,0.3,0.3,(blank),2946810
+2022-05-30,1252,Lady Bird Lake @ Powerline,PH,Standard units,8.03,1,0.3,0.3,(blank),2943150
+2022-05-30,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.509,1,0.3,0.3,(blank),2946811
+2022-05-30,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,25.44,1,0.3,0.3,(blank),2943198
+2022-06-14,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,8.68,1,0.3,0.3,(blank),2945395
+2022-06-14,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.18,1,0.3,0.3,(blank),2946892
+2022-06-14,1252,Lady Bird Lake @ Powerline,PH,Standard units,8.11,1,0.3,0.3,(blank),2945415
+2022-06-14,1252,Lady Bird Lake @ Powerline,PHOSPHORUS AS P,MG/L,0.12,1,0.3,0.3,(blank),2946894
+2022-06-14,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,1.18,1,0.3,0.3,(blank),2946893
+2022-06-14,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,26.54,1,0.3,0.3,(blank),2945405
+2022-06-27,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,8.23,1,0.3,0.3,(blank),2946213
+2022-06-27,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.119,1,0.3,0.3,(blank),2947532
+2022-06-27,1252,Lady Bird Lake @ Powerline,PH,Standard units,8.14,1,0.3,0.3,(blank),2946225
+2022-06-27,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.388,1,0.3,0.3,(blank),2947533
+2022-06-27,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,26.35,1,0.3,0.3,(blank),2946219
+2022-07-11,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,7.55,1,0.3,0.3,(blank),2947285
+2022-07-11,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.077,1,0.3,0.3,(blank),2950428
+2022-07-11,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.77,1,0.3,0.3,(blank),2947297
+2022-07-11,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.531,1,0.3,0.3,(blank),2950429
+2022-07-11,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,27.7,1,0.3,0.3,(blank),2947291
+2022-07-27,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,6.46,1,0.3,0.3,(blank),2948304
+2022-07-27,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.0859,1,0.3,0.3,(blank),2952017
+2022-07-27,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.59,1,0.3,0.3,(blank),2948344
+2022-07-27,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.885,1,0.3,0.3,(blank),2952018
+2022-07-27,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,27.47,1,0.3,0.3,(blank),2948324
+2022-08-08,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,8.89,1,0.3,0.3,(blank),2950968
+2022-08-08,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.0373,1,0.3,0.3,(blank),2952033
+2022-08-08,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.89,1,0.3,0.3,(blank),2950978
+2022-08-08,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.338,1,0.3,0.3,(blank),2952034
+2022-08-08,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,28.62,1,0.3,0.3,(blank),2950973
+2022-09-02,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,7.55,1,0.3,0.3,(blank),2952619
+2022-09-02,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.195,1,0.3,0.3,(blank),2954786
+2022-09-02,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.52,1,0.3,0.3,(blank),2952631
+2022-09-02,1252,Lady Bird Lake @ Powerline,PHOSPHORUS AS P,MG/L,0.0237,1,0.3,0.3,(blank),2954788
+2022-09-02,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.641,1,0.3,0.3,(blank),2954787
+2022-09-02,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,27.02,1,0.3,0.3,(blank),2952625
+2022-09-15,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,7.96,1,0.3,0.3,(blank),2953640
+2022-09-15,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.75,1,0.3,0.3,(blank),2954025
+2022-09-15,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.457,1,0.3,0.3,(blank),2954449
+2022-09-15,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,27.37,1,0.3,0.3,(blank),2953741
+2022-09-30,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,8.31,1,0.3,0.3,(blank),2955561
+2022-09-30,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.139,1,0.3,0.3,(blank),2957721
+2022-09-30,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.95,1,0.3,0.3,(blank),2955567
+2022-09-30,1252,Lady Bird Lake @ Powerline,PHOSPHORUS AS P,MG/L,0.024,1,0.3,0.3,(blank),2957723
+2022-09-30,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.556,1,0.3,0.3,(blank),2957722
+2022-09-30,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,25.22,1,0.3,0.3,(blank),2955564
+2022-10-14,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,7.73,1,0.3,0.3,(blank),2955707
+2022-10-14,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.55,1,0.3,0.3,(blank),2955719
+2022-10-14,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,25.12,1,0.3,0.3,(blank),2955713
+2022-11-08,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,5.69,1,0.3,0.3,(blank),2958537
+2022-11-08,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.36,1,0.3,0.3,(blank),2964590
+2022-11-08,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.8,1,0.3,0.3,(blank),2958549
+2022-11-08,1252,Lady Bird Lake @ Powerline,PHOSPHORUS AS P,MG/L,0.078,1,0.3,0.3,(blank),2964589
+2022-11-08,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.1,1,0.3,0.3,(blank),2964593
+2022-11-08,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,22.8,1,0.3,0.3,(blank),2958543
+2023-05-12,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,7.76,1,0.3,0.3,(blank),2979738
+2023-05-12,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.398,1,0.3,0.3,(blank),2981597
+2023-05-12,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.39,1,0.3,0.3,(blank),2979756
+2023-05-12,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.61,1,0.3,0.3,(blank),2981602
+2023-05-12,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,26.19,1,0.3,0.3,(blank),2979747
+2023-05-25,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,9.95,1,0.3,0.3,(blank),2981992
+2023-05-25,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.38,1,0.3,0.3,(blank),2981863
+2023-05-25,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.33,1,0.3,0.3,(blank),2982549
+2023-05-25,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,26.44,1,0.3,0.3,(blank),2981835
+2023-06-09,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,7.15,1,0.3,0.3,(blank),2982229
+2023-06-09,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.0748,1,0.3,0.3,(blank),2984105
+2023-06-09,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.43,1,0.3,0.3,(blank),2982247
+2023-06-09,1252,Lady Bird Lake @ Powerline,PHOSPHORUS AS P,MG/L,0.088,1,0.3,0.3,(blank),2984107
+2023-06-09,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.91,1,0.3,0.3,(blank),2984110
+2023-06-09,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,28.61,1,0.3,0.3,(blank),2982235
+2023-06-29,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,6.41,1,0.3,0.3,(blank),2983098
+2023-06-29,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.101,1,0.3,0.3,(blank),2984143
+2023-06-29,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.72,1,0.3,0.3,(blank),2982992
+2023-06-29,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.48,1,0.3,0.3,(blank),2984146
+2023-06-29,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,28.94,1,0.3,0.3,(blank),2982964
+2023-07-11,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,9.91,1,0.3,0.3,(blank),2983663
+2023-07-11,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.0578,1,0.3,0.3,(blank),2984670
+2023-07-11,1252,Lady Bird Lake @ Powerline,PH,Standard units,8.05,1,0.3,0.3,(blank),2983715
+2023-07-11,1252,Lady Bird Lake @ Powerline,PHOSPHORUS AS P,MG/L,0.171,1,0.3,0.3,(blank),2984672
+2023-07-11,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,1.0,1,0.3,0.3,(blank),2984697
+2023-07-11,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,30.64,1,0.3,0.3,(blank),2983808
+2023-07-28,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,4.9,1,0.3,0.3,(blank),2984794
+2023-07-28,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.0677,1,0.3,0.3,(blank),2993240
+2023-07-28,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.76,1,0.3,0.3,(blank),2984810
+2023-07-28,1252,Lady Bird Lake @ Powerline,PHOSPHORUS AS P,MG/L,0.061,1,0.3,0.3,(blank),2993242
+2023-07-28,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.49,1,0.3,0.3,(blank),2993245
+2023-07-28,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,29.11,1,0.3,0.3,(blank),2984802
+2023-08-25,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,5.31,1,0.3,0.3,(blank),2988333
+2023-08-25,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.0611,1,0.3,0.3,(blank),2993126
+2023-08-25,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.55,1,0.3,0.3,(blank),2988359
+2023-08-25,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.46,1,0.3,0.3,(blank),2993131
+2023-08-25,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,29.56,1,0.3,0.3,(blank),2988346
+2023-09-18,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,6.76,1,0.3,0.3,(blank),2991515
+2023-09-18,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.45,1,0.3,0.3,(blank),2991541
+2023-09-18,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.44,1,0.3,0.3,(blank),2993197
+2023-09-18,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,26.86,1,0.3,0.3,(blank),2991528
+2023-10-02,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,7.19,1,0.3,0.3,(blank),2991969
+2023-10-02,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.122,1,0.3,0.3,(blank),2994618
+2023-10-02,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.82,1,0.3,0.3,(blank),2991981
+2023-10-02,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.46,1,0.3,0.3,(blank),2994621
+2023-10-02,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,27.58,1,0.3,0.3,(blank),2991975
+2023-11-08,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,8.36,1,0.3,0.3,(blank),2999218
+2023-11-08,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.483,1,0.3,0.3,(blank),2999799
+2023-11-08,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.69,1,0.3,0.3,(blank),2999241
+2023-11-08,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.3,1,0.3,0.3,(blank),2999802
+2023-11-08,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,21.4,1,0.3,0.3,(blank),2999235
+2024-02-02,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,3.51,1,0.3,0.3,(blank),3004705
+2024-02-02,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,1.2,1,0.3,0.3,(blank),3006525
+2024-02-02,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.24,1,0.3,0.3,(blank),3004727
+2024-02-02,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.46,1,0.3,0.3,(blank),3006530
+2024-02-02,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,24.68,1,0.3,0.3,(blank),3004721
+2024-03-04,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,13.72,1,0.3,0.3,(blank),3006578
+2024-03-04,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,1.03,1,0.3,0.3,(blank),3008814
+2024-03-04,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.8,1,0.3,0.3,(blank),3006583
+2024-03-04,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.32,1,0.3,0.3,(blank),3008817
+2024-03-04,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,21.7,1,0.3,0.3,(blank),3006573
+2024-05-03,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,2.95,1,0.3,0.3,(blank),3011527
+2024-05-03,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.34,1,0.3,0.3,(blank),3011539
+2024-05-03,1252,Lady Bird Lake @ Powerline,PHOSPHORUS AS P,MG/L,0.117,1,0.3,0.3,(blank),3012550
+2024-05-03,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.62,1,0.3,0.3,(blank),3012553
+2024-05-03,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,24.05,1,0.3,0.3,(blank),3011533
+2024-05-30,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,6.97,1,0.3,0.3,(blank),3012584
+2024-05-30,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.179,1,0.3,0.3,(blank),3013661
+2024-05-30,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.74,1,0.3,0.3,(blank),3012590
+2024-05-30,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.37,1,0.3,0.3,(blank),3013664
+2024-05-30,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,27.75,1,0.3,0.3,(blank),3012587
+2024-06-21,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,6.16,1,0.3,0.3,(blank),3013680
+2024-06-21,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.163,1,0.3,0.3,(blank),3014797
+2024-06-21,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.87,1,0.3,0.3,(blank),3013690
+2024-06-21,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.36,1,0.3,0.3,(blank),3014802
+2024-06-21,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,26.89,1,0.3,0.3,(blank),3013686
+2024-07-05,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,9.12,1,0.3,0.3,(blank),3014741
+2024-07-05,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.102,1,0.3,0.3,(blank),3015738
+2024-07-05,1252,Lady Bird Lake @ Powerline,PH,Standard units,8.01,1,0.3,0.3,(blank),3014752
+2024-07-05,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.39,1,0.3,0.3,(blank),3015743
+2024-07-05,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,30.79,1,0.3,0.3,(blank),3014760
+2024-07-29,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,5.81,1,0.3,0.3,(blank),3015571
+2024-07-29,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.231,1,0.3,0.3,(blank),3016337
+2024-07-29,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.58,1,0.3,0.3,(blank),3015583
+2024-07-29,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.39,1,0.3,0.3,(blank),3016340
+2024-07-29,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,29.02,1,0.3,0.3,(blank),3015577
+2024-08-15,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,2.55,1,0.3,0.3,(blank),3016184
+2024-08-15,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.116,1,0.3,0.3,(blank),3016794
+2024-08-15,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.45,1,0.3,0.3,(blank),3016196
+2024-08-15,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.49,1,0.3,0.3,(blank),3016797
+2024-08-15,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,28.84,1,0.3,0.3,(blank),3016190
+2024-09-20,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,4.89,1,0.3,0.3,(blank),3017271
+2024-09-20,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.168,1,0.3,0.3,(blank),3017535
+2024-09-20,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.6,1,0.3,0.3,(blank),3017238
+2024-09-20,1252,Lady Bird Lake @ Powerline,PHOSPHORUS AS P,MG/L,0.078,1,0.3,0.3,(blank),3017525
+2024-09-20,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.5,1,0.3,0.3,(blank),3017528
+2024-09-20,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,26.72,1,0.3,0.3,(blank),3017303
+2024-10-25,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,6.31,1,0.3,0.3,(blank),3021185
+2024-10-25,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.276,1,0.3,0.3,(blank),3022524
+2024-10-25,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.46,1,0.3,0.3,(blank),3021197
+2024-10-25,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.58,1,0.3,0.3,(blank),3022528
+2024-10-25,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,23.9,1,0.3,0.3,(blank),3021191
+2024-11-22,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,7.98,1,0.3,0.3,(blank),3022733
+2024-11-22,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.56,1,0.3,0.3,(blank),3022745
+2024-11-22,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.31,1,0.3,0.3,(blank),3026263
+2024-11-22,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,18.78,1,0.3,0.3,(blank),3022739
+2025-05-12,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,8.78,1,0.3,0.3,(blank),3042535
+2025-05-12,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.98,1,0.3,0.3,(blank),3042555
+2025-05-12,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.43,1,0.3,0.3,(blank),3043636
+2025-05-12,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,26.44,1,0.3,0.3,(blank),3042545
+2025-06-04,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,3.26,1,0.3,0.3,(blank),3044865
+2025-06-04,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.079,1,0.3,0.3,(blank),3048243
+2025-06-04,1252,Lady Bird Lake @ Powerline,ORTHOPHOSPHORUS AS P,MG/L,0.052,1,0.3,0.3,(blank),3048245
+2025-06-04,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.64,1,0.3,0.3,(blank),3044752
+2025-06-04,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.68,1,0.3,0.3,(blank),3048246
+2025-06-04,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,26.68,1,0.3,0.3,(blank),3044695
+2025-06-27,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,3.524,1,0.3,0.3,(blank),3047143
+2025-06-27,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.714,1,0.3,0.3,(blank),3047015
+2025-06-27,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.67,1,0.3,0.3,(blank),3048562
+2025-06-27,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,28.29,1,0.3,0.3,(blank),3046946
+2025-07-11,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,8.018,1,0.3,0.3,(blank),3047355
+2025-07-11,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.173,1,0.3,0.3,(blank),3048981
+2025-07-11,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.796,1,0.3,0.3,(blank),3047367
+2025-07-11,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.5,1,0.3,0.3,(blank),3048986
+2025-07-11,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,27.74,1,0.3,0.3,(blank),3047361
+2025-08-01,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,6.75,1,0.3,0.3,(blank),3048921
+2025-08-01,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.121,1,0.3,0.3,(blank),3049681
+2025-08-01,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.23,1,0.3,0.3,(blank),3048933
+2025-08-01,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.5,1,0.3,0.3,(blank),3049686
+2025-08-01,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,28.95,1,0.3,0.3,(blank),3048927
+2025-08-22,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,7.16,1,0.3,0.3,(blank),3049746
+2025-08-22,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.498,1,0.3,0.3,(blank),3050033
+2025-08-22,1252,Lady Bird Lake @ Powerline,PH,Standard units,8.0,1,0.3,0.3,(blank),3049758
+2025-08-22,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.36,1,0.3,0.3,(blank),3050038
+2025-08-22,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,28.22,1,0.3,0.3,(blank),3049752
+2025-09-12,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,7.29,1,0.3,0.3,(blank),3050164
+2025-09-12,1252,Lady Bird Lake @ Powerline,PH,Standard units,8.01,1,0.3,0.3,(blank),3050176
+2025-09-12,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.45,1,0.3,0.3,(blank),3052641
+2025-09-12,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,26.88,1,0.3,0.3,(blank),3050170
+2025-10-03,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,6.12,1,0.3,0.3,(blank),3052669
+2025-10-03,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.72,1,0.3,0.3,(blank),3052681
+2025-10-03,1252,Lady Bird Lake @ Powerline,PHOSPHORUS AS P,MG/L,0.174,1,0.3,0.3,(blank),3053483
+2025-10-03,1252,Lady Bird Lake @ Powerline,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.4,1,0.3,0.3,(blank),3053486
+2025-10-03,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,25.83,1,0.3,0.3,(blank),3052675
+2025-10-24,1252,Lady Bird Lake @ Powerline,DISSOLVED OXYGEN,MG/L,7.23,1,0.3,0.3,(blank),3053612
+2025-10-24,1252,Lady Bird Lake @ Powerline,NITRATE/NITRITE AS N,MG/L,0.167,1,0.3,0.3,(blank),3055309
+2025-10-24,1252,Lady Bird Lake @ Powerline,PH,Standard units,7.95,1,0.3,0.3,(blank),3053624
+2025-10-24,1252,Lady Bird Lake @ Powerline,PHOSPHORUS AS P,MG/L,0.33,1,0.3,0.3,(blank),3055311
+2025-10-24,1252,Lady Bird Lake @ Powerline,WATER TEMPERATURE,Deg. Celsius,24.1,1,0.3,0.3,(blank),3053618
+2019-08-12,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.17,1,0.3,0.3,U,2754486
+2019-08-12,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.401,1,0.3,0.3,U,2754473
+2019-09-24,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.072,1,0.3,0.3,J,2761490
+2019-09-24,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.441,1,0.3,0.3,U,2761491
+2019-10-14,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.104,1,0.3,0.3,U,2758349
+2019-10-14,1996,Redbud West of Parking Lot,PHOSPHORUS AS P,MG/L,0.0459,1,0.3,0.3,U,2758351
+2019-10-14,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.387,1,0.3,0.3,U,2758350
+2020-06-17,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,5.45,1,0.3,0.3,U,2790910
+2020-06-17,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.107,1,0.3,0.3,U,2791450
+2020-06-17,1996,Redbud West of Parking Lot,PH,Standard units,7.44,1,0.3,0.3,U,2791038
+2020-06-17,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.548,1,0.3,0.3,U,2791449
+2020-06-17,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,23.98,1,0.3,0.3,U,2790962
+2020-07-01,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,6.51,1,0.3,0.3,U,2790524
+2020-07-01,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.108,1,0.3,0.3,U,2791455
+2020-07-01,1996,Redbud West of Parking Lot,PH,Standard units,7.47,1,0.3,0.3,U,2790748
+2020-07-01,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.488,1,0.3,0.3,U,2791404
+2020-07-01,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,24.79,1,0.3,0.3,U,2790622
+2020-07-09,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,5.6,1,0.3,0.3,U,2790473
+2020-07-09,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.0673,1,0.3,0.3,J,2815859
+2020-07-09,1996,Redbud West of Parking Lot,PH,Standard units,7.37,1,0.3,0.3,U,2790259
+2020-07-09,1996,Redbud West of Parking Lot,PHOSPHORUS AS P,MG/L,0.0228,1,0.3,0.3,U,2815861
+2020-07-09,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.438,1,0.3,0.3,U,2815860
+2020-07-09,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,26.84,1,0.3,0.3,U,2790192
+2020-07-14,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,5.82,1,0.3,0.3,U,2790474
+2020-07-14,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.382,1,0.3,0.3,U,2816909
+2020-07-14,1996,Redbud West of Parking Lot,PH,Standard units,7.39,1,0.3,0.3,U,2790260
+2020-07-14,1996,Redbud West of Parking Lot,PHOSPHORUS AS P,MG/L,0.027,1,0.3,0.3,U,2816205
+2020-07-14,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.297,1,0.3,0.3,U,2816204
+2020-07-14,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,27.86,1,0.3,0.3,U,2790856
+2020-07-22,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,4.59,1,0.3,0.3,U,2791364
+2020-07-22,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.0709,1,0.3,0.3,J,2816532
+2020-07-22,1996,Redbud West of Parking Lot,PH,Standard units,7.19,1,0.3,0.3,U,2791668
+2020-07-22,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.392,1,0.3,0.3,U,2816605
+2020-07-22,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,27.52,1,0.3,0.3,U,2791544
+2020-07-29,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,3.42,1,0.3,0.3,U,2790946
+2020-07-29,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.0901,1,0.3,0.3,U,2816463
+2020-07-29,1996,Redbud West of Parking Lot,PH,Standard units,7.22,1,0.3,0.3,U,2790995
+2020-07-29,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.279,1,0.3,0.3,J,2816334
+2020-07-29,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,26.21,1,0.3,0.3,U,2790978
+2020-08-04,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,5.93,1,0.3,0.3,U,2788634
+2020-08-04,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.0749,1,0.3,0.3,U,2816266
+2020-08-04,1996,Redbud West of Parking Lot,PH,Standard units,7.66,1,0.3,0.3,U,2788642
+2020-08-04,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.374,1,0.3,0.3,U,2816267
+2020-08-04,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,27.2,1,0.3,0.3,U,2788638
+2020-08-11,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,4.06,1,0.3,0.3,U,2794225
+2020-08-11,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.0461,1,0.3,0.3,U,2816051
+2020-08-11,1996,Redbud West of Parking Lot,PH,Standard units,7.58,1,0.3,0.3,U,2794233
+2020-08-11,1996,Redbud West of Parking Lot,PHOSPHORUS AS P,MG/L,0.0268,1,0.3,0.3,U,2816132
+2020-08-11,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.299,1,0.3,0.3,J,2816131
+2020-08-11,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,27.74,1,0.3,0.3,U,2794229
+2020-08-18,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,4.49,1,0.3,0.3,U,2794195
+2020-08-18,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.034,1,0.3,0.3,U,2815733
+2020-08-18,1996,Redbud West of Parking Lot,PH,Standard units,7.57,1,0.3,0.3,U,2794156
+2020-08-18,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.344,1,0.3,0.3,J,2815734
+2020-08-18,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,27.04,1,0.3,0.3,U,2794081
+2020-09-01,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,5.76,1,0.3,0.3,U,2794327
+2020-09-01,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.104,1,0.3,0.3,U,2871012
+2020-09-01,1996,Redbud West of Parking Lot,PH,Standard units,7.65,1,0.3,0.3,U,2794337
+2020-09-01,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.43,1,0.3,0.3,U,2871029
+2020-09-01,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,25.62,1,0.3,0.3,U,2794332
+2020-09-08,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,5.09,1,0.3,0.3,U,2807320
+2020-09-08,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.101,1,0.3,0.3,J,2873619
+2020-09-08,1996,Redbud West of Parking Lot,PH,Standard units,7.59,1,0.3,0.3,U,2807408
+2020-09-08,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.363,1,0.3,0.3,U,2873478
+2020-09-08,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,24.59,1,0.3,0.3,U,2807325
+2020-09-15,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,4.89,1,0.3,0.3,U,2811616
+2020-09-15,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.0982,1,0.3,0.3,U,2872510
+2020-09-15,1996,Redbud West of Parking Lot,PH,Standard units,7.58,1,0.3,0.3,U,2812266
+2020-09-15,1996,Redbud West of Parking Lot,PHOSPHORUS AS P,MG/L,0.0341,1,0.3,0.3,U,2872504
+2020-09-15,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.336,1,0.3,0.3,U,2872508
+2020-09-15,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,25.15,1,0.3,0.3,U,2811778
+2020-09-23,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,5.96,1,0.3,0.3,U,2824009
+2020-09-23,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.0902,1,0.3,0.3,U,2870810
+2020-09-23,1996,Redbud West of Parking Lot,PH,Standard units,7.68,1,0.3,0.3,U,2824147
+2020-09-23,1996,Redbud West of Parking Lot,PHOSPHORUS AS P,MG/L,0.0218,1,0.3,0.3,U,2870827
+2020-09-23,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.487,1,0.3,0.3,U,2870811
+2020-09-23,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,23.32,1,0.3,0.3,U,2824014
+2020-10-06,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,7.72,1,0.3,0.3,U,2843323
+2020-10-06,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.0567,1,0.3,0.3,U,2873656
+2020-10-06,1996,Redbud West of Parking Lot,PH,Standard units,7.85,1,0.3,0.3,U,2843333
+2020-10-06,1996,Redbud West of Parking Lot,PHOSPHORUS AS P,MG/L,0.0362,1,0.3,0.3,U,2873654
+2020-10-06,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.446,1,0.3,0.3,U,2873655
+2020-10-06,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,23.71,1,0.3,0.3,U,2843328
+2020-10-13,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,6.79,1,0.3,0.3,U,2867835
+2020-10-13,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.0482,1,0.3,0.3,J,2872034
+2020-10-13,1996,Redbud West of Parking Lot,PH,Standard units,7.73,1,0.3,0.3,U,2867863
+2020-10-13,1996,Redbud West of Parking Lot,PHOSPHORUS AS P,MG/L,0.0244,1,0.3,0.3,U,2872015
+2020-10-13,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.433,1,0.3,0.3,U,2872016
+2020-10-13,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,23.51,1,0.3,0.3,U,2867878
+2020-10-20,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,6.63,1,0.3,0.3,U,2869036
+2020-10-20,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.05,1,0.3,0.3,J,2873156
+2020-10-20,1996,Redbud West of Parking Lot,PH,Standard units,7.74,1,0.3,0.3,U,2869150
+2020-10-20,1996,Redbud West of Parking Lot,PHOSPHORUS AS P,MG/L,0.0305,1,0.3,0.3,U,2873154
+2020-10-20,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.573,1,0.3,0.3,U,2873155
+2020-10-20,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,24.51,1,0.3,0.3,U,2869103
+2020-10-27,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,7.57,1,0.3,0.3,U,2874243
+2020-10-27,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.0944,1,0.3,0.3,U,2871744
+2020-10-27,1996,Redbud West of Parking Lot,PH,Standard units,7.84,1,0.3,0.3,U,2874260
+2020-10-27,1996,Redbud West of Parking Lot,PHOSPHORUS AS P,MG/L,0.0373,1,0.3,0.3,U,2871742
+2020-10-27,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.431,1,0.3,0.3,U,2871743
+2020-10-27,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,18.95,1,0.3,0.3,U,2874248
+2020-11-03,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,8.91,1,0.3,0.3,U,2874135
+2020-11-03,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.0525,1,0.3,0.3,U,2873871
+2020-11-03,1996,Redbud West of Parking Lot,PH,Standard units,7.64,1,0.3,0.3,U,2874172
+2020-11-03,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.543,1,0.3,0.3,J,2873870
+2020-11-03,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,18.85,1,0.3,0.3,U,2874147
+2020-11-10,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,9.38,1,0.3,0.3,U,2874136
+2020-11-10,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.152,1,0.3,0.3,U,2873180
+2020-11-10,1996,Redbud West of Parking Lot,PH,Standard units,7.92,1,0.3,0.3,U,2874173
+2020-11-10,1996,Redbud West of Parking Lot,PHOSPHORUS AS P,MG/L,0.0568,1,0.3,0.3,U,2873181
+2020-11-10,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.617,1,0.3,0.3,J,2873182
+2020-11-10,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,22.33,1,0.3,0.3,U,2874153
+2021-06-01,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,5.65,1,0.3,0.3,(blank),2895186
+2021-06-01,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.134,1,0.3,0.3,(blank),2896454
+2021-06-01,1996,Redbud West of Parking Lot,PH,Standard units,7.11,1,0.3,0.3,(blank),2895192
+2021-06-01,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.348,1,0.3,0.3,(blank),2896455
+2021-06-01,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,24.72,1,0.3,0.3,(blank),2895189
+2021-06-11,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,5.51,1,0.3,0.3,(blank),2896425
+2021-06-11,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.267,1,0.3,0.3,(blank),2897565
+2021-06-11,1996,Redbud West of Parking Lot,PH,Standard units,7.21,1,0.3,0.3,(blank),2896439
+2021-06-11,1996,Redbud West of Parking Lot,PHOSPHORUS AS P,MG/L,0.0211,1,0.3,0.3,(blank),2897567
+2021-06-11,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.57,1,0.3,0.3,(blank),2897566
+2021-06-11,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,28.04,1,0.3,0.3,(blank),2896432
+2021-06-24,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,4.69,1,0.3,0.3,(blank),2896701
+2021-06-24,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.224,1,0.3,0.3,(blank),2898409
+2021-06-24,1996,Redbud West of Parking Lot,PH,Standard units,7.17,1,0.3,0.3,(blank),2896707
+2021-06-24,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.415,1,0.3,0.3,(blank),2898407
+2021-06-24,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,29.25,1,0.3,0.3,(blank),2896704
+2021-07-06,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,6.26,1,0.3,0.3,(blank),2897053
+2021-07-06,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.102,1,0.3,0.3,(blank),2898272
+2021-07-06,1996,Redbud West of Parking Lot,PH,Standard units,7.76,1,0.3,0.3,(blank),2897261
+2021-07-06,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.45,1,0.3,0.3,(blank),2898275
+2021-07-06,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,28.32,1,0.3,0.3,(blank),2897378
+2021-07-20,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,6.42,1,0.3,0.3,(blank),2897718
+2021-07-20,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.0327,1,0.3,0.3,(blank),2903980
+2021-07-20,1996,Redbud West of Parking Lot,PH,Standard units,7.57,1,0.3,0.3,(blank),2897734
+2021-07-20,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.805,1,0.3,0.3,(blank),2903981
+2021-07-20,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,28.34,1,0.3,0.3,(blank),2897721
+2021-08-05,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,3.22,1,0.3,0.3,(blank),2897956
+2021-08-05,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.0319,1,0.3,0.3,(blank),2903649
+2021-08-05,1996,Redbud West of Parking Lot,PH,Standard units,7.19,1,0.3,0.3,(blank),2897966
+2021-08-05,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.452,1,0.3,0.3,(blank),2903650
+2021-08-05,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,28.34,1,0.3,0.3,(blank),2897961
+2021-08-20,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,3.95,1,0.3,0.3,(blank),2898430
+2021-08-20,1996,Redbud West of Parking Lot,PH,Standard units,7.57,1,0.3,0.3,(blank),2898477
+2021-08-20,1996,Redbud West of Parking Lot,PHOSPHORUS AS P,MG/L,0.0467,1,0.3,0.3,(blank),2903337
+2021-08-20,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.39,1,0.3,0.3,(blank),2903336
+2021-08-20,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,28.98,1,0.3,0.3,(blank),2898453
+2021-09-13,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,6.2,1,0.36,0.36,(blank),2902693
+2021-09-13,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.0373,1,0.3,0.3,(blank),2906661
+2021-09-13,1996,Redbud West of Parking Lot,PH,Standard units,7.72,1,0.36,0.36,(blank),2902741
+2021-09-13,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.605,1,0.3,0.3,(blank),2906463
+2021-09-13,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,25.23,1,0.36,0.36,(blank),2902793
+2021-10-11,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,4.72,1,0.3,0.3,(blank),2906222
+2021-10-11,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.0473,1,0.3,0.3,(blank),2907552
+2021-10-11,1996,Redbud West of Parking Lot,PH,Standard units,7.56,1,0.3,0.3,(blank),2906235
+2021-10-11,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.512,1,0.3,0.3,(blank),2907553
+2021-10-11,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,23.26,1,0.3,0.3,(blank),2906229
+2021-11-04,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,6.98,1,0.3,0.3,(blank),2907785
+2021-11-04,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.253,1,0.3,0.3,(blank),2907956
+2021-11-04,1996,Redbud West of Parking Lot,PH,Standard units,7.33,1,0.3,0.3,(blank),2907791
+2021-11-04,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.375,1,0.3,0.3,(blank),2907957
+2021-11-04,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,18.33,1,0.3,0.3,(blank),2907788
+2022-05-30,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,6.71,1,0.3,0.3,(blank),2943191
+2022-05-30,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.0303,1,0.3,0.3,(blank),2947192
+2022-05-30,1996,Redbud West of Parking Lot,PH,Standard units,7.66,1,0.3,0.3,(blank),2943149
+2022-05-30,1996,Redbud West of Parking Lot,PHOSPHORUS AS P,MG/L,0.0276,1,0.3,0.3,(blank),2947194
+2022-05-30,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.382,1,0.3,0.3,(blank),2947193
+2022-05-30,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,24.76,1,0.3,0.3,(blank),2943197
+2022-06-14,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,4.22,1,0.3,0.3,(blank),2945394
+2022-06-14,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.0681,1,0.3,0.3,(blank),2946880
+2022-06-14,1996,Redbud West of Parking Lot,PH,Standard units,7.67,1,0.3,0.3,(blank),2945414
+2022-06-14,1996,Redbud West of Parking Lot,PHOSPHORUS AS P,MG/L,0.0301,1,0.3,0.3,(blank),2946882
+2022-06-14,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.321,1,0.3,0.3,(blank),2946881
+2022-06-14,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,26.96,1,0.3,0.3,(blank),2945404
+2022-06-27,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,5.15,1,0.3,0.3,(blank),2946209
+2022-06-27,1996,Redbud West of Parking Lot,PH,Standard units,7.65,1,0.3,0.3,(blank),2946220
+2022-06-27,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.184,1,0.3,0.3,(blank),2947521
+2022-06-27,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,26.33,1,0.3,0.3,(blank),2946214
+2022-07-11,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,4.12,1,0.3,0.3,(blank),2947286
+2022-07-11,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.0279,1,0.3,0.3,(blank),2950550
+2022-07-11,1996,Redbud West of Parking Lot,PH,Standard units,7.37,1,0.3,0.3,(blank),2947298
+2022-07-11,1996,Redbud West of Parking Lot,PHOSPHORUS AS P,MG/L,0.0596,1,0.3,0.3,(blank),2950552
+2022-07-11,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.988,1,0.3,0.3,(blank),2950551
+2022-07-11,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,27.84,1,0.3,0.3,(blank),2947292
+2022-07-27,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,5.96,1,0.3,0.3,(blank),2948307
+2022-07-27,1996,Redbud West of Parking Lot,PH,Standard units,7.76,1,0.3,0.3,(blank),2948347
+2022-07-27,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.757,1,0.3,0.3,(blank),2952006
+2022-07-27,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,26.94,1,0.3,0.3,(blank),2948327
+2022-08-08,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,5.55,1,0.3,0.3,(blank),2950969
+2022-08-08,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.02,1,0.3,0.3,(blank),2952023
+2022-08-08,1996,Redbud West of Parking Lot,PH,Standard units,7.16,1,0.3,0.3,(blank),2950979
+2022-08-08,1996,Redbud West of Parking Lot,PHOSPHORUS AS P,MG/L,0.0275,1,0.3,0.3,(blank),2952025
+2022-08-08,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.337,1,0.3,0.3,(blank),2952024
+2022-08-08,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,28.86,1,0.3,0.3,(blank),2950974
+2022-09-02,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,4.72,1,0.3,0.3,(blank),2952618
+2022-09-02,1996,Redbud West of Parking Lot,PH,Standard units,7.57,1,0.3,0.3,(blank),2952630
+2022-09-02,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.354,1,0.3,0.3,(blank),2954775
+2022-09-02,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,28.19,1,0.3,0.3,(blank),2952624
+2022-09-15,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,5.83,1,0.3,0.3,(blank),2953641
+2022-09-15,1996,Redbud West of Parking Lot,PH,Standard units,7.77,1,0.3,0.3,(blank),2954026
+2022-09-15,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.332,1,0.3,0.3,(blank),2954437
+2022-09-15,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,27.53,1,0.3,0.3,(blank),2953742
+2022-09-30,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,6.34,1,0.3,0.3,(blank),2955560
+2022-09-30,1996,Redbud West of Parking Lot,PH,Standard units,7.8,1,0.3,0.3,(blank),2955566
+2022-09-30,1996,Redbud West of Parking Lot,PHOSPHORUS AS P,MG/L,0.0202,1,0.3,0.3,(blank),2958051
+2022-09-30,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.501,1,0.3,0.3,(blank),2958050
+2022-09-30,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,24.84,1,0.3,0.3,(blank),2955563
+2022-10-14,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,8.31,1,0.3,0.3,(blank),2955708
+2022-10-14,1996,Redbud West of Parking Lot,PH,Standard units,8.11,1,0.3,0.3,(blank),2955720
+2022-10-14,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,25.01,1,0.3,0.3,(blank),2955714
+2022-11-08,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,8.52,1,0.3,0.3,(blank),2958536
+2022-11-08,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.126,1,0.3,0.3,(blank),2964572
+2022-11-08,1996,Redbud West of Parking Lot,PH,Standard units,8.01,1,0.3,0.3,(blank),2958548
+2022-11-08,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.29,1,0.3,0.3,(blank),2964575
+2022-11-08,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,22.68,1,0.3,0.3,(blank),2958542
+2023-05-12,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,6.94,1,0.3,0.3,(blank),2979736
+2023-05-12,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.117,1,0.3,0.3,(blank),2981585
+2023-05-12,1996,Redbud West of Parking Lot,PH,Standard units,7.66,1,0.3,0.3,(blank),2979754
+2023-05-12,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.51,1,0.3,0.3,(blank),2981590
+2023-05-12,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,26.58,1,0.3,0.3,(blank),2979745
+2023-05-25,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,10.27,1,0.3,0.3,(blank),2981977
+2023-05-25,1996,Redbud West of Parking Lot,PH,Standard units,7.5,1,0.3,0.3,(blank),2981891
+2023-05-25,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.39,1,0.3,0.3,(blank),2982537
+2023-05-25,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,26.28,1,0.3,0.3,(blank),2981820
+2023-06-09,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,5.7,1,0.3,0.3,(blank),2982230
+2023-06-09,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.117,1,0.3,0.3,(blank),2984093
+2023-06-09,1996,Redbud West of Parking Lot,PH,Standard units,7.62,1,0.3,0.3,(blank),2982250
+2023-06-09,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.44,1,0.3,0.3,(blank),2984098
+2023-06-09,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,29.09,1,0.3,0.3,(blank),2982236
+2023-06-29,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,6.11,1,0.3,0.3,(blank),2983099
+2023-06-29,1996,Redbud West of Parking Lot,PH,Standard units,7.83,1,0.3,0.3,(blank),2982993
+2023-06-29,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.57,1,0.3,0.3,(blank),2984134
+2023-06-29,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,30.08,1,0.3,0.3,(blank),2982965
+2023-07-11,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,3.05,1,0.3,0.3,(blank),2983673
+2023-07-11,1996,Redbud West of Parking Lot,PH,Standard units,7.53,1,0.3,0.3,(blank),2983725
+2023-07-11,1996,Redbud West of Parking Lot,PHOSPHORUS AS P,MG/L,0.176,1,0.3,0.3,(blank),2984688
+2023-07-11,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.52,1,0.3,0.3,(blank),2984691
+2023-07-11,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,28.73,1,0.3,0.3,(blank),2983818
+2023-07-28,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,5.06,1,0.3,0.3,(blank),2984795
+2023-07-28,1996,Redbud West of Parking Lot,PH,Standard units,7.81,1,0.3,0.3,(blank),2984811
+2023-07-28,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.33,1,0.3,0.3,(blank),2993233
+2023-07-28,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,28.63,1,0.3,0.3,(blank),2984803
+2023-08-25,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,4.63,1,0.3,0.3,(blank),2988332
+2023-08-25,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.0545,1,0.3,0.3,(blank),2993132
+2023-08-25,1996,Redbud West of Parking Lot,PH,Standard units,7.68,1,0.3,0.3,(blank),2988358
+2023-08-25,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.46,1,0.3,0.3,(blank),2993137
+2023-08-25,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,28.72,1,0.3,0.3,(blank),2988345
+2023-09-18,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,4.75,1,0.3,0.3,(blank),2991516
+2023-09-18,1996,Redbud West of Parking Lot,PH,Standard units,7.62,1,0.3,0.3,(blank),2991542
+2023-09-18,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.39,1,0.3,0.3,(blank),2993185
+2023-09-18,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,26.38,1,0.3,0.3,(blank),2991529
+2023-10-02,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,6.57,1,0.3,0.3,(blank),2991970
+2023-10-02,1996,Redbud West of Parking Lot,PH,Standard units,7.87,1,0.3,0.3,(blank),2991982
+2023-10-02,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.4,1,0.3,0.3,(blank),2994609
+2023-10-02,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,27.44,1,0.3,0.3,(blank),2991976
+2023-11-08,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,7.5,1,0.3,0.3,(blank),2999234
+2023-11-08,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.13,1,0.3,0.3,(blank),2999781
+2023-11-08,1996,Redbud West of Parking Lot,PH,Standard units,7.74,1,0.3,0.3,(blank),2999248
+2023-11-08,1996,Redbud West of Parking Lot,PHOSPHORUS AS P,MG/L,0.077,1,0.3,0.3,(blank),2999780
+2023-11-08,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.45,1,0.3,0.3,(blank),2999784
+2023-11-08,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,21.68,1,0.3,0.3,(blank),2999240
+2024-02-02,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,7.76,1,0.3,0.3,(blank),3004716
+2024-02-02,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,1.34,1,0.3,0.3,(blank),3006513
+2024-02-02,1996,Redbud West of Parking Lot,PH,Standard units,7.52,1,0.3,0.3,(blank),3004725
+2024-02-02,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.42,1,0.3,0.3,(blank),3006518
+2024-02-02,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,24.27,1,0.3,0.3,(blank),3004719
+2024-03-04,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,13.42,1,0.3,0.3,(blank),3006570
+2024-03-04,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.777,1,0.3,0.3,(blank),3008802
+2024-03-04,1996,Redbud West of Parking Lot,PH,Standard units,8.12,1,0.3,0.3,(blank),3006582
+2024-03-04,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.34,1,0.3,0.3,(blank),3008805
+2024-03-04,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,22.54,1,0.3,0.3,(blank),3006572
+2024-05-03,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,5.38,1,0.3,0.3,(blank),3011528
+2024-05-03,1996,Redbud West of Parking Lot,PH,Standard units,7.69,1,0.3,0.3,(blank),3011540
+2024-05-03,1996,Redbud West of Parking Lot,PHOSPHORUS AS P,MG/L,0.061,1,0.3,0.3,(blank),3012537
+2024-05-03,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.49,1,0.3,0.3,(blank),3012540
+2024-05-03,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,24.19,1,0.3,0.3,(blank),3011534
+2024-05-30,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,5.82,1,0.3,0.3,(blank),3012585
+2024-05-30,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.131,1,0.3,0.3,(blank),3013649
+2024-05-30,1996,Redbud West of Parking Lot,PH,Standard units,7.9,1,0.3,0.3,(blank),3012591
+2024-05-30,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.43,1,0.3,0.3,(blank),3013652
+2024-05-30,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,28.64,1,0.3,0.3,(blank),3012588
+2024-06-21,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,4.84,1,0.3,0.3,(blank),3013681
+2024-06-21,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.102,1,0.3,0.3,(blank),3014785
+2024-06-21,1996,Redbud West of Parking Lot,PH,Standard units,8.0,1,0.3,0.3,(blank),3013691
+2024-06-21,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.36,1,0.3,0.3,(blank),3014790
+2024-06-21,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,27.86,1,0.3,0.3,(blank),3013687
+2024-07-05,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,5.47,1,0.3,0.3,(blank),3014742
+2024-07-05,1996,Redbud West of Parking Lot,PH,Standard units,7.81,1,0.3,0.3,(blank),3014753
+2024-07-05,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.37,1,0.3,0.3,(blank),3015725
+2024-07-05,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,30.21,1,0.3,0.3,(blank),3014747
+2024-07-29,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,6.14,1,0.3,0.3,(blank),3015570
+2024-07-29,1996,Redbud West of Parking Lot,PH,Standard units,7.87,1,0.3,0.3,(blank),3015582
+2024-07-29,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.34,1,0.3,0.3,(blank),3016322
+2024-07-29,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,28.54,1,0.3,0.3,(blank),3015576
+2024-08-15,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,3.05,1,0.3,0.3,(blank),3016185
+2024-08-15,1996,Redbud West of Parking Lot,PH,Standard units,7.68,1,0.3,0.3,(blank),3016197
+2024-08-15,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.5,1,0.3,0.3,(blank),3016785
+2024-08-15,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,30.03,1,0.3,0.3,(blank),3016191
+2024-09-20,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,6.44,1,0.3,0.3,(blank),3017174
+2024-09-20,1996,Redbud West of Parking Lot,PH,Standard units,7.79,1,0.3,0.3,(blank),3017198
+2024-09-20,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.54,1,0.3,0.3,(blank),3017518
+2024-09-20,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,27.68,1,0.3,0.3,(blank),3017278
+2024-10-25,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,5.86,1,0.3,0.3,(blank),3021184
+2024-10-25,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.0571,1,0.3,0.3,(blank),3022512
+2024-10-25,1996,Redbud West of Parking Lot,PH,Standard units,7.72,1,0.3,0.3,(blank),3021196
+2024-10-25,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.42,1,0.3,0.3,(blank),3022517
+2024-10-25,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,24.11,1,0.3,0.3,(blank),3021190
+2024-11-22,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,5.59,1,0.3,0.3,(blank),3022737
+2024-11-22,1996,Redbud West of Parking Lot,PH,Standard units,7.78,1,0.3,0.3,(blank),3022749
+2024-11-22,1996,Redbud West of Parking Lot,PHOSPHORUS AS P,MG/L,0.065,1,0.3,0.3,(blank),3026247
+2024-11-22,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.37,1,0.3,0.3,(blank),3026250
+2024-11-22,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,19.01,1,0.3,0.3,(blank),3022743
+2025-05-12,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,5.4,1,0.3,0.3,(blank),3042529
+2025-05-12,1996,Redbud West of Parking Lot,PH,Standard units,7.85,1,0.3,0.3,(blank),3042549
+2025-05-12,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.4,1,0.3,0.3,(blank),3043623
+2025-05-12,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,23.38,1,0.3,0.3,(blank),3042539
+2025-06-04,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,5.1,1,0.3,0.3,(blank),3044647
+2025-06-04,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.111,1,0.3,0.3,(blank),3048231
+2025-06-04,1996,Redbud West of Parking Lot,PH,Standard units,7.86,1,0.3,0.3,(blank),3044781
+2025-06-04,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.44,1,0.3,0.3,(blank),3048234
+2025-06-04,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,26.36,1,0.3,0.3,(blank),3044726
+2025-06-27,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,3.056,1,0.193,0.193,(blank),3047144
+2025-06-27,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.0594,1,0.3,0.3,(blank),3048545
+2025-06-27,1996,Redbud West of Parking Lot,PH,Standard units,7.581,1,0.193,0.193,(blank),3047016
+2025-06-27,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.57,1,0.3,0.3,(blank),3048550
+2025-06-27,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,26.5,1,0.193,0.193,(blank),3046959
+2025-07-11,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,6.14,1,0.3,0.3,(blank),3047354
+2025-07-11,1996,Redbud West of Parking Lot,NITRATE/NITRITE AS N,MG/L,0.516,1,0.3,0.3,(blank),3048969
+2025-07-11,1996,Redbud West of Parking Lot,PH,Standard units,7.726,1,0.3,0.3,(blank),3047366
+2025-07-11,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.53,1,0.3,0.3,(blank),3048974
+2025-07-11,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,27.6,1,0.3,0.3,(blank),3047360
+2025-08-01,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,5.13,1,0.3,0.3,(blank),3048922
+2025-08-01,1996,Redbud West of Parking Lot,PH,Standard units,7.79,1,0.3,0.3,(blank),3048934
+2025-08-01,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.53,1,0.3,0.3,(blank),3049674
+2025-08-01,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,28.78,1,0.3,0.3,(blank),3048928
+2025-08-22,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,3.2,1,0.3,0.3,(blank),3049745
+2025-08-22,1996,Redbud West of Parking Lot,PH,Standard units,7.59,1,0.3,0.3,(blank),3049757
+2025-08-22,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.4,1,0.3,0.3,(blank),3050026
+2025-08-22,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,27.1,1,0.3,0.3,(blank),3049751
+2025-09-12,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,4.98,1,0.3,0.3,(blank),3050165
+2025-09-12,1996,Redbud West of Parking Lot,PH,Standard units,7.921,1,0.3,0.3,(blank),3050177
+2025-09-12,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.44,1,0.3,0.3,(blank),3052629
+2025-09-12,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,26.43,1,0.3,0.3,(blank),3050171
+2025-10-03,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,3.96,1,0.3,0.3,(blank),3052670
+2025-10-03,1996,Redbud West of Parking Lot,PH,Standard units,7.81,1,0.3,0.3,(blank),3052682
+2025-10-03,1996,Redbud West of Parking Lot,PHOSPHORUS AS P,MG/L,0.225,1,0.3,0.3,(blank),3053471
+2025-10-03,1996,Redbud West of Parking Lot,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.55,1,0.3,0.3,(blank),3053474
+2025-10-03,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,25.13,1,0.3,0.3,(blank),3052676
+2025-10-24,1996,Redbud West of Parking Lot,DISSOLVED OXYGEN,MG/L,5.4,1,0.3,0.3,(blank),3053613
+2025-10-24,1996,Redbud West of Parking Lot,PH,Standard units,7.8,1,0.3,0.3,(blank),3053625
+2025-10-24,1996,Redbud West of Parking Lot,PHOSPHORUS AS P,MG/L,0.16,1,0.3,0.3,(blank),3055297
+2025-10-24,1996,Redbud West of Parking Lot,WATER TEMPERATURE,Deg. Celsius,24.36,1,0.3,0.3,(blank),3053619
+2019-08-12,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.524,1,0.3,0.3,U,2754457
+2019-08-12,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.397,1,0.3,0.3,U,2754453
+2019-10-14,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.331,1,0.3,0.3,U,2758304
+2019-10-14,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.384,1,0.3,0.3,U,2758305
+2020-06-17,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,8.98,1,0.3,0.3,U,2790887
+2020-06-17,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.159,1,0.3,0.3,U,2791757
+2020-06-17,1997,Lagoon at Festival Beach,PH,Standard units,7.76,1,0.3,0.3,U,2791059
+2020-06-17,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.364,1,0.3,0.3,U,2791756
+2020-06-17,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,27.77,1,0.3,0.3,U,2790968
+2020-07-01,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,9.19,1,0.3,0.3,U,2790525
+2020-07-01,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.153,1,0.3,0.3,U,2791732
+2020-07-01,1997,Lagoon at Festival Beach,PH,Standard units,7.64,1,0.3,0.3,U,2790749
+2020-07-01,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.471,1,0.3,0.3,U,2791205
+2020-07-01,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,26.52,1,0.3,0.3,U,2790623
+2020-07-09,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,10.05,1,0.3,0.3,U,2790475
+2020-07-09,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.213,1,0.3,0.3,J,2816378
+2020-07-09,1997,Lagoon at Festival Beach,PH,Standard units,7.85,1,0.3,0.3,U,2790261
+2020-07-09,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.322,1,0.3,0.3,U,2816379
+2020-07-09,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,29.07,1,0.3,0.3,U,2790857
+2020-07-14,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,10.92,1,0.3,0.3,U,2790476
+2020-07-14,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.168,1,0.3,0.3,U,2816482
+2020-07-14,1997,Lagoon at Festival Beach,PH,Standard units,6.99,1,0.3,0.3,U,2790262
+2020-07-14,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.383,1,0.3,0.3,U,2816483
+2020-07-14,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,29.86,1,0.3,0.3,U,2790858
+2020-07-22,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,10.46,1,0.3,0.3,U,2791365
+2020-07-22,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.121,1,0.3,0.3,J,2815896
+2020-07-22,1997,Lagoon at Festival Beach,PH,Standard units,7.98,1,0.3,0.3,U,2791669
+2020-07-22,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.503,1,0.3,0.3,U,2815897
+2020-07-22,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,29.99,1,0.3,0.3,U,2791660
+2020-07-29,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,8.7,1,0.3,0.3,U,2790947
+2020-07-29,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.123,1,0.3,0.3,U,2816538
+2020-07-29,1997,Lagoon at Festival Beach,PH,Standard units,7.7,1,0.3,0.3,U,2790996
+2020-07-29,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.347,1,0.3,0.3,J,2816261
+2020-07-29,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,28.65,1,0.3,0.3,U,2790979
+2020-08-04,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,10.34,1,0.3,0.3,U,2788633
+2020-08-04,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.109,1,0.3,0.3,U,2815909
+2020-08-04,1997,Lagoon at Festival Beach,PH,Standard units,8.09,1,0.3,0.3,U,2788641
+2020-08-04,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.631,1,0.3,0.3,U,2815910
+2020-08-04,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,30.27,1,0.3,0.3,U,2788637
+2020-08-11,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,7.72,1,0.3,0.3,U,2794228
+2020-08-11,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.098,1,0.3,0.3,U,2816562
+2020-08-11,1997,Lagoon at Festival Beach,PH,Standard units,7.69,1,0.3,0.3,U,2794236
+2020-08-11,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.445,1,0.3,0.3,J,2816638
+2020-08-11,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,29.07,1,0.3,0.3,U,2794232
+2020-08-18,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,9.88,1,0.3,0.3,U,2794080
+2020-08-18,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.0748,1,0.3,0.3,U,2816577
+2020-08-18,1997,Lagoon at Festival Beach,PH,Standard units,8.0,1,0.3,0.3,U,2794066
+2020-08-18,1997,Lagoon at Festival Beach,PHOSPHORUS AS P,MG/L,0.0244,1,0.3,0.3,U,2816579
+2020-08-18,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.544,1,0.3,0.3,J,2816578
+2020-08-18,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,30.77,1,0.3,0.3,U,2794155
+2020-09-01,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,9.05,1,0.3,0.3,U,2794329
+2020-09-01,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.165,1,0.3,0.3,U,2873896
+2020-09-01,1997,Lagoon at Festival Beach,PH,Standard units,8.02,1,0.3,0.3,U,2794339
+2020-09-01,1997,Lagoon at Festival Beach,PHOSPHORUS AS P,MG/L,0.035,1,0.3,0.3,U,2873893
+2020-09-01,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.657,1,0.3,0.3,U,2873894
+2020-09-01,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,27.77,1,0.3,0.3,U,2794334
+2020-09-08,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,9.55,1,0.3,0.3,U,2807322
+2020-09-08,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.0583,1,0.3,0.3,J,2873456
+2020-09-08,1997,Lagoon at Festival Beach,PH,Standard units,8.0,1,0.3,0.3,U,2807410
+2020-09-08,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.427,1,0.3,0.3,U,2873454
+2020-09-08,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,26.95,1,0.3,0.3,U,2807405
+2020-09-15,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,10.27,1,0.3,0.3,U,2811614
+2020-09-15,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.0391,1,0.3,0.3,U,2872299
+2020-09-15,1997,Lagoon at Festival Beach,PH,Standard units,7.96,1,0.3,0.3,U,2812264
+2020-09-15,1997,Lagoon at Festival Beach,PHOSPHORUS AS P,MG/L,0.0312,1,0.3,0.3,U,2872275
+2020-09-15,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.415,1,0.3,0.3,U,2872278
+2020-09-15,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,27.27,1,0.3,0.3,U,2811776
+2020-09-23,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,7.31,1,0.3,0.3,U,2824011
+2020-09-23,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.239,1,0.3,0.3,U,2869382
+2020-09-23,1997,Lagoon at Festival Beach,PH,Standard units,7.64,1,0.3,0.3,U,2824258
+2020-09-23,1997,Lagoon at Festival Beach,PHOSPHORUS AS P,MG/L,0.0225,1,0.3,0.3,U,2869385
+2020-09-23,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.405,1,0.3,0.3,U,2869383
+2020-09-23,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,23.95,1,0.3,0.3,U,2824016
+2020-10-06,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,11.86,1,0.3,0.3,U,2843325
+2020-10-06,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.217,1,0.3,0.3,U,2873639
+2020-10-06,1997,Lagoon at Festival Beach,PH,Standard units,8.12,1,0.3,0.3,U,2843335
+2020-10-06,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.606,1,0.3,0.3,U,2873638
+2020-10-06,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,25.08,1,0.3,0.3,U,2843330
+2020-10-13,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,11.43,1,0.3,0.3,U,2867850
+2020-10-13,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.142,1,0.3,0.3,J,2871827
+2020-10-13,1997,Lagoon at Festival Beach,PH,Standard units,7.77,1,0.3,0.3,U,2867868
+2020-10-13,1997,Lagoon at Festival Beach,PHOSPHORUS AS P,MG/L,0.0267,1,0.3,0.3,U,2871831
+2020-10-13,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.424,1,0.3,0.3,U,2871832
+2020-10-13,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,25.85,1,0.3,0.3,U,2867880
+2020-10-20,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,9.69,1,0.3,0.3,U,2869102
+2020-10-20,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.17,1,0.3,0.3,J,2872307
+2020-10-20,1997,Lagoon at Festival Beach,PH,Standard units,8.15,1,0.3,0.3,U,2869085
+2020-10-20,1997,Lagoon at Festival Beach,PHOSPHORUS AS P,MG/L,0.0218,1,0.3,0.3,U,2872320
+2020-10-20,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.488,1,0.3,0.3,U,2872321
+2020-10-20,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,25.13,1,0.3,0.3,U,2869149
+2020-10-27,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,7.26,1,0.3,0.3,U,2874241
+2020-10-27,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.374,1,0.3,0.3,U,2871759
+2020-10-27,1997,Lagoon at Festival Beach,PH,Standard units,7.9,1,0.3,0.3,U,2874258
+2020-10-27,1997,Lagoon at Festival Beach,PHOSPHORUS AS P,MG/L,0.0439,1,0.3,0.3,U,2871757
+2020-10-27,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.59,1,0.3,0.3,U,2871758
+2020-10-27,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,21.21,1,0.3,0.3,U,2874246
+2020-11-03,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,10.49,1,0.3,0.3,U,2874133
+2020-11-03,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.307,1,0.3,0.3,U,2873008
+2020-11-03,1997,Lagoon at Festival Beach,PH,Standard units,8.07,1,0.3,0.3,U,2874164
+2020-11-03,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.497,1,0.3,0.3,J,2873007
+2020-11-03,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,20.37,1,0.3,0.3,U,2874144
+2021-06-01,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,9.78,1,0.3,0.3,(blank),2895185
+2021-06-01,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.5,1,0.3,0.3,(blank),2896460
+2021-06-01,1997,Lagoon at Festival Beach,PH,Standard units,7.74,1,0.3,0.3,(blank),2895191
+2021-06-01,1997,Lagoon at Festival Beach,PHOSPHORUS AS P,MG/L,0.0314,1,0.3,0.3,(blank),2896462
+2021-06-01,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.491,1,0.3,0.3,(blank),2896461
+2021-06-01,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,26.29,1,0.3,0.3,(blank),2895188
+2021-06-11,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,9.48,1,0.3,0.3,(blank),2896423
+2021-06-11,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.419,1,0.3,0.3,(blank),2897577
+2021-06-11,1997,Lagoon at Festival Beach,PH,Standard units,7.8,1,0.3,0.3,(blank),2896437
+2021-06-11,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.341,1,0.3,0.3,(blank),2897578
+2021-06-11,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,27.06,1,0.3,0.3,(blank),2896430
+2021-06-24,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,8.29,1,0.3,0.3,(blank),2896699
+2021-06-24,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.374,1,0.3,0.3,(blank),2898396
+2021-06-24,1997,Lagoon at Festival Beach,PH,Standard units,7.64,1,0.3,0.3,(blank),2896705
+2021-06-24,1997,Lagoon at Festival Beach,PHOSPHORUS AS P,MG/L,0.092,1,0.3,0.3,(blank),2898395
+2021-06-24,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,1.04,1,0.3,0.3,(blank),2898394
+2021-06-24,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,29.06,1,0.3,0.3,(blank),2896702
+2021-07-06,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,12.67,1,0.3,0.3,(blank),2897056
+2021-07-06,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.234,1,0.3,0.3,(blank),2898266
+2021-07-06,1997,Lagoon at Festival Beach,PH,Standard units,8.03,1,0.3,0.3,(blank),2897264
+2021-07-06,1997,Lagoon at Festival Beach,PHOSPHORUS AS P,MG/L,0.0214,1,0.3,0.3,(blank),2898268
+2021-07-06,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.72,1,0.3,0.3,(blank),2898269
+2021-07-06,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,29.5,1,0.3,0.3,(blank),2897381
+2021-07-20,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,10.65,1,0.3,0.3,(blank),2897719
+2021-07-20,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.163,1,0.3,0.3,(blank),2903985
+2021-07-20,1997,Lagoon at Festival Beach,PH,Standard units,7.82,1,0.3,0.3,(blank),2897723
+2021-07-20,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.462,1,0.3,0.3,(blank),2903986
+2021-07-20,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,29.44,1,0.3,0.3,(blank),2897722
+2021-08-05,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,10.51,1,0.3,0.3,(blank),2897957
+2021-08-05,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.111,1,0.3,0.3,(blank),2903655
+2021-08-05,1997,Lagoon at Festival Beach,PH,Standard units,8.03,1,0.3,0.3,(blank),2897967
+2021-08-05,1997,Lagoon at Festival Beach,PHOSPHORUS AS P,MG/L,0.0212,1,0.3,0.3,(blank),2903657
+2021-08-05,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.421,1,0.3,0.3,(blank),2903656
+2021-08-05,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,28.72,1,0.3,0.3,(blank),2897962
+2021-08-20,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,13.59,1,0.3,0.3,(blank),2898429
+2021-08-20,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.0272,1,0.3,0.3,(blank),2903341
+2021-08-20,1997,Lagoon at Festival Beach,PH,Standard units,8.26,1,0.3,0.3,(blank),2898476
+2021-08-20,1997,Lagoon at Festival Beach,PHOSPHORUS AS P,MG/L,0.0651,1,0.3,0.3,(blank),2903343
+2021-08-20,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.51,1,0.3,0.3,(blank),2903342
+2021-08-20,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,30.52,1,0.3,0.3,(blank),2898452
+2021-09-13,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,10.93,1,0.3,0.3,(blank),2902788
+2021-09-13,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.0616,1,0.3,0.3,(blank),2906468
+2021-09-13,1997,Lagoon at Festival Beach,PH,Standard units,7.78,1,0.3,0.3,(blank),2902764
+2021-09-13,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.548,1,0.3,0.3,(blank),2906469
+2021-09-13,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,28.11,1,0.3,0.3,(blank),2902716
+2021-10-11,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,11.63,1,0.3,0.3,(blank),2906223
+2021-10-11,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.149,1,0.3,0.3,(blank),2907558
+2021-10-11,1997,Lagoon at Festival Beach,PH,Standard units,8.07,1,0.3,0.3,(blank),2906236
+2021-10-11,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.511,1,0.3,0.3,(blank),2907559
+2021-10-11,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,26.29,1,0.3,0.3,(blank),2906230
+2021-11-04,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,10.11,1,0.3,0.3,(blank),2907783
+2021-11-04,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.356,1,0.3,0.3,(blank),2907962
+2021-11-04,1997,Lagoon at Festival Beach,PH,Standard units,7.76,1,0.3,0.3,(blank),2907789
+2021-11-04,1997,Lagoon at Festival Beach,PHOSPHORUS AS P,MG/L,0.0226,1,0.3,0.3,(blank),2907964
+2021-11-04,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.442,1,0.3,0.3,(blank),2907963
+2021-11-04,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,20.27,1,0.3,0.3,(blank),2907786
+2022-05-30,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,9.75,1,0.3,0.3,(blank),2943193
+2022-05-30,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.0556,1,0.3,0.3,(blank),2946804
+2022-05-30,1997,Lagoon at Festival Beach,PH,Standard units,8.42,1,0.3,0.3,(blank),2943151
+2022-05-30,1997,Lagoon at Festival Beach,PHOSPHORUS AS P,MG/L,0.0284,1,0.3,0.3,(blank),2946806
+2022-05-30,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.36,1,0.3,0.3,(blank),2946805
+2022-05-30,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,27.0,1,0.3,0.3,(blank),2943199
+2022-06-14,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,9.83,1,0.3,0.3,(blank),2945386
+2022-06-14,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.0627,1,0.3,0.3,(blank),2946886
+2022-06-14,1997,Lagoon at Festival Beach,PH,Standard units,8.24,1,0.3,0.3,(blank),2945406
+2022-06-14,1997,Lagoon at Festival Beach,PHOSPHORUS AS P,MG/L,0.0249,1,0.3,0.3,(blank),2946888
+2022-06-14,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.621,1,0.3,0.3,(blank),2946887
+2022-06-14,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,28.16,1,0.3,0.3,(blank),2945396
+2022-06-27,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,10.16,1,0.3,0.3,(blank),2946210
+2022-06-27,1997,Lagoon at Festival Beach,PH,Standard units,8.56,1,0.3,0.3,(blank),2946221
+2022-06-27,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.349,1,0.3,0.3,(blank),2947527
+2022-06-27,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,28.44,1,0.3,0.3,(blank),2946215
+2022-07-11,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,11.92,1,0.3,0.3,(blank),2947287
+2022-07-11,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.0426,1,0.3,0.3,(blank),2950422
+2022-07-11,1997,Lagoon at Festival Beach,PH,Standard units,8.52,1,0.3,0.3,(blank),2947299
+2022-07-11,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.419,1,0.3,0.3,(blank),2950423
+2022-07-11,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,30.27,1,0.3,0.3,(blank),2947293
+2022-07-27,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,10.83,1,0.3,0.3,(blank),2948308
+2022-07-27,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.0357,1,0.3,0.3,(blank),2952011
+2022-07-27,1997,Lagoon at Festival Beach,PH,Standard units,8.44,1,0.3,0.3,(blank),2948348
+2022-07-27,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.888,1,0.3,0.3,(blank),2952012
+2022-07-27,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,29.21,1,0.3,0.3,(blank),2948328
+2022-08-08,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,12.21,1,0.3,0.3,(blank),2950970
+2022-08-08,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.0506,1,0.3,0.3,(blank),2952029
+2022-08-08,1997,Lagoon at Festival Beach,PH,Standard units,8.5,1,0.3,0.3,(blank),2950980
+2022-08-08,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.324,1,0.3,0.3,(blank),2952030
+2022-08-08,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,30.19,1,0.3,0.3,(blank),2950975
+2022-09-02,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,4.07,1,0.3,0.3,(blank),2952620
+2022-09-02,1997,Lagoon at Festival Beach,PH,Standard units,7.57,1,0.3,0.3,(blank),2952633
+2022-09-02,1997,Lagoon at Festival Beach,PHOSPHORUS AS P,MG/L,0.055,1,0.3,0.3,(blank),2954782
+2022-09-02,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.695,1,0.3,0.3,(blank),2954781
+2022-09-02,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,28.83,1,0.3,0.3,(blank),2952626
+2022-09-15,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,12.2,1,0.3,0.3,(blank),2953642
+2022-09-15,1997,Lagoon at Festival Beach,PH,Standard units,8.29,1,0.3,0.3,(blank),2954040
+2022-09-15,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.545,1,0.3,0.3,(blank),2954443
+2022-09-15,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,29.02,1,0.3,0.3,(blank),2953743
+2022-09-30,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,9.19,1,0.3,0.3,(blank),2955562
+2022-09-30,1997,Lagoon at Festival Beach,PH,Standard units,8.15,1,0.3,0.3,(blank),2955568
+2022-09-30,1997,Lagoon at Festival Beach,PHOSPHORUS AS P,MG/L,0.0334,1,0.3,0.3,(blank),2958057
+2022-09-30,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.705,1,0.3,0.3,(blank),2958056
+2022-09-30,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,27.31,1,0.3,0.3,(blank),2955565
+2022-10-14,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,11.62,1,0.3,0.3,(blank),2955703
+2022-10-14,1997,Lagoon at Festival Beach,PH,Standard units,8.47,1,0.3,0.3,(blank),2955715
+2022-10-14,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,27.08,1,0.3,0.3,(blank),2955709
+2022-11-08,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,8.88,1,0.3,0.3,(blank),2958538
+2022-11-08,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.181,1,0.3,0.3,(blank),2964584
+2022-11-08,1997,Lagoon at Festival Beach,PH,Standard units,8.3,1,0.3,0.3,(blank),2958550
+2022-11-08,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.4,1,0.3,0.3,(blank),2964587
+2022-11-08,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,23.22,1,0.3,0.3,(blank),2958544
+2023-05-12,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,10.21,1,0.3,0.3,(blank),2979740
+2023-05-12,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.131,1,0.3,0.3,(blank),2981591
+2023-05-12,1997,Lagoon at Festival Beach,PH,Standard units,8.26,1,0.3,0.3,(blank),2979758
+2023-05-12,1997,Lagoon at Festival Beach,PHOSPHORUS AS P,MG/L,0.191,1,0.3,0.3,(blank),2981593
+2023-05-12,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.64,1,0.3,0.3,(blank),2981596
+2023-05-12,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,26.89,1,0.3,0.3,(blank),2979749
+2023-05-25,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,15.02,1,0.3,0.3,(blank),2981985
+2023-05-25,1997,Lagoon at Festival Beach,PH,Standard units,8.5,1,0.3,0.3,(blank),2981899
+2023-05-25,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.64,1,0.3,0.3,(blank),2982543
+2023-05-25,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,28.05,1,0.3,0.3,(blank),2981828
+2023-06-09,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,15.8,1,0.3,0.3,(blank),2982226
+2023-06-09,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.147,1,0.3,0.3,(blank),2984099
+2023-06-09,1997,Lagoon at Festival Beach,PH,Standard units,8.41,1,0.3,0.3,(blank),2982248
+2023-06-09,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.57,1,0.3,0.3,(blank),2984104
+2023-06-09,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,28.34,1,0.3,0.3,(blank),2982232
+2023-06-29,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,9.24,1,0.3,0.3,(blank),2983037
+2023-06-29,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.0626,1,0.3,0.3,(blank),2984137
+2023-06-29,1997,Lagoon at Festival Beach,PH,Standard units,8.28,1,0.3,0.3,(blank),2983000
+2023-06-29,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.59,1,0.3,0.3,(blank),2984140
+2023-06-29,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,32.62,1,0.3,0.3,(blank),2982976
+2023-07-11,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,9.44,1,0.3,0.3,(blank),2983700
+2023-07-11,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.0638,1,0.3,0.3,(blank),2984692
+2023-07-11,1997,Lagoon at Festival Beach,PH,Standard units,8.43,1,0.3,0.3,(blank),2983714
+2023-07-11,1997,Lagoon at Festival Beach,PHOSPHORUS AS P,MG/L,0.096,1,0.3,0.3,(blank),2984694
+2023-07-11,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.51,1,0.3,0.3,(blank),2984669
+2023-07-11,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,32.72,1,0.3,0.3,(blank),2983807
+2023-07-28,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,7.83,1,0.3,0.3,(blank),2984793
+2023-07-28,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.0545,1,0.3,0.3,(blank),2993234
+2023-07-28,1997,Lagoon at Festival Beach,PH,Standard units,8.2,1,0.3,0.3,(blank),2984809
+2023-07-28,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.39,1,0.3,0.3,(blank),2993239
+2023-07-28,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,30.09,1,0.3,0.3,(blank),2984801
+2023-08-25,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,8.43,1,0.3,0.3,(blank),2988331
+2023-08-25,1997,Lagoon at Festival Beach,PH,Standard units,8.11,1,0.3,0.3,(blank),2988357
+2023-08-25,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.49,1,0.3,0.3,(blank),2993143
+2023-08-25,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,29.38,1,0.3,0.3,(blank),2988344
+2023-09-18,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,7.2,1,0.3,0.3,(blank),2991514
+2023-09-18,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.0848,1,0.3,0.3,(blank),2993188
+2023-09-18,1997,Lagoon at Festival Beach,PH,Standard units,7.85,1,0.3,0.3,(blank),2991540
+2023-09-18,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.58,1,0.3,0.3,(blank),2993191
+2023-09-18,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,28.29,1,0.3,0.3,(blank),2991527
+2023-10-02,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,8.11,1,0.3,0.3,(blank),2991968
+2023-10-02,1997,Lagoon at Festival Beach,PH,Standard units,8.1,1,0.3,0.3,(blank),2991980
+2023-10-02,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.41,1,0.3,0.3,(blank),2994615
+2023-10-02,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,28.63,1,0.3,0.3,(blank),2991974
+2023-11-08,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,11.28,1,0.3,0.3,(blank),2999230
+2023-11-08,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.0664,1,0.3,0.3,(blank),2999793
+2023-11-08,1997,Lagoon at Festival Beach,PH,Standard units,8.59,1,0.3,0.3,(blank),2999244
+2023-11-08,1997,Lagoon at Festival Beach,PHOSPHORUS AS P,MG/L,0.073,1,0.3,0.3,(blank),2999792
+2023-11-08,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.57,1,0.3,0.3,(blank),2999796
+2023-11-08,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,21.98,1,0.3,0.3,(blank),2999225
+2024-02-02,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,8.48,1,0.3,0.3,(blank),3004717
+2024-02-02,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,1.29,1,0.3,0.3,(blank),3006519
+2024-02-02,1997,Lagoon at Festival Beach,PH,Standard units,7.89,1,0.3,0.3,(blank),3004726
+2024-02-02,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.45,1,0.3,0.3,(blank),3006524
+2024-02-02,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,23.54,1,0.3,0.3,(blank),3004720
+2024-03-04,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,11.19,1,0.3,0.3,(blank),3006579
+2024-03-04,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,1.01,1,0.3,0.3,(blank),3008808
+2024-03-04,1997,Lagoon at Festival Beach,PH,Standard units,8.13,1,0.3,0.3,(blank),3006584
+2024-03-04,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.34,1,0.3,0.3,(blank),3008811
+2024-03-04,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,22.15,1,0.3,0.3,(blank),3006574
+2024-05-03,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,7.77,1,0.3,0.3,(blank),3011529
+2024-05-03,1997,Lagoon at Festival Beach,PH,Standard units,7.87,1,0.3,0.3,(blank),3011541
+2024-05-03,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.56,1,0.3,0.3,(blank),3012547
+2024-05-03,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,24.22,1,0.3,0.3,(blank),3011535
+2024-05-30,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,12.3,1,0.3,0.3,(blank),3012586
+2024-05-30,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.194,1,0.3,0.3,(blank),3013655
+2024-05-30,1997,Lagoon at Festival Beach,PH,Standard units,8.36,1,0.3,0.3,(blank),3012592
+2024-05-30,1997,Lagoon at Festival Beach,PHOSPHORUS AS P,MG/L,0.086,1,0.3,0.3,(blank),3013654
+2024-05-30,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.56,1,0.3,0.3,(blank),3013658
+2024-05-30,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,28.86,1,0.3,0.3,(blank),3012589
+2024-06-21,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,8.06,1,0.3,0.3,(blank),3013679
+2024-06-21,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.147,1,0.3,0.3,(blank),3014791
+2024-06-21,1997,Lagoon at Festival Beach,PH,Standard units,8.34,1,0.3,0.3,(blank),3013678
+2024-06-21,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.31,1,0.3,0.3,(blank),3014796
+2024-06-21,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,29.36,1,0.3,0.3,(blank),3013685
+2024-07-05,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,10.1,1,0.3,0.3,(blank),3014740
+2024-07-05,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.108,1,0.3,0.3,(blank),3015732
+2024-07-05,1997,Lagoon at Festival Beach,PH,Standard units,8.36,1,0.3,0.3,(blank),3014751
+2024-07-05,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.44,1,0.3,0.3,(blank),3015737
+2024-07-05,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,31.86,1,0.3,0.3,(blank),3014746
+2024-07-29,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,9.52,1,0.3,0.3,(blank),3015572
+2024-07-29,1997,Lagoon at Festival Beach,PH,Standard units,8.38,1,0.3,0.3,(blank),3015584
+2024-07-29,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.43,1,0.3,0.3,(blank),3016334
+2024-07-29,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,30.18,1,0.3,0.3,(blank),3015578
+2024-08-15,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,10.56,1,0.3,0.3,(blank),3016186
+2024-08-15,1997,Lagoon at Festival Beach,PH,Standard units,8.54,1,0.3,0.3,(blank),3016198
+2024-08-15,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.43,1,0.3,0.3,(blank),3016791
+2024-08-15,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,31.49,1,0.3,0.3,(blank),3016192
+2024-09-20,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,5.33,1,0.3,0.3,(blank),3017275
+2024-09-20,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.202,1,0.3,0.3,(blank),3017519
+2024-09-20,1997,Lagoon at Festival Beach,PH,Standard units,8.04,1,0.3,0.3,(blank),3017252
+2024-09-20,1997,Lagoon at Festival Beach,PHOSPHORUS AS P,MG/L,0.084,1,0.3,0.3,(blank),3017521
+2024-09-20,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.51,1,0.3,0.3,(blank),3017534
+2024-09-20,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,29.72,1,0.3,0.3,(blank),3017294
+2024-10-25,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,10.39,1,0.3,0.3,(blank),3021186
+2024-10-25,1997,Lagoon at Festival Beach,PH,Standard units,8.43,1,0.3,0.3,(blank),3021198
+2024-10-25,1997,Lagoon at Festival Beach,PHOSPHORUS AS P,MG/L,0.088,1,0.3,0.3,(blank),3022520
+2024-10-25,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.54,1,0.3,0.3,(blank),3022523
+2024-10-25,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,25.63,1,0.3,0.3,(blank),3021192
+2024-11-22,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,10.75,1,0.3,0.3,(blank),3022734
+2024-11-22,1997,Lagoon at Festival Beach,PH,Standard units,8.32,1,0.3,0.3,(blank),3022746
+2024-11-22,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.45,1,0.3,0.3,(blank),3026256
+2024-11-22,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,20.92,1,0.3,0.3,(blank),3022740
+2025-05-12,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,9.01,1,0.3,0.3,(blank),3042536
+2025-05-12,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.13,1,0.3,0.3,(blank),3043626
+2025-05-12,1997,Lagoon at Festival Beach,PH,Standard units,8.37,1,0.3,0.3,(blank),3042556
+2025-05-12,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.51,1,0.3,0.3,(blank),3043629
+2025-05-12,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,26.21,1,0.3,0.3,(blank),3042546
+2025-06-04,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,8.91,1,0.3,0.3,(blank),3044849
+2025-06-04,1997,Lagoon at Festival Beach,PH,Standard units,8.3,1,0.3,0.3,(blank),3044749
+2025-06-04,1997,Lagoon at Festival Beach,PHOSPHORUS AS P,MG/L,0.062,1,0.3,0.3,(blank),3048236
+2025-06-04,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.66,1,0.3,0.3,(blank),3048240
+2025-06-04,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,28.25,1,0.3,0.3,(blank),3044679
+2025-06-27,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,8.58,1,0.3,0.3,(blank),3047145
+2025-06-27,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.0523,1,0.3,0.3,(blank),3048551
+2025-06-27,1997,Lagoon at Festival Beach,PH,Standard units,8.26,1,0.3,0.3,(blank),3047017
+2025-06-27,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.67,1,0.3,0.3,(blank),3048556
+2025-06-27,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,29.43,1,0.3,0.3,(blank),3046960
+2025-07-11,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,9.988,1,0.3,0.3,(blank),3047356
+2025-07-11,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.11,1,0.3,0.3,(blank),3048975
+2025-07-11,1997,Lagoon at Festival Beach,PH,Standard units,8.509,1,0.3,0.3,(blank),3047368
+2025-07-11,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.72,1,0.3,0.3,(blank),3048980
+2025-07-11,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,28.39,1,0.3,0.3,(blank),3047362
+2025-08-01,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,10.08,1,0.3,0.3,(blank),3048920
+2025-08-01,1997,Lagoon at Festival Beach,PH,Standard units,8.23,1,0.3,0.3,(blank),3048932
+2025-08-01,1997,Lagoon at Festival Beach,PHOSPHORUS AS P,MG/L,0.078,1,0.3,0.3,(blank),3049677
+2025-08-01,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.69,1,0.3,0.3,(blank),3049680
+2025-08-01,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,30.48,1,0.3,0.3,(blank),3048926
+2025-08-22,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,7.7,1,0.3,0.3,(blank),3049747
+2025-08-22,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.25,1,0.3,0.3,(blank),3050027
+2025-08-22,1997,Lagoon at Festival Beach,PH,Standard units,8.08,1,0.3,0.3,(blank),3049759
+2025-08-22,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.46,1,0.3,0.3,(blank),3050032
+2025-08-22,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,31.1,1,0.3,0.3,(blank),3049753
+2025-09-12,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,8.42,1,0.3,0.3,(blank),3050166
+2025-09-12,1997,Lagoon at Festival Beach,PH,Standard units,8.25,1,0.3,0.3,(blank),3050178
+2025-09-12,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.54,1,0.3,0.3,(blank),3052635
+2025-09-12,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,28.96,1,0.3,0.3,(blank),3050172
+2025-10-03,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,8.22,1,0.3,0.3,(blank),3052671
+2025-10-03,1997,Lagoon at Festival Beach,PH,Standard units,8.07,1,0.3,0.3,(blank),3052683
+2025-10-03,1997,Lagoon at Festival Beach,PHOSPHORUS AS P,MG/L,0.172,1,0.3,0.3,(blank),3053477
+2025-10-03,1997,Lagoon at Festival Beach,TOTAL KJELDAHL NITROGEN AS N,MG/L,0.48,1,0.3,0.3,(blank),3053480
+2025-10-03,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,26.54,1,0.3,0.3,(blank),3052677
+2025-10-24,1997,Lagoon at Festival Beach,DISSOLVED OXYGEN,MG/L,7.69,1,0.3,0.3,(blank),3053614
+2025-10-24,1997,Lagoon at Festival Beach,NITRATE/NITRITE AS N,MG/L,0.0583,1,0.3,0.3,(blank),3055301
+2025-10-24,1997,Lagoon at Festival Beach,PH,Standard units,8.2,1,0.3,0.3,(blank),3053626
+2025-10-24,1997,Lagoon at Festival Beach,PHOSPHORUS AS P,MG/L,0.074,1,0.3,0.3,(blank),3055303
+2025-10-24,1997,Lagoon at Festival Beach,WATER TEMPERATURE,Deg. Celsius,25.63,1,0.3,0.3,(blank),3053620

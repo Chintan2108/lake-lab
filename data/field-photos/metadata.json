@@ -1,0 +1,42 @@
+{
+  "id": "field-photos",
+  "title": "Lady Bird Lake mat field photographs",
+  "agency": "Katherine A. Perri, Brent J. Bellinger, Matt P. Ashworth and Schonna R. Manning",
+  "kind": "Real image",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "sourceUrl": "https://doi.org/10.3390/toxins16020091",
+  "retrievedAt": "2026-10-10T03:47:10.621645+00:00",
+  "period": "2019-08-08 and 2019-08-12",
+  "recordCount": 2,
+  "countUnit": "photographs in one published figure",
+  "files": [
+    {
+      "path": "data/field-photos/red-bud-mats-2019.jpg",
+      "sha256": "463536fe991c465b4a18b1539d5ded9fcc3fd75fa7039477e738421975fae811",
+      "bytes": 89058
+    },
+    {
+      "path": "data/field-photos/images.json",
+      "sha256": "9c6a6b8695fbe0cfe4abb0ed20094b4bbc367d80bd9a3d83cd51e1e674079803",
+      "bytes": 1661
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://mdpi-res.com/d_attachment/toxins/toxins-16-00091/article_deploy/toxins-16-00091-v2.pdf",
+      "sha256": "b782f4d885779db11113ff61d69457a0240fba743b592dd187b348de85e7d260",
+      "retrievedAt": "2026-10-10T03:47:10.621645+00:00",
+      "access": "Previously retrieved publisher PDF supplied locally"
+    }
+  ],
+  "cleaning": [
+    "Original embedded JPEG extracted from page 3, Figure 2, without visual changes; both panels preserved."
+  ],
+  "limitations": [
+    "A source-identified example, not a rule for identifying every photo. Mat presence does not establish toxicity. No individual photographer is credited separately in the article.",
+    "The two panels are not independent training or validation sets."
+  ],
+  "script": "scripts/freeze-field-photos.py",
+  "scriptVersion": "1.0.0"
+}

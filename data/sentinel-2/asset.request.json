@@ -1,0 +1,6 @@
+{
+  "url": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/14/R/PU/2019/8/S2B_14RPU_20190813_0_L2A/TCI.tif",
+  "retrievedAt": "2026-10-10T03:26:32.240012+00:00",
+  "method": "HTTP byte-range crop via rasterio; full original not downloaded",
+  "cropSha256": "36e0030ee5738eed737cc7ad675ba6903a93f4d5b3f722bc9de07c9443932ef0"
+}
